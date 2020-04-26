@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:17 col:tel value:023-688-8781\n（内科）\n023-688-8681",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:26 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:26 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:26 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:26 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:26 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:26 col:postal_code value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:26 col:address",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:26 col:tel value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山形県.pdf"
+    }
+]

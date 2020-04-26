@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:076－274-1200",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:929‐1215",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:0767/57/5500",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:076（229９3033",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:９２４－０８８２",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:076-248-2122\nhttps://www.kokorono-cl.com/",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:(0761)73-0998",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:929－0124",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:0761－55－0166",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:929－2241",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:0767－66－0118",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:923－1271",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    }
+]

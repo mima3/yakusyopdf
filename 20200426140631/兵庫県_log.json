@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:669－2825",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:079－596－0003",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:postal_code value:669－2451",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:669－2202",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:669－2212",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:656－2401",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:662－0911",
+        "page": 25,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:0798－33－0210",
+        "page": 25,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:0798−67−1574",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:663−8113",
+        "page": 30,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:0798-41－1029",
+        "page": 30,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:",
+        "page": 33,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/兵庫県.pdf"
+    }
+]

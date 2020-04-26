@@ -1,0 +1,50 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:tel value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鹿児島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:0 col:tel value:099ｰ257-9052",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鹿児島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:0993−26−2101",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鹿児島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鹿児島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鹿児島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:tel value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鹿児島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:899－1921",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鹿児島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:0996－26－2211",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鹿児島県.pdf"
+    }
+]

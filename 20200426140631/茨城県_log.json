@@ -1,0 +1,446 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:３０２－００３８ 茨城県取手市下高井２３７１",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:address",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:３００－１２５２ 茨城県つくば市高見原１－２－３９",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:address",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:address",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:0 col:postal_code value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:0 col:address",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:0 col:tel value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:1 col:tel value:029－248-7087",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:029－222-3000",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:029－305-6655",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:029－241-8340",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:029－251-8038",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:029－231-0150",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:029－221-4821",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:tel value:029－297-3311",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:029－247-2232",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:0 col:postal_code value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:0 col:address",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:0 col:tel value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:address",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:address",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:address",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:address",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:address",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:300－0815",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:029―821-5748",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:tel value:029－826－7888",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:029－821-2368",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:029－843-6050",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:address",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:0299－27－6700",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:315−0037",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:0 col:postal_code value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:0 col:address",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:0 col:tel value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:address",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:305－0031",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:029－849－0177",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:300－2337",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:0297－58－5222",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:305−0035",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:1 col:tel value:029—839—3770",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:303－0023",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:0297－23－1135",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:0297－24－0662",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:address",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:0296‐33－2608",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:address",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:306－0631",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:0297－35-1011",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/茨城県.pdf"
+    }
+]

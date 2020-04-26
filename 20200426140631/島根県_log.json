@@ -1,0 +1,14 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:0852-27-8111\n(代表）",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/島根県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:693－0032",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/島根県.pdf"
+    }
+]

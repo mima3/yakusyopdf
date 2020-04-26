@@ -1,0 +1,62 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:内科 0835-33-\n1120\n小児科 0835-\n33-1130",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:083−228−1024",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:postal_code value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    }
+]

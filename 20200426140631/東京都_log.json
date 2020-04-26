@@ -1,0 +1,32 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:162ｰ0811",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:03ｰ6228ｰ1783",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:03-3777-7712 (cid:10) 070-7489-2324",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:03－3565－6639",
+        "page": 41,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:177ｰ0031",
+        "page": 54,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
+    }
+]

@@ -1,0 +1,1178 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:postal_code value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:20 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:21 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:19 col:postal_code value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:025－286-5363",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:15 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:postal_code value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:postal_code value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:tel value:025-250-7656(cid:10)",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:950－0962",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:15 col:postal_code value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:９５６－０８\n６４",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:0250－22－1047",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:postal_code value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:postal_code value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:name",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:９５９－１３\n９７",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:address",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:新潟県加茂市青海町１－９－１０２５６－５２－０７０１",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:postal_code value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:17 col:postal_code value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:name",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:19 col:postal_code value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:postal_code value:940－2105",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:19 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:20 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:21 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:22 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:23 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:①0258-35-3316　②0258-35-3700※平日14～16時",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:postal_code value:",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:17 col:postal_code value:",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:postal_code value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:21 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:23 col:name",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    }
+]

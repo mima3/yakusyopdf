@@ -1,0 +1,122 @@
+[
+    {
+        "address": "宮城県亘理郡亘理町字裏城戸179-1",
+        "cooperation": "",
+        "department": "内科",
+        "doctor": "三上裕嗣\n三上宏子",
+        "first": "○",
+        "name": "医療法人社団三上医院",
+        "postal_code": "989-2351",
+        "revisit": "○",
+        "tel": "0223-34-3711",
+        "url": ""
+    },
+    {
+        "address": "宮城県登米市迫町佐沼字中江3-7-7",
+        "cooperation": "登米市民病院（宮城県登米市迫町佐沼下田中25）",
+        "department": "消化器内科\n内科",
+        "doctor": "二瓶次郎\n二瓶公佑",
+        "first": "○",
+        "name": "二瓶内科胃腸科医院",
+        "postal_code": "987-0511",
+        "revisit": "○",
+        "tel": "0220-22-6508",
+        "url": "https://www.niheinaika.com/"
+    },
+    {
+        "address": "宮城県仙台市青葉区上杉1-9-17",
+        "cooperation": "",
+        "department": "内科\n整形外科\n泌尿器科",
+        "doctor": "西山昭光\n佐々木徹\n泡渕賢",
+        "first": "×",
+        "name": "宮城中央病院",
+        "postal_code": "980-0011",
+        "revisit": "○",
+        "tel": "022-224-1307",
+        "url": "http://www.miyachu-hp.or.jp"
+    },
+    {
+        "address": "宮城県栗原市若柳字川北堤下27",
+        "cooperation": "栗原市立栗原中央病院（栗原市築館宮野中央3丁目1-1）",
+        "department": "内科\n内科\n整形外科\nリウマチ科\n心療内科",
+        "doctor": "小林恒三郎\n松田明広\n石橋弘二\n高井修\n山内祐一",
+        "first": "×",
+        "name": "（医法）財団弘慈会石橋病院",
+        "postal_code": "989-5501",
+        "revisit": "〇",
+        "tel": "0228-32-2583",
+        "url": "http://www.kojikai.jp/"
+    },
+    {
+        "address": "宮城県東松島市赤井字台53-7",
+        "cooperation": "",
+        "department": "泌尿器科\n脳神経外科\n内科\n循環器内科\n皮膚科",
+        "doctor": "神部廣一\n新宅一郎\n山室拓\n白井修一\n新妻博\n加藤秀明\n神部眞理子\n神山泰彦\n江川南翔\n長南明道\n宗久雅人\n野村丈紘\n武川裕之\n柴田由比",
+        "first": "×",
+        "name": "医療法人社団仙石病院",
+        "postal_code": "981-0501",
+        "revisit": "〇",
+        "tel": "0225-83-2111",
+        "url": "https://senseki.com/"
+    },
+    {
+        "address": "宮城県仙台市泉区上谷刈字丸山6-1",
+        "cooperation": "",
+        "department": "整形外科",
+        "doctor": "根本忠信\n高原政利\n太田吉雄\n平山朋幸\n花香直美",
+        "first": "×",
+        "name": "医療法人泉整形外科病院",
+        "postal_code": "981-3121",
+        "revisit": "○",
+        "tel": "022-373-7377",
+        "url": "http://izumiseikei.com/"
+    },
+    {
+        "address": "宮城県仙台市泉区長命ヶ丘2丁目1-1",
+        "cooperation": "",
+        "department": "内科\n小児科",
+        "doctor": "浅利まみ\n川辺弘明",
+        "first": "×",
+        "name": "公益財団法人宮城厚生協会泉病院",
+        "postal_code": "981-3212",
+        "revisit": "○",
+        "tel": "022-378-5361",
+        "url": "https://www.m-kousei.com/izumi/"
+    },
+    {
+        "address": "宮城県多賀城市高橋2-15-28",
+        "cooperation": "東北医科薬科大学病院（宮城県仙台市宮城野区福室1-\n12-1）",
+        "department": "内科\n皮膚科",
+        "doctor": "黒本暁人\n西塚麻代",
+        "first": "〇",
+        "name": "多賀城あかざクリニック",
+        "postal_code": "985-0853",
+        "revisit": "〇",
+        "tel": "022-794-7201",
+        "url": "http://akaza-mc.com"
+    },
+    {
+        "address": "宮城県富谷市明石台7-1-5",
+        "cooperation": "",
+        "department": "内科\n小児科",
+        "doctor": "鵜木和久\n鎌田文顕",
+        "first": "○",
+        "name": "Town Clinic en",
+        "postal_code": "981-3332",
+        "revisit": "○",
+        "tel": "022-358-1976",
+        "url": "https://townclinic-en.jp/"
+    },
+    {
+        "address": "宮城県宮城郡利府町利府字新館2-5",
+        "cooperation": "",
+        "department": "内科",
+        "doctor": "高橋裕一",
+        "first": "×",
+        "name": "ゆうファミリークリニック",
+        "postal_code": "981-0112",
+        "revisit": "○",
+        "tel": "022-766-4141",
+        "url": "http://www.yu-family-clinic.com/"
+    }
+]

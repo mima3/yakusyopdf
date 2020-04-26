@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:０１０－０００１",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:018-874-8858\n080-1667-8894\n（担当者携帯：菅\n原）",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:011－0902",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:018－880－6060",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:019－1235",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:018－3331",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:0186－69－7311",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:010－0065",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:018－866-5533",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:postal_code value:015－0013",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:０１５－００５１",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:０１８４－２７\n－１３１３",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:010－0011",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:018－835－1210",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/秋田県.pdf"
+    }
+]

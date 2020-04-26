@@ -1,0 +1,8 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/栃木県.pdf"
+    }
+]

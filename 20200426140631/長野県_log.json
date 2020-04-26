@@ -1,0 +1,500 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが空です row:19 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:19 col:postal_code value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:26 col:postal_code value:３９７－８５５５",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:22 col:postal_code value:381－8567",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:22 col:tel value:026-296－1111",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:３８０－０９２８",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:postal_code value:384－8588",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:tel value:0267－22－1070",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:384－0084",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:0267－22－0901",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:19 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:20 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:31 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:32 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:33 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:40 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:41 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:42 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:48 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:49 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:50 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:54 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:63 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:67 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:68 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:25 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:28 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:33 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:37 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:38 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:39 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:42 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:43 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:46 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:47 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:48 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:55 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:57 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:58 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:61 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:66 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:68 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:72 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:25 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:26 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:30 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:37 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:49 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:50 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:51 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:22 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:23 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:26 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:28 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:30 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:52 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:55 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:62 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:21 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:22 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:25 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:27 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:28 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:31 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:52 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:0857-22-4319\n（精神科）\n0857-37-1177\n（内科）",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鳥取県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鳥取県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鳥取県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:address",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鳥取県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/鳥取県.pdf"
+    }
+]

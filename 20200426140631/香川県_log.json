@@ -1,0 +1,14 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:087‐843-3315",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/香川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:0875‐52‐3800",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/香川県.pdf"
+    }
+]

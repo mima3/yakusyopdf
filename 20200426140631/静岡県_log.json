@@ -1,0 +1,104 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:411－0945",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:（代）0545-73-\n1919\n（内科）0545-73-\n1918",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:address",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:address",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:address",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:431－0423",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:053－577－2333",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:053-474-2222\n（代表）",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/静岡県.pdf"
+    }
+]

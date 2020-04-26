@@ -1,0 +1,212 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:267‐0066",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:043－295⁻7887",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:047－474－0056",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:298－0215",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:047（402）0011",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:25 col:postal_code value:〒273-0121",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:25 col:tel value:０４７－４４２\n－０８１１",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:23 col:tel value:0479－72－0308",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:272－0033",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:postal_code value:２７２－０８３３",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:047(375)2930",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:０４７０－２９\n－７５０１",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:24 col:postal_code value:270‐2253",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:33 col:tel value:0436−62–5488",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:0475－25－8881",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:postal_code value:299－0298",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:0438－62－2746",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:postal_code value:270－1143",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:tel value:04－7182－5071",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:tel value:０４３－３１０\n－７０２１",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:27 col:postal_code value:290－0062",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:27 col:tel value:0436－41－0453",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:28 col:postal_code value:272－0015",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:28 col:tel value:047－333－6160",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:0478-82-3161\n電話のみ対応",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:postal_code value:294－0045",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:tel value:0470－28－5500",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:0 col:tel value:043-486－1151",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:postal_code value:２７９－０００２",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:tel value:０４７－７１１\n－１５１５",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:21 col:tel value:0478－55－1225",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:32 col:postal_code value:〒270-0014",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:0476‐28‐1212",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:047－472－8121",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:29 col:postal_code value:274－0063",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/千葉県.pdf"
+    }
+]

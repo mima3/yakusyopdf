@@ -1,0 +1,122 @@
+[
+    {
+        "address": "栃木県宇都宮市長岡町８４２",
+        "cooperation": "",
+        "department": "精神科",
+        "doctor": "",
+        "first": "○",
+        "name": "医療法人松籟会宇都宮西ヶ丘病院",
+        "postal_code": "320-0004",
+        "revisit": "○",
+        "tel": "028-621-3171",
+        "url": "http://www.nishigaoka-hosp.or.jp/"
+    },
+    {
+        "address": "栃木県宇都宮市陽南４－６－３４",
+        "cooperation": "国立病院機構栃木医療センター\n（栃木県宇都宮市中戸祭１－１０－３７）",
+        "department": "精神科・内科",
+        "doctor": "",
+        "first": "×",
+        "name": "医療法人報徳会宇都宮病院",
+        "postal_code": "320-0834",
+        "revisit": "○",
+        "tel": "028-658-2121",
+        "url": "http://wwwhotokukai.or.jp/"
+    },
+    {
+        "address": "栃木県宇都宮市石井町３３８５",
+        "cooperation": "",
+        "department": "精神科",
+        "doctor": "",
+        "first": "×",
+        "name": "医療法人宇都宮新直井病院",
+        "postal_code": "321-0912",
+        "revisit": "○",
+        "tel": "028-656-8600",
+        "url": ""
+    },
+    {
+        "address": "栃木県下野市柴１１２３",
+        "cooperation": "",
+        "department": "精神科",
+        "doctor": "",
+        "first": "×",
+        "name": "医療法人心救会小山富士見台病院",
+        "postal_code": "329-0412",
+        "revisit": "○",
+        "tel": "0285-44-0200",
+        "url": "https://www.oyama-fujimidai.or.jp"
+    },
+    {
+        "address": "栃木県小山市喜沢６６０",
+        "cooperation": "",
+        "department": "精神科",
+        "doctor": "",
+        "first": "×",
+        "name": "医療法人朝日会朝日病院",
+        "postal_code": "323-0014",
+        "revisit": "○",
+        "tel": "0285-22-1182",
+        "url": "http://www.asahi-hp.or.jp"
+    },
+    {
+        "address": "栃木県さくら市向河原４０９５",
+        "cooperation": "",
+        "department": "精神科・内科・消\n化器科",
+        "doctor": "",
+        "first": "×",
+        "name": "特定医療法人誠之会氏家病院",
+        "postal_code": "329-1326",
+        "revisit": "○",
+        "tel": "028-682-2911",
+        "url": "https://www.seishikai-hp.or.jp"
+    },
+    {
+        "address": "栃木県大田原市末広１－２－５",
+        "cooperation": "",
+        "department": "精神科・内科",
+        "doctor": "",
+        "first": "×",
+        "name": "医療法人大田原厚生会室井病院",
+        "postal_code": "324-0042",
+        "revisit": "○",
+        "tel": "0287-23-6622",
+        "url": "http://www.muroi-hp.jp/"
+    },
+    {
+        "address": "栃木県那須烏山市滝田１８６８",
+        "cooperation": "",
+        "department": "精神科",
+        "doctor": "",
+        "first": "×",
+        "name": "特定医療法人薫会烏山台病院",
+        "postal_code": "321-0605",
+        "revisit": "○",
+        "tel": "0287-82-2739",
+        "url": "http://karadai-hp.jp/"
+    },
+    {
+        "address": "栃木県足利市本城１－１５６０",
+        "cooperation": "",
+        "department": "精神科・内科\n心療内科",
+        "doctor": "",
+        "first": "×",
+        "name": "医療法人恵愛会青木病院",
+        "postal_code": "326-0808",
+        "revisit": "○",
+        "tel": "0284-41-2213",
+        "url": "http://www.aoki-byouin.com/"
+    },
+    {
+        "address": "栃木県足利市田所町１１０２－１",
+        "cooperation": "",
+        "department": "精神科・心療内\n科・小児心療科・\n児童精神科",
+        "doctor": "",
+        "first": "×",
+        "name": "医療法人恵愛会さくら通りクリニック",
+        "postal_code": "326-0066",
+        "revisit": "○",
+        "tel": "",
+        "url": "http://www.sakurast-clinic.com"
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:address",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:address",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:address",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:address",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:address",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:address",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:address",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:address",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:address",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:address",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:address",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:address",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:0742ｰ20-6220",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:15 col:tel value:0742ｰ53-7716",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:3 col:address",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:0742ｰ93-5220",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:0745ｰ71-2122",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:0744ｰ24-6460",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:postal_code value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:address",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:0744ｰ20-2555",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:0745ｰ94-2212",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:0744ｰ23-5722",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:0743ｰ53-7741",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:tel value:0745ｰ43-6868",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:15 col:tel value:0745ｰ24-3535",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:tel value:0744ｰ27-4575",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:0745ｰ92-3741",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:address",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:address",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:tel value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:address",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:address",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:address",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:tel value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:name",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:postal_code value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:address",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:tel value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    }
+]

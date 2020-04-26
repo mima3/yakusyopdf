@@ -1,0 +1,32 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/京都府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:postal_code value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/京都府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:address",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/京都府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/京都府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:postal_code value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/京都府.pdf"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:017－734-2171",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/青森県.pdf"
+    }
+]

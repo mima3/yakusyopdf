@@ -1,0 +1,620 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:postal_code value:096－0031",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:01654－3－3911",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:090－8509",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:postal_code value:099－6329",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:01586－2－2001",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:8 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:9 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:10 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:12 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:15 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:15 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:15 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:16 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:17 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:17 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:17 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:18 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:19 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:19 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:19 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:19 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:20 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:20 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:21 col:name",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:21 col:postal_code value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:21 col:address",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:21 col:tel value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:address",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:address",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:6 col:address",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:address",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:postal_code value:080－0012",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:0155－27－2301",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:postal_code value:０８２－００３０",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:0155－62－2035",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:postal_code value:080－0836",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:0155－47－4811",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:postal_code value:004－0041",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:011－890－1110",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:０１１−５６１−5111",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:０６０−００４２",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:０１１−２３２−５５６\n４",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:postal_code value:060−0011",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:tel value:011−738−6613",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:(011)761-2395",
+        "page": 28,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:postal_code value:001－0926",
+        "page": 28,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:18 col:tel value:011－761－1187",
+        "page": 28,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:011-398-3947\n011-746-3988（代\n表）",
+        "page": 29,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:postal_code value:065－0031",
+        "page": 29,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:20 col:tel value:011－789－0010",
+        "page": 29,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:011－853-1331",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:011−851−0610",
+        "page": 33,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:postal_code value:006－0815",
+        "page": 37,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:16 col:tel value:011－684－5111",
+        "page": 37,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:postal_code value:041－0802",
+        "page": 40,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:11 col:tel value:0138－46－6660",
+        "page": 40,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
+    }
+]

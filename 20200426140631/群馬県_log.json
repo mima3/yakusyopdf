@@ -1,0 +1,38 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:027－253-5600",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/群馬県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:371−0812",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/群馬県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:027−263-2535",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/群馬県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:371−0816",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/群馬県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:027−290−3131",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/群馬県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:0277−70−7575",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/群馬県.pdf"
+    }
+]

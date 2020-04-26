@@ -1,0 +1,194 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:11 col:name",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:tel value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:postal_code value:400－0851",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:postal_code value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:13 col:address",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:13 col:tel value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:2 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:9 col:tel value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:10 col:tel value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:12 col:tel value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:19 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:20 col:name",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:5 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:5 col:tel value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:8 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:14 col:name",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:14 col:tel value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:2 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:0554ｰ66ｰ1006",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:409ｰ0015",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:0554－63ｰ3600",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:17 col:tel value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:19 col:name",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山梨県.pdf"
+    }
+]

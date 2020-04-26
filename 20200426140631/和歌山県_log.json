@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが空です row:1 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:1 col:postal_code value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:1 col:address",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:1 col:tel value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:6 col:tel value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:address",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/和歌山県.pdf"
+    }
+]

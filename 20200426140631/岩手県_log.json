@@ -1,0 +1,56 @@
+[
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:name",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:7 col:address",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:7 col:tel value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:3 col:tel value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:name",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが空です row:4 col:address",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "データが数値ではありません row:4 col:tel value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岩手県.pdf"
+    }
+]
