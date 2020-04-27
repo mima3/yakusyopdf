@@ -957,7 +957,7 @@
         "postal_code": "910-0017",
         "revisit": "○",
         "tel": "0776-22-2666",
-        "url": "ｈｔｔｐｓ：//ｔａｗａｒａｍａｃｈｉ.ｊｐ"
+        "url": "https://tawaramachi.jp"
     },
     {
         "address": "福井県福井市川合鷲塚町49-6-1",
@@ -1076,8 +1076,8 @@
         "name": "奥村整形外科クリニック",
         "postal_code": "910-0021",
         "revisit": "○",
-        "tel": "",
-        "url": "0776-28-1550http://www.okumura-seikei.ecnet.jp/"
+        "tel": "0776-28-1550",
+        "url": "http://www.okumura-seikei.ecnet.jp/"
     },
     {
         "address": "福井県あわら市花乃杜１－２－３９",
@@ -1245,7 +1245,7 @@
         "postal_code": "915-0814",
         "revisit": "〇",
         "tel": "0778-22-1607",
-        "url": "hp-jimu＠aiki.or.jp"
+        "url": "hp-jimu@aiki.or.jp"
     },
     {
         "address": "福井県福井市文京７丁目１０－２",

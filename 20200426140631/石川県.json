@@ -213,7 +213,7 @@
         "postal_code": "925-0447",
         "revisit": "○",
         "tel": "0767-42-1151",
-        "url": "ｈｔｔｐs://mukai.clinic"
+        "url": "https://mukai.clinic"
     },
     {
         "address": "石川県小松市土居原町303番地",
@@ -417,7 +417,7 @@
         "postal_code": "920-0858",
         "revisit": "○",
         "tel": "076-235-4114",
-        "url": "ｖｉｅｃ＠ｖｉｅｃ．Ｊｐ"
+        "url": "viec@viec.Jp"
     },
     {
         "address": "石川県野々市市郷1丁目131番地",
@@ -645,7 +645,7 @@
         "postal_code": "929-1215",
         "revisit": "○",
         "tel": "076-281-0069",
-        "url": "無し（電話のみ）"
+        "url": "無し(電話のみ)"
     },
     {
         "address": "石川県小松市園町ホ99番地1",
@@ -716,8 +716,8 @@
         "name": "野々市こころのクリニック",
         "postal_code": "921-8809",
         "revisit": "○",
-        "tel": "076-248-2122\nhttps://www.kokorono-cl.com/",
-        "url": ""
+        "tel": "076-248-2122",
+        "url": "https://www.kokorono-cl.com/"
     },
     {
         "address": "石川県河北郡津幡町加賀爪リ20",

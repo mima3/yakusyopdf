@@ -6,6 +6,12 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/徳島県.pdf"
     },
     {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:徳島県那賀郡那賀町木頭和無田字イワツシ1番地 0884-68-2102->徳島県那賀郡那賀町木頭和無田字イワツシ1番地 , 0884-68-2102",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/徳島県.pdf"
+    },
+    {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:16 col:2 value:770-052",
         "page": 9,

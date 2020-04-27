@@ -18,8 +18,20 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:医療法人　おおうち内科クリニック 833-0056->医療法人　おおうち内科クリニック , 833-0056",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
+    },
+    {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:19 col:2 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:医療法人　あすなろ内科クリニック802-0023->医療法人　あすなろ内科クリニック, 802-0023",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
@@ -42,8 +54,20 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:医療法人　よしの胃腸内科クリニック807-0827->医療法人　よしの胃腸内科クリニック, 807-0827",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
+    },
+    {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:7 col:2 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:医療法人医和基会　金刀比羅診療所804-0022->医療法人医和基会　金刀比羅診療所, 804-0022",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     }

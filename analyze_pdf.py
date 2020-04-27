@@ -4,6 +4,7 @@ import camelot
 import csv
 import copy
 import mojimoji
+import re
 from tqdm import tqdm
 
 
@@ -12,6 +13,7 @@ class AnalyzePdf:
     target_path = ''
     page = 0
     rule = {}
+    fixrec_func = None
 
     def info(self, s):
         self.log.append({
@@ -59,20 +61,21 @@ class AnalyzePdf:
                 self.info("空行のため処理をスキップします:{}".format(ix))
                 continue
             for k in self.rule['columns']:
-               col_ix = self.rule['columns'][k]['index']
-               v = df.loc[ix][col_ix]
-               chk_error = ""
-               if 'chk_func' in self.rule['columns'][k]:
-                   chk_method = getattr(self, self.rule['columns'][k]['chk_func'])
-                   chk_error = chk_method(v)
-                   if chk_error:
-                       self.warn("{} index:{} col:{} value:{}".format(chk_error, ix, col_ix, v))
+                col_ix = self.rule['columns'][k]['index']
+                v = df.loc[ix][col_ix]
+                chk_error = ""
+                if 'chk_func' in self.rule['columns'][k]:
+                    chk_method = getattr(self, self.rule['columns'][k]['chk_func'])
+                    chk_error = chk_method(v)
+                    if chk_error:
+                        self.warn("{} index:{} col:{} value:{}".format(chk_error, ix, col_ix, v))
 
-               if 'cnv_func' in self.rule['columns'][k] and not chk_error:
-                   cnv_method = getattr(self, self.rule['columns'][k]['cnv_func'])
-                   v = cnv_method(v)
-               rec[k] = v
-
+                if 'cnv_func' in self.rule['columns'][k] and not chk_error:
+                    cnv_method = getattr(self, self.rule['columns'][k]['cnv_func'])
+                    v = cnv_method(v)
+                rec[k] = v
+            if self.fixrec_func:
+                rec = self.fixrec_func(rec, self.info)
             ret.append(rec)
         return ret
 
@@ -95,11 +98,12 @@ class AnalyzePdf:
         return ret
 
 
-    def parse_pdf(self, path, rule):
+    def parse_pdf(self, path, rule, fixrec_func = None):
         self.target_path = path
         self.rule = rule
         self.page = 0
         self.log = []
+        self.fixrec_func = fixrec_func
         ret = []
         handler=camelot.handlers.PDFHandler(path)
         pages = handler._get_pages(path, pages="all")
@@ -108,19 +112,26 @@ class AnalyzePdf:
            ret.extend(page_ret)
         return ret
 
-
-    def conv_oneline(self, s):
+    @classmethod
+    def conv_oneline(cls, s):
         s = s.replace('\n', '')
         s = s.replace('\r', '')
         return s
 
-    def chk_required(self, s):
+    @classmethod
+    def conv_url(cls, s):
+        s = cls.conv_oneline(s)
+        return mojimoji.zen_to_han(s)
+
+    @classmethod
+    def chk_required(cls, s):
         if not s.strip():
             return "値が存在しません."
         return ""
 
-    def conv_number(self, s):
-        s = self.conv_oneline(s)
+    @classmethod
+    def conv_number(cls, s):
+        s = cls.conv_oneline(s)
         s = mojimoji.zen_to_han(s)
         s = s.strip()
         s = s.replace('〒', '')
@@ -135,15 +146,71 @@ class AnalyzePdf:
         s = s.replace(')', '')
         return s
 
-    def conv_postal_code(self, s):
-        s = self.conv_number(s)
+    @classmethod
+    def conv_postal_code(cls, s):
+        s = cls.conv_number(s)
         return s[0:3] + "-" + s[3:]
 
-    def chk_postal_code(self, s):
-        s = self.conv_number(s)
+    @classmethod
+    def chk_postal_code(cls, s):
+        s = cls.conv_number(s)
         if not s.isdigit() or len(s) != 7:
             return "郵便番号の形式ではありません"
         return ""
+
+def fix_record(rec, log):
+    if not rec['postal_code']:
+        # 郵便番号がない場合
+        if rec['name']:
+            # 施設名に混在しているか確認
+            # ※郵便番号に表記の揺れがあったらあきらめる
+            name = rec['name']
+            m = re.search("[0-9]{3}-[0-9]{4}", name)
+            if m:
+                rec['name'] = name[0:m.span()[0]]
+                rec['postal_code'] = m.group()
+                log("postal_codeが空のためnameから値を取得しました. name:{}->{}, {}".format(name, rec['name'], rec['postal_code']))
+    if not rec['tel']:
+        # 電話番号がない場合
+        if rec['url']:
+            # urlに混在している場合
+            url = rec['url']
+            m = re.match(r'[\d-]+', url)
+            if m:
+                rec['tel'] = m.group()
+                rec['url'] = url[m.span()[1]:]
+                log("telが空のためurlから値を取得しました. url:{}->{}, {}".format(url, rec['tel'], rec['url']))
+        if rec['address']:
+            # addressに混在している場合
+            # ※電話番号に表記の揺れがあったらあきらめる
+            address = rec['address']
+            m = re.search(r'0[0-9]{1}-[0-9]{4}-[0-9]{4}|0[0-9]{2}-[0-9]{3}-[0-9]{4}|0[0-9]{3}-[0-9]{2}-[0-9]{4}|0[0-9]{4}-[0-9]{1}-[0-9]{4}', address)
+            if m:
+                rec['address'] = address[0:m.span()[0]]
+                rec['tel'] = m.group()
+                log("telが空のためaddressから値を取得しました. address:{}->{}, {}".format(address, rec['address'], rec['tel']))
+    else:
+        # 電話番号ある場合
+        tel = mojimoji.zen_to_han(rec['tel'])
+        if not rec['url']:
+            # URLと結合していないか確認する。メールアドレスの場合もあるのであくまで暫定対応になる.
+            ix = rec['tel'].find('http')
+            if ix != -1:
+                rec['tel'] = tel[:ix-1]
+                rec['url'] = AnalyzePdf.conv_url(tel[ix:])
+                log("telにhttpを検出したためurlにコピーします. tel:{}->{}, {}".format(tel, rec['tel'], rec['url']))
+
+    if not rec['address']:
+        if rec['tel']:
+            # 電話番号はある場合
+            tel = mojimoji.zen_to_han(rec['tel'])
+            m = re.search(r'0[0-9]{1}-[0-9]{4}-[0-9]{4}|0[0-9]{2}-[0-9]{3}-[0-9]{4}|0[0-9]{3}-[0-9]{2}-[0-9]{4}|0[0-9]{4}-[0-9]{1}-[0-9]{4}', tel)
+            if m and m.span()[0] != 0:
+                rec['address'] = mojimoji.han_to_zen(tel[0:m.span()[0]])
+                rec['tel'] = m.group()
+                log("addressが空のためtelから値を取得しました. tel:{}->{}, {}".format(tel, rec['address'], rec['tel']))
+
+    return rec
 
 if __name__ == '__main__':
     argvs = sys.argv
@@ -184,7 +251,7 @@ if __name__ == '__main__':
            },
            "url": {
                "index" : 5, 
-               "cnv_func" : "conv_oneline"
+               "cnv_func" : "conv_url"
            },
            "first": {
                "index" : 6, 
@@ -263,8 +330,8 @@ if __name__ == '__main__':
     rules['徳島県']['accuracy'] = 90.0
     #
     # URLとTELが結合するため調整が必要
-    #rules['和歌山県'] = copy.deepcopy(default_rule)
-    #rules['和歌山県']['other_page_offset'] = 0
+    rules['和歌山県'] = copy.deepcopy(default_rule)
+    rules['和歌山県']['other_page_offset'] = 0
     #rules['和歌山県']['char_margin'] = 0.05
     #rules['広島県'] = copy.deepcopy(default_rule)
     #rules['広島県']['char_margin'] = 0.25    
@@ -290,7 +357,7 @@ if __name__ == '__main__':
         rule = default_rule
         if data['name'] in rules:
             rule = rules[data['name']]
-        result = pdf.parse_pdf(data['local'], rule) 
+        result = pdf.parse_pdf(data['local'], rule, fix_record) 
         with open('{}/{}.json'.format(dst_folder, data['name']), mode='w', encoding='utf8') as fp:
             json.dump(result, fp, sort_keys = True, indent = 4, ensure_ascii=False)
 

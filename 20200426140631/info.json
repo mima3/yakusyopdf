@@ -1,16 +1,16 @@
 {
     "download_time": "2020-04-26 14:06:32.273186",
-    "list": [
+    "listx": [
         {
-            "local": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf",
-            "name": "長野県",
-            "url": "https://www.mhlw.go.jp/content/000625000.pdf"
+            "local": "C:\\dev\\python3\\yakusyopdf/20200426140631/長崎県.pdf",
+            "name": "長崎県",
+            "url": "https://www.mhlw.go.jp/content/000625116.pdf"
 
 
         }
 
     ],
-    "listⓍ": [
+    "list": [
         {
             "local": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf",
             "name": "北海道",

@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "kind": "info",
+        "message": "telにhttpを検出したためurlにコピーします. tel:076-248-2122\nhttps://www.kokorono-cl.com/->076-248-2122, https://www.kokorono-cl.com/",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/石川県.pdf"
+    }
+]

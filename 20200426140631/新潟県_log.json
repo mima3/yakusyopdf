@@ -12,6 +12,12 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
     },
     {
+        "kind": "info",
+        "message": "addressが空のためtelから値を取得しました. tel:新潟県加茂市青海町1-9-10256-52-0701->新潟県加茂市青海町１－９－１, 0256-52-0701",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/新潟県.pdf"
+    },
+    {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:4 col:2 value:",
         "page": 12,

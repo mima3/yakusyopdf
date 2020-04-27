@@ -448,11 +448,5 @@
         "message": "郵便番号の形式ではありません index:7 col:2 value:600007",
         "page": 15,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:10 col:2 value:060ー0062",
-        "page": 25,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf"
     }
 ]

@@ -4,5 +4,11 @@
         "message": "郵便番号の形式ではありません index:3 col:2 value:",
         "page": 1,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:さくらぎ循環器・内科クリニック740-0018->さくらぎ循環器・内科クリニック, 740-0018",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/山口県.pdf"
     }
 ]

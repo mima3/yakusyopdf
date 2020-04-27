@@ -84,6 +84,18 @@
         "url": ""
     },
     {
+        "address": "和歌山県田辺市新庄町46-70",
+        "cooperation": "なし",
+        "department": "全科\n（産婦人科除\nく）",
+        "doctor": "全員",
+        "first": "×",
+        "name": "紀南病院",
+        "postal_code": "646-8588",
+        "revisit": "〇",
+        "tel": "0739-22-5000",
+        "url": "http://www.kinan-hp.tanabe.wakayama.jp/"
+    },
+    {
         "address": "和歌山県田辺市たきない町２７－１",
         "cooperation": "",
         "department": "全科",
@@ -140,8 +152,8 @@
         "name": "医療法人健仁会三谷医院",
         "postal_code": "649-2211",
         "revisit": "○",
-        "tel": "",
-        "url": "0739-42-3606https://www.mitani-clinic-shirahama.com/"
+        "tel": "0739-42-3606",
+        "url": "https://www.mitani-clinic-shirahama.com/"
     },
     {
         "address": "田辺市下万呂３９３－５",
@@ -262,6 +274,30 @@
         "revisit": "○",
         "tel": "0739-74-3269",
         "url": ""
+    },
+    {
+        "address": "和歌山県西牟婁郡白浜町3220-9",
+        "cooperation": "",
+        "department": "小児科\nアレルギー科",
+        "doctor": "福原　仁雄",
+        "first": "①のみ可",
+        "name": "ふくはらこどもクリニック",
+        "postal_code": "646-0027",
+        "revisit": "○",
+        "tel": "0739-33-7711",
+        "url": "https://www.fukuhara-kodomo.com/"
+    },
+    {
+        "address": "和歌山県伊都郡高野町大字高野山６３１番地",
+        "cooperation": "高野山総合診療所",
+        "department": "内科",
+        "doctor": "田中　瑛一朗\n　　田村　忠彦",
+        "first": "×",
+        "name": "高野山総合診療所",
+        "postal_code": "648-0211",
+        "revisit": "〇",
+        "tel": "0736-56-2911",
+        "url": "http://www.town.koya.wakayama.jp/health/hospital/"
     },
     {
         "address": "和歌山県伊都郡高野町西富貴46",

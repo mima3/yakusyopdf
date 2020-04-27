@@ -33,7 +33,7 @@
         "postal_code": "812-0011",
         "revisit": "〇",
         "tel": "092-431-1680",
-        "url": "ｗｗｗ.hayashi.or.jp"
+        "url": "www.hayashi.or.jp"
     },
     {
         "address": "福岡県福岡市早良区田村2-15-1",
@@ -1653,7 +1653,7 @@
         "postal_code": "814-0011",
         "revisit": "〇",
         "tel": "092-846-3121",
-        "url": "ｗｗｗ.takeru-eye.com"
+        "url": "www.takeru-eye.com"
     },
     {
         "address": "福岡県福岡市早良区野芥4-2-15",
@@ -2753,8 +2753,8 @@
         "department": "内科",
         "doctor": "大内　和弘",
         "first": "〇",
-        "name": "医療法人　おおうち内科クリニック 833-0056",
-        "postal_code": "",
+        "name": "医療法人　おおうち内科クリニック ",
+        "postal_code": "833-0056",
         "revisit": "〇",
         "tel": "0942-54-0600",
         "url": "ouchi@lime.ocn.ne.jp"
@@ -2825,8 +2825,8 @@
         "department": "内科",
         "doctor": "河野　重行",
         "first": "〇",
-        "name": "医療法人　あすなろ内科クリニック802-0023",
-        "postal_code": "",
+        "name": "医療法人　あすなろ内科クリニック",
+        "postal_code": "802-0023",
         "revisit": "〇",
         "tel": "093-521-0035",
         "url": "http://asunaro-cl.com"
@@ -3029,8 +3029,8 @@
         "department": "内科",
         "doctor": "吉野　総平",
         "first": "〇",
-        "name": "医療法人　よしの胃腸内科クリニック807-0827",
-        "postal_code": "",
+        "name": "医療法人　よしの胃腸内科クリニック",
+        "postal_code": "807-0827",
         "revisit": "〇",
         "tel": "601-5003",
         "url": "yoshino-icho.com"
@@ -3053,8 +3053,8 @@
         "department": "内科",
         "doctor": "桐谷　浩一",
         "first": "",
-        "name": "医療法人医和基会　金刀比羅診療所804-0022",
-        "postal_code": "",
+        "name": "医療法人医和基会　金刀比羅診療所",
+        "postal_code": "804-0022",
         "revisit": "〇",
         "tel": "873-8733",
         "url": ""

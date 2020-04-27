@@ -537,7 +537,7 @@
         "postal_code": "730-0016",
         "revisit": "○",
         "tel": "082-228-6661",
-        "url": "http://ｗｗｗ.hmh.or.jp/"
+        "url": "http://www.hmh.or.jp/"
     },
     {
         "address": "広島市中区千田町三丁目8番6号",
@@ -1136,8 +1136,8 @@
         "name": "広島医療生活協同組合広島共立病院",
         "postal_code": "731-0121",
         "revisit": "○",
-        "tel": "",
-        "url": "082-879-1111www.hiroshimairyo.or.jp/outline/template.html"
+        "tel": "082-879-1111",
+        "url": "www.hiroshimairyo.or.jp/outline/template.html"
     },
     {
         "address": "広島県広島市安佐南区西原8丁目29番24号",
@@ -1160,8 +1160,8 @@
         "name": "たなべ春日野クリニック",
         "postal_code": "731-0139",
         "revisit": "○",
-        "tel": "",
-        "url": "082-554-1447https://www.tanabe-kasugano-clinic.com"
+        "tel": "082-554-1447",
+        "url": "https://www.tanabe-kasugano-clinic.com"
     },
     {
         "address": "広島県広島市安佐南区祇園5丁目2-45-204",
@@ -1364,8 +1364,8 @@
         "name": "医療法人社団恵正会　二宮内科",
         "postal_code": "731-0221",
         "revisit": "○",
-        "tel": "",
-        "url": "082-810-0188https://keiseikai-nmn.net/wp3/ninomiya/"
+        "tel": "082-810-0188",
+        "url": "https://keiseikai-nmn.net/wp3/ninomiya/"
     },
     {
         "address": "広島県広島市安佐北区落合5-1-10",
@@ -2757,7 +2757,7 @@
         "postal_code": "720-1131",
         "revisit": "○",
         "tel": "084-970-1711",
-        "url": "http://wwｗ.nojima-hc.com"
+        "url": "http://www.nojima-hc.com"
     },
     {
         "address": "広島県福山市三吉町南二丁目11番22号",

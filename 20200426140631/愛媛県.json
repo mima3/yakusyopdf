@@ -185,8 +185,8 @@
         "department": "内科",
         "doctor": "吉田　克己",
         "first": "",
-        "name": "愛媛医療生活協同組合泉川診療所792-0821",
-        "postal_code": "",
+        "name": "愛媛医療生活協同組合泉川診療所",
+        "postal_code": "792-0821",
         "revisit": "○",
         "tel": "0897-41-6110",
         "url": "http://www.ehime-med.or.jp"
@@ -233,8 +233,8 @@
         "department": "耳鼻咽喉科",
         "doctor": "篠原　孝之",
         "first": "○",
-        "name": "弁財天耳鼻咽喉科クリニック793-0030",
-        "postal_code": "",
+        "name": "弁財天耳鼻咽喉科クリニック",
+        "postal_code": "793-0030",
         "revisit": "○",
         "tel": "0897-58-5959",
         "url": "https://www.benzaiten-clinic.jp"
@@ -353,11 +353,11 @@
         "department": "心臓血管外科・\n外科・乳腺甲状\n腺外科・消化器\n外科・整形外\n科・泌尿器科・\n循環器内科・耳\n鼻咽喉科",
         "doctor": "曽我部仁史・藤\n田 博・戸田\n茂・渡部昌信・\n松田良一・田中\n仁・近藤元洋・\n寺戸 隆・川田\n晃弘・市川\n忍・寺内靖順",
         "first": "",
-        "name": "社会医療法人真泉会　　今治第一病院 794-0052",
-        "postal_code": "",
+        "name": "社会医療法人真泉会　　今治第一病院 ",
+        "postal_code": "794-0052",
         "revisit": "○",
-        "tel": "（0898）23－2000http://www.imabari-daiichi.com/",
-        "url": ""
+        "tel": "(0898)23-200",
+        "url": "http://www.imabari-daiichi.com/"
     },
     {
         "address": "愛媛県今治市北日吉町1-10-50",
@@ -369,7 +369,7 @@
         "postal_code": "794-0054",
         "revisit": "○\n（定期投薬のみ）",
         "tel": "0898-23-3358",
-        "url": "https：//www.juntenkai.jp/"
+        "url": "https://www.juntenkai.jp/"
     },
     {
         "address": "愛媛県今治市南日吉町２丁目３－２１",
@@ -609,7 +609,7 @@
         "postal_code": "799-3101",
         "revisit": "〇",
         "tel": "089-983-2222",
-        "url": "http://wwｗ/iyohp.jp/"
+        "url": "http://www/iyohp.jp/"
     },
     {
         "address": "愛媛県伊予郡松前町恵久美711",
@@ -977,8 +977,8 @@
         "department": "内科",
         "doctor": "高岡　洋子",
         "first": "",
-        "name": "たかおか眼科内科クリニック790-0053",
-        "postal_code": "",
+        "name": "たかおか眼科内科クリニック",
+        "postal_code": "790-0053",
         "revisit": "〇",
         "tel": "089-921-7000",
         "url": "http://www.takaokaclinic.jp/"
@@ -1001,8 +1001,8 @@
         "department": "内科",
         "doctor": "福田　浩",
         "first": "〇",
-        "name": "ふくだ循環器科内科クリニック791-8044",
-        "postal_code": "",
+        "name": "ふくだ循環器科内科クリニック",
+        "postal_code": "791-8044",
         "revisit": "〇",
         "tel": "089-989-3433",
         "url": "https://www.fukuda.clinic"
@@ -1025,8 +1025,8 @@
         "department": "内科",
         "doctor": "八板　弘樹",
         "first": "",
-        "name": "やいた内科内視鏡クリニック790-0903",
-        "postal_code": "",
+        "name": "やいた内科内視鏡クリニック",
+        "postal_code": "790-0903",
         "revisit": "〇",
         "tel": "089-977-7149",
         "url": "https://yaita-clinic.com"
@@ -1061,8 +1061,8 @@
         "department": "内科\n循環器内科",
         "doctor": "三根生　和明",
         "first": "",
-        "name": "みねおい内科・循環器内科医院790-0051",
-        "postal_code": "",
+        "name": "みねおい内科・循環器内科医院",
+        "postal_code": "790-0051",
         "revisit": "〇",
         "tel": "089-932-1202",
         "url": "https://mineoi-naika.com/"
@@ -1121,8 +1121,8 @@
         "department": "内科",
         "doctor": "大谷　敬之\n鈴木　誠",
         "first": "",
-        "name": "星の岡心臓・血管クリニック790-0932",
-        "postal_code": "",
+        "name": "星の岡心臓・血管クリニック",
+        "postal_code": "790-0932",
         "revisit": "〇",
         "tel": "089-956-5511",
         "url": ""
@@ -1373,8 +1373,8 @@
         "department": "内科\n小児科",
         "doctor": "二宮　常之\n二宮　晶",
         "first": "○",
-        "name": "にのみや消化器科内科小児科791-0243",
-        "postal_code": "",
+        "name": "にのみや消化器科内科小児科",
+        "postal_code": "791-0243",
         "revisit": "○",
         "tel": "089-975-2238",
         "url": "http://www.ninomiyaclinic.jp/"
@@ -1656,7 +1656,7 @@
         "url": "http://satouminoru.com"
     },
     {
-        "address": "愛媛県松山市東長戸１－１０－１８089-922-5522",
+        "address": "愛媛県松山市東長戸１－１０－１８",
         "cooperation": "松山赤十字病院（愛媛県松山市文京町1）\n愛媛県立中央病院（愛媛県松山市春日町83）",
         "department": "内科\n消化器科",
         "doctor": "矢野　誠\n矢野　幹夫",
@@ -1664,11 +1664,11 @@
         "name": "矢野内科",
         "postal_code": "791-8005",
         "revisit": "○",
-        "tel": "",
+        "tel": "089-922-5522",
         "url": ""
     },
     {
-        "address": "愛媛県松山市鴨川１－２－１１089-925-5345",
+        "address": "愛媛県松山市鴨川１－２－１１",
         "cooperation": "",
         "department": "内科\n循環器科",
         "doctor": "久保　俊彦",
@@ -1676,7 +1676,7 @@
         "name": "久保内科循環器クリニック",
         "postal_code": "791-8004",
         "revisit": "○",
-        "tel": "",
+        "tel": "089-925-5345",
         "url": "https://www.kubo-naika.jp"
     }
 ]

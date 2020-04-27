@@ -558,7 +558,7 @@
         "doctor": "阿部航\n阿部郁子",
         "first": "",
         "name": "あべメディカルクリニック",
-        "postal_code": "162ｰ0811",
+        "postal_code": "162-0811",
         "revisit": "〇",
         "tel": "03ｰ6228ｰ1783",
         "url": "https://abemc.jp/"
@@ -3033,7 +3033,7 @@
         "postal_code": "142-0051",
         "revisit": "〇",
         "tel": "03-5751-8501",
-        "url": "http://まつばらクリニック.com/"
+        "url": "http://まつばらｸﾘﾆｯｸ.com/"
     },
     {
         "address": "東京都品川区上大崎2-12-2　ミズホビル2階",
@@ -3189,7 +3189,7 @@
         "postal_code": "141-0031",
         "revisit": "〇",
         "tel": "090-8389-8153",
-        "url": "①内科ホームページhttps://karada-naika.com/②性感染症（性病）ホームページhttps://sti-check.com/"
+        "url": "①内科ﾎｰﾑﾍﾟｰｼﾞhttps://karada-naika.com/②性感染症(性病)ﾎｰﾑﾍﾟｰｼﾞhttps://sti-check.com/"
     },
     {
         "address": "東京都品川区中延4-4-8",
@@ -4425,7 +4425,7 @@
         "postal_code": "158-0093",
         "revisit": "○",
         "tel": "03-3703-8733",
-        "url": "http：//asaka-ent.com"
+        "url": "http://asaka-ent.com"
     },
     {
         "address": "東京都世田谷区深沢6-30-13",
@@ -7029,7 +7029,7 @@
         "postal_code": "115-0045",
         "revisit": "〇",
         "tel": "03-3901-3131",
-        "url": "http://wwｗ.igarashi-iin.com"
+        "url": "http://www.igarashi-iin.com"
     },
     {
         "address": "東京都北区神谷２－２５－４",
@@ -7629,7 +7629,7 @@
         "postal_code": "174-0051",
         "revisit": "〇",
         "tel": "03-3967-1268",
-        "url": "http://ｗｗｗ.ims.gr.jp/itabashi.hp/"
+        "url": "http://www.ims.gr.jp/itabashi.hp/"
     },
     {
         "address": "東京都板橋区小豆沢1-12-7",
@@ -7641,7 +7641,7 @@
         "postal_code": "174-0051",
         "revisit": "〇",
         "tel": "03-3967-1181",
-        "url": "http://ｗｗｗ.ims.gr.jp/itabashi.hp/"
+        "url": "http://www.ims.gr.jp/itabashi.hp/"
     },
     {
         "address": "東京都板橋区常盤台4-25-5",
@@ -8766,7 +8766,7 @@
         "doctor": "市場　保",
         "first": "〇",
         "name": "すみれホームケアクリニック",
-        "postal_code": "177ｰ0031",
+        "postal_code": "177-0031",
         "revisit": "〇",
         "tel": "03-6904-5828",
         "url": "https://sumire-clinic.jp"
@@ -10497,7 +10497,7 @@
         "postal_code": "190-0022",
         "revisit": "〇",
         "tel": "042-540-6766",
-        "url": "https://www.dr-ｍatsumotoclinic.com"
+        "url": "https://www.dr-matsumotoclinic.com"
     },
     {
         "address": "東京都立川市曙町2-13-3　立川三菱ビル5階",

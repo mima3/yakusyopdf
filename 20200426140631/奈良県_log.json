@@ -241,6 +241,12 @@
     },
     {
         "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:0745ｰ34-2000 http://beppu-ladies-clinic.p2.bindsite.jp/->0745, ｰ34-2000 http://beppu-ladies-clinic.p2.bindsite.jp/",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "info",
         "message": "空行のため処理をスキップします:3",
         "page": 7,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
@@ -260,6 +266,12 @@
     {
         "kind": "warn",
         "message": "値が存在しません. index:5 col:5 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:0744-28-3456https://itp.ne.jp/info/293735041118241760/->0744-28-3456, https://itp.ne.jp/info/293735041118241760/",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/奈良県.pdf"
     },
