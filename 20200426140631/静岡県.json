@@ -1962,7 +1962,7 @@
         "doctor": "岡村博文",
         "first": "○",
         "name": "医療法人社団聡誠会池田病院",
-        "postal_code": "411－0945",
+        "postal_code": "411-0945",
         "revisit": "○",
         "tel": "055-986-1212",
         "url": "http://ikeda-hp-g.or.jp"
@@ -2000,7 +2000,7 @@
         "name": "富士いきいき病院",
         "postal_code": "419-0205",
         "revisit": "○",
-        "tel": "（代）0545-73-1919（内科）0545-73-1918",
+        "tel": "（代）0545-73-\n1919\n（内科）0545-73-\n1918",
         "url": "https://www.iki-iki-hp.com/"
     },
     {
@@ -2053,9 +2053,9 @@
     },
     {
         "address": "静岡県静岡市清水区宮加三1231番地",
-        "cooperation": "",
+        "cooperation": "なし",
         "department": "全診療科",
-        "doctor": "各診療科医師 なし",
+        "doctor": "各診療科医師",
         "first": "×",
         "name": "静岡市立清水病院",
         "postal_code": "424-8636",
@@ -2166,7 +2166,7 @@
         "doctor": "対応科医師",
         "first": "×",
         "name": "浜名病院",
-        "postal_code": "431－0423",
+        "postal_code": "431-0423",
         "revisit": "〇",
         "tel": "053－577－2333",
         "url": "http://www.hamanakai.or.jp"
@@ -2180,7 +2180,7 @@
         "name": "社会福祉法人聖隷福祉事業団総合病院聖隷浜松病院",
         "postal_code": "430-8558",
         "revisit": "○",
-        "tel": "053-474-2222（代表）",
+        "tel": "053-474-2222\n（代表）",
         "url": "http://www.seirei.or.jp/hamamatsu/"
     },
     {

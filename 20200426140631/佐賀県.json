@@ -156,18 +156,6 @@
         "url": "http://www.yt-eyeclinic.or.jp/mikawa/"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "佐賀県佐賀市大和町大字尼寺848番地11",
         "cooperation": "国立病院機構佐賀病院（佐賀県佐賀市日の出1丁目20-\n1）",
         "department": "内科\n消化器科",
@@ -178,18 +166,6 @@
         "revisit": "○",
         "tel": "0952-51-2922",
         "url": "http://www.areahot.jp/saga/mitsuoka/"
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
     },
     {
         "address": "佐賀県佐賀市高木瀬町大字東高木231-12",
@@ -246,7 +222,7 @@
         "doctor": "白石昇三",
         "first": "○",
         "name": "しらいし内科",
-        "postal_code": "８４２ー０１２２",
+        "postal_code": "842-0122",
         "revisit": "○",
         "tel": "0952-52-3848",
         "url": ""
@@ -728,8 +704,8 @@
         "name": "医療法人　たけお内科医院",
         "postal_code": "843-0023",
         "revisit": "○",
-        "tel": "",
-        "url": "0954-23-4988 http://www2.saganet.ne.jp/neuron/"
+        "tel": "0954-23-4988",
+        "url": "http://www2.saganet.ne.jp/neuron/"
     },
     {
         "address": "佐賀県鹿島市大字高津原3523の1",
@@ -837,30 +813,6 @@
         "postal_code": "849-0401",
         "revisit": "〇",
         "tel": "0952-87-3737",
-        "url": ""
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
         "url": ""
     }
 ]

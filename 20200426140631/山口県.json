@@ -29,8 +29,8 @@
         "department": "内科\n小児科\n整形外科",
         "doctor": "茶川　治樹\n福田　雅通\n貴船　雅夫",
         "first": "",
-        "name": "岩国市医療センター医師会病院 740-0021",
-        "postal_code": "",
+        "name": "岩国市医療センター医師会病院",
+        "postal_code": "740-0021",
         "revisit": "〇",
         "tel": "0827-21-3211",
         "url": "http://iwakuni-med.jp"
@@ -233,8 +233,8 @@
         "department": "小児科\n小児科\n小児科\n小児科\n小児科\n整形外科\n整形外科\n耳鼻咽喉科",
         "doctor": "杉尾　嘉嗣\n市山　高志\n伊住　浩史\n松藤　博紀\n向野　文貴\n杉　基嗣\n黒川　陽子\n池田　卓生",
         "first": "",
-        "name": "鼓ヶ浦こども医療福祉センター 745-0801",
-        "postal_code": "",
+        "name": "鼓ヶ浦こども医療福祉センター",
+        "postal_code": "745-0801",
         "revisit": "〇",
         "tel": "0834-29-1430",
         "url": "http://tsudumi.jp/"
@@ -293,8 +293,8 @@
         "department": "整形外科\nリウマチ科",
         "doctor": "藤森　十郎",
         "first": "",
-        "name": "防府整形・リウマチクリニック 747-0825",
-        "postal_code": "",
+        "name": "防府整形・リウマチクリニック",
+        "postal_code": "747-0825",
         "revisit": "〇",
         "tel": "0835-25-1060",
         "url": ""
@@ -320,7 +320,7 @@
         "name": "きはら内科あこ小児科",
         "postal_code": "747-1232",
         "revisit": "○",
-        "tel": "内科 0835-33-1120小児科 0835-33-1130",
+        "tel": "内科 0835-33-\n1120\n小児科 0835-\n33-1130",
         "url": ""
     },
     {
@@ -353,8 +353,8 @@
         "department": "耳鼻咽喉科",
         "doctor": "金谷　浩一郎\n菊池　奈美\n平田　加寿子",
         "first": "○",
-        "name": "耳鼻咽喉科かめやまクリニック 753-0089",
-        "postal_code": "",
+        "name": "耳鼻咽喉科かめやまクリニック",
+        "postal_code": "753-0089",
         "revisit": "○",
         "tel": "083-901-5550",
         "url": "https://www.kameyama-cl.com/"
@@ -485,8 +485,8 @@
         "department": "内科",
         "doctor": "相部　剛",
         "first": "",
-        "name": "医療法人あいべ内科クリニック 757-0216",
-        "postal_code": "",
+        "name": "医療法人あいべ内科クリニック",
+        "postal_code": "757-0216",
         "revisit": "〇",
         "tel": "0836-69-2678",
         "url": ""
@@ -749,8 +749,8 @@
         "department": "内科",
         "doctor": "山崎　和夫",
         "first": "",
-        "name": "やまさきファミリークリニック 751-0843",
-        "postal_code": "",
+        "name": "やまさきファミリークリニック",
+        "postal_code": "751-0843",
         "revisit": "〇",
         "tel": "083-252-7227",
         "url": ""
@@ -881,8 +881,8 @@
         "department": "整形外科\nリウマチ科",
         "doctor": "二武　皇夫",
         "first": "〇\n（過去に受診歴ある\n方のみ）",
-        "name": "二武整形・リウマチクリニック 759-6311",
-        "postal_code": "",
+        "name": "二武整形・リウマチクリニック",
+        "postal_code": "759-6311",
         "revisit": "〇",
         "tel": "083-772-0835",
         "url": "https://nibu-clinic.jp/"

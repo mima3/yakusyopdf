@@ -162,7 +162,7 @@
         "doctor": "佐賀　健二\n宮本　洋\n矢野　和人\n粟津　久榮\n飯岡　健佑",
         "first": "×",
         "name": "医療法人聖和会つくば病院",
-        "postal_code": "3113433",
+        "postal_code": "311-3433",
         "revisit": "〇",
         "tel": "0299-26-1271",
         "url": "http://e-seiwakai.jp/stukuba_kamoku.html"
@@ -350,8 +350,8 @@
     {
         "address": "茨城県日立市鮎川町2-8-16",
         "cooperation": "電話診療は再診患者のみの対応となりますので、対面診\n療が必要と判断した場合は原則自院にて対応いたしま\nす。",
-        "department": "",
-        "doctor": "外来各診療科 外来各担当医師",
+        "department": "外来各診療科",
+        "doctor": "外来各担当医師",
         "first": "×",
         "name": "ひたち医療センター",
         "postal_code": "316-8533",
@@ -420,13 +420,13 @@
         "url": "http://www.soujinkai.com/"
     },
     {
-        "address": "",
+        "address": "茨城県取手市下高井２３７１",
         "cooperation": "JA取手総合医療センター（茨城県取手市本郷２－１－１）\n取手北相馬保健医療センター（茨城県取手市野々井１９２６）",
         "department": "精神科",
         "doctor": "すべての外来担当医",
         "first": "×",
         "name": "医療法人中村会常総病院",
-        "postal_code": "３０２－００３８ 茨城県取手市下高井２３７１",
+        "postal_code": "302-0038",
         "revisit": "〇",
         "tel": "0297-78-8707",
         "url": "https://www.josohp.net/"
@@ -588,13 +588,13 @@
         "url": "http://www.tkgh.jp/"
     },
     {
-        "address": "",
+        "address": "茨城県つくば市高見原１－２－３９",
         "cooperation": "",
         "department": "内科　外科\n消化器内科\n消化器外科",
         "doctor": "田村孝史\n鈴木隆二\n永井健太郎",
         "first": "○",
         "name": "医療法人社団筑三会筑波胃腸病院",
-        "postal_code": "３００－１２５２ 茨城県つくば市高見原１－２－３９",
+        "postal_code": "300-1252",
         "revisit": "○",
         "tel": "029-874-3321",
         "url": "http://www.tsukubaichou.com/"
@@ -1866,7 +1866,7 @@
         "doctor": "小貫　琢哉",
         "first": "○",
         "name": "中高津クリニック",
-        "postal_code": "300－0815",
+        "postal_code": "300-0815",
         "revisit": "〇",
         "tel": "029-824-1212",
         "url": "https://nakatakatsu-clinic.jp/"
@@ -2094,7 +2094,7 @@
         "doctor": "檜山　三府\n檜山　孝美",
         "first": "○",
         "name": "桧山医院",
-        "postal_code": "315−0037",
+        "postal_code": "315-0037",
         "revisit": "○",
         "tel": "0299-26-3812",
         "url": ""
@@ -2160,18 +2160,6 @@
         "url": "http://k2.fc2.com/cgi-bin/hp.cgi/community-clinic/ ×"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "茨城県つくば市研究学園5-19イーアスつくばメディカルコート",
         "cooperation": "対面診療が必要と判断した場合は，\n当院へ受診頂き，自院ですべて対応します。",
         "department": "眼科",
@@ -2190,7 +2178,7 @@
         "doctor": "末廣　和代",
         "first": "○",
         "name": "すえひろ眼科",
-        "postal_code": "305－0031",
+        "postal_code": "305-0031",
         "revisit": "○",
         "tel": "029－849－0177",
         "url": "http://suehiroganka.com"
@@ -2202,7 +2190,7 @@
         "doctor": "陶　緒平",
         "first": "○",
         "name": "緑クリニック医院",
-        "postal_code": "300－2337",
+        "postal_code": "300-2337",
         "revisit": "○",
         "tel": "0297－58－5222",
         "url": ""
@@ -2262,7 +2250,7 @@
         "doctor": "国広　美紀",
         "first": "",
         "name": "まつしろ耳鼻咽喉科クリニック",
-        "postal_code": "305−0035",
+        "postal_code": "305-0035",
         "revisit": "○",
         "tel": "029-897-3310",
         "url": "http://www.matsushiroent.jp"
@@ -2526,7 +2514,7 @@
         "doctor": "植竹修一郎\n植竹知津\n植竹翼\n植竹純子",
         "first": "○",
         "name": "植竹医院",
-        "postal_code": "303－0023",
+        "postal_code": "303-0023",
         "revisit": "○",
         "tel": "0297－23－1135",
         "url": "http://www.uetakeiin.com/"
@@ -2594,8 +2582,8 @@
     {
         "address": "茨城県結城市中央町1-12-2",
         "cooperation": "新小山市民病院　（栃木県小山市大字神鳥谷2251番地\n1）\n茨城県西部メディカルセンター（茨城県筑西市大塚555\n番地）\n筑波大学附属病院（茨城県つくば市天久保2丁目1番地\n1）\n茨城西南医療センター病院（茨城県猿島郡境町2190）\n友愛記念病院（茨城県古河市東牛谷７０７）\n結城病院（茨城県結城市結城9629番地の１）\n城西病院（茨城県結城市大字結城10745-24）\n古河赤十字病院（茨城県古河市下山町1150番地）\n獨協医科大学病院（栃木県下都賀郡壬生町大字北小林",
-        "department": "",
-        "doctor": "内科、小児科 坪井靖、澤山渚",
+        "department": "内科、小児科",
+        "doctor": "坪井靖、澤山渚",
         "first": "○",
         "name": "つぼいクリニック",
         "postal_code": "307-0052",
@@ -2826,7 +2814,7 @@
         "doctor": "間中　誠",
         "first": "〇",
         "name": "存身堂医院",
-        "postal_code": "306－0631",
+        "postal_code": "306-0631",
         "revisit": "",
         "tel": "0297－35-1011",
         "url": "http://www.fureai.or.jp/~zon-clin/"

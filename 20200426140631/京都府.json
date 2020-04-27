@@ -108,18 +108,6 @@
         "url": ""
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "京都府舞鶴市字倉谷小字向ノ丁１９３０番地１",
         "cooperation": "舞鶴共済病院（京都府舞鶴市字浜１０３５番地）\n舞鶴医療センター（京都府舞鶴市行永２４１０番地）",
         "department": "耳鼻咽喉科\nアレルギー科",
@@ -137,8 +125,8 @@
         "department": "内科",
         "doctor": "池田文彦",
         "first": "〇",
-        "name": "池田内科御池クリニック 604-0943",
-        "postal_code": "",
+        "name": "池田内科御池クリニック",
+        "postal_code": "604-0943",
         "revisit": "〇",
         "tel": "075-253-6627",
         "url": "https://ikedanaika-oike.com/"

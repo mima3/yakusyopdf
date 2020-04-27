@@ -2485,9 +2485,9 @@
     },
     {
         "address": "兵庫県神崎郡神河町粟賀町385",
-        "cooperation": "各診療科担当医 中播磨地区を中心に受け入れ可能な医療機関へ適宜紹介",
+        "cooperation": "中播磨地区を中心に受け入れ可能な医療機関へ適宜紹介",
         "department": "内科、外科\n整形外科\n産婦人科\n眼科\n耳鼻咽喉科\n麻酔科\n神経科\n泌尿器科\n脳神経外科\n皮膚科",
-        "doctor": "",
+        "doctor": "各診療科担当医",
         "first": "",
         "name": "公立神崎総合病院",
         "postal_code": "679-2493",
@@ -2814,7 +2814,7 @@
         "doctor": "石井　眞美子",
         "first": "",
         "name": "石井医院",
-        "postal_code": "669－2825",
+        "postal_code": "669-2825",
         "revisit": "○",
         "tel": "079－596－0003",
         "url": ""
@@ -2826,7 +2826,7 @@
         "doctor": "小嶋　敏誠\n小嶋　みち\n宮地　季高",
         "first": "○",
         "name": "小嶋医院",
-        "postal_code": "669－2451",
+        "postal_code": "669-2451",
         "revisit": "○",
         "tel": "079-590-2350",
         "url": "http://www.ojimaiin.com"
@@ -2838,7 +2838,7 @@
         "doctor": "",
         "first": "",
         "name": "岡本病院",
-        "postal_code": "669－2202",
+        "postal_code": "669-2202",
         "revisit": "○",
         "tel": "079-594-1616",
         "url": "http://www.kiyoukai.com"
@@ -2850,7 +2850,7 @@
         "doctor": "芦田　定",
         "first": "",
         "name": "あしだ内科医院",
-        "postal_code": "669－2212",
+        "postal_code": "669-2212",
         "revisit": "○",
         "tel": "079-590-1500",
         "url": ""
@@ -3066,7 +3066,7 @@
         "doctor": "岡田　有美",
         "first": "",
         "name": "岡田医院",
-        "postal_code": "656－2401",
+        "postal_code": "656-2401",
         "revisit": "○",
         "tel": "0799-72-2537",
         "url": ""
@@ -3714,7 +3714,7 @@
         "doctor": "山本　篤志",
         "first": "○",
         "name": "やまもと皮膚科・漢方クリニック",
-        "postal_code": "6700927",
+        "postal_code": "670-0927",
         "revisit": "○",
         "tel": "079-283-1112",
         "url": "http://yamamoto-hifuka-kampo.com"
@@ -3870,7 +3870,7 @@
         "doctor": "兒玉　峰男",
         "first": "○",
         "name": "兒玉内科醫院",
-        "postal_code": "662－0911",
+        "postal_code": "662-0911",
         "revisit": "○",
         "tel": "0798－33－0210",
         "url": "http://www.newton-doctor.com/doctor/hyogo/drkodama/s01"
@@ -4662,7 +4662,7 @@
         "doctor": "林　功",
         "first": "○",
         "name": "林医院",
-        "postal_code": "663−8113",
+        "postal_code": "663-8113",
         "revisit": "○",
         "tel": "0798-64-1551",
         "url": "https://www.hayashi-med.com/"
@@ -5101,9 +5101,9 @@
     },
     {
         "address": "兵庫県明石市二見町東二見1328番地の1",
-        "cooperation": "繁田　龍太郎  明石医療センター（兵庫県明石市大久保町八木743-33）",
+        "cooperation": "明石医療センター（兵庫県明石市大久保町八木743-33）",
         "department": "内科",
-        "doctor": "",
+        "doctor": "繁田　龍太郎",
         "first": "",
         "name": "繁田医院",
         "postal_code": "674-0092",
@@ -5196,7 +5196,7 @@
         "url": "https://taji-clinic.jimdo.com"
     },
     {
-        "address": "兵庫県明石市東仲ノ町6番1号アスピア明石北館2階 078-917-0034",
+        "address": "兵庫県明石市東仲ノ町6番1号アスピア明石北館2階",
         "cooperation": "明石市立市民病院（兵庫県明石市鷹匠町1-33）",
         "department": "精神科\n心療内科",
         "doctor": "忠井　俊明",
@@ -5204,7 +5204,7 @@
         "name": "ただいメンタルクリニック",
         "postal_code": "673-0886",
         "revisit": "○",
-        "tel": "",
+        "tel": "078-917-0034",
         "url": "https://tadai-mental.com/"
     },
     {

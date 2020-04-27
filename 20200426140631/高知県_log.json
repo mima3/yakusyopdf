@@ -1,14 +1,1 @@
-[
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:4 col:tel value:088-837ｰ1233",
-        "page": 9,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/高知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:13 col:tel value:0887－34－1155",
-        "page": 11,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/高知県.pdf"
-    }
-]
+[]

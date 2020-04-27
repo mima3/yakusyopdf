@@ -906,7 +906,7 @@
         "doctor": "山岸眞理\n竹内　茂",
         "first": "×",
         "name": "医療法人社団三愛会名寄三愛病院",
-        "postal_code": "096－0031",
+        "postal_code": "096-0031",
         "revisit": "○",
         "tel": "01654－3－3911",
         "url": ""
@@ -1092,15 +1092,15 @@
         "url": "http //www.myclinic.ne.jp/ywc06/"
     },
     {
-        "address": "北海道北見市大通西2丁目1番地まちきた大通ビル１階 0157－23－3115",
+        "address": "北海道北見市大通西2丁目1番地まちきた大通ビル１階",
         "cooperation": "",
         "department": "内科",
         "doctor": "高橋　謙之祐",
         "first": "×",
         "name": "医療法人社団為山堂内科医院",
-        "postal_code": "090－8509",
+        "postal_code": "090-8509",
         "revisit": "○",
-        "tel": "",
+        "tel": "0157－23－3115",
         "url": ""
     },
     {
@@ -1182,7 +1182,7 @@
         "doctor": "",
         "first": "×",
         "name": "医療法人社団耕仁会曽我病院",
-        "postal_code": "099－6329",
+        "postal_code": "099-6329",
         "revisit": "○",
         "tel": "01586－2－2001",
         "url": ""
@@ -1770,7 +1770,7 @@
         "doctor": "髙橋和明他４名",
         "first": "×",
         "name": "西２条腎泌尿器科病院",
-        "postal_code": "080－0012",
+        "postal_code": "080-0012",
         "revisit": "〇",
         "tel": "0155－27－2301",
         "url": "http://www.n2jinhinyouki.com"
@@ -1794,7 +1794,7 @@
         "doctor": "西尾　安人",
         "first": "〇",
         "name": "医療法人社団なかお内科",
-        "postal_code": "０８２－００３０",
+        "postal_code": "082-0030",
         "revisit": "〇",
         "tel": "0155－62－2035",
         "url": ""
@@ -1866,7 +1866,7 @@
         "doctor": "川上　勝久\n内海　仁司\n萩原　康郎",
         "first": "×",
         "name": "社会福祉法人真宗協会　　帯広光南病院",
-        "postal_code": "080－0836",
+        "postal_code": "080-0836",
         "revisit": "◯",
         "tel": "0155－47－4811",
         "url": "http://www.shinsyukyoukai.jp"
@@ -1976,7 +1976,7 @@
         "name": "医療法人希朋会　亀山眼科",
         "postal_code": "080-2470",
         "revisit": "○",
-        "tel": "0155-36-1114080-1866-2386",
+        "tel": "0155-36-1114\n080-1866-2386",
         "url": "http://eyekameclinic.com"
     },
     {
@@ -3102,7 +3102,7 @@
         "doctor": "各診療科医師",
         "first": "×",
         "name": "医療法人徳洲会札幌徳洲会病院",
-        "postal_code": "004－0041",
+        "postal_code": "004-0041",
         "revisit": "〇",
         "tel": "011－890－1110",
         "url": "http://www2.satutoku.jp"
@@ -3594,7 +3594,7 @@
         "doctor": "石川眞樹夫",
         "first": "○",
         "name": "クリニック　光のいずみ",
-        "postal_code": "064--0917",
+        "postal_code": "064-0917",
         "revisit": "○",
         "tel": "０１１−５６１−5111",
         "url": "https://www.hikarinoizumi.org/"
@@ -3618,9 +3618,9 @@
         "doctor": "田中康雄",
         "first": "×",
         "name": "医療法人倭会　こころとそだちのクリニックむすびめ",
-        "postal_code": "０６０−００４２",
+        "postal_code": "060-0042",
         "revisit": "○",
-        "tel": "０１１−２３２−５５６４",
+        "tel": "０１１−２３２−５５６\n４",
         "url": "http://www.minerva.gr.jp/musubime/index.html"
     },
     {
@@ -3714,7 +3714,7 @@
         "doctor": "原田浩",
         "first": "ｘ",
         "name": "はらだ腎泌尿器クリニック",
-        "postal_code": "060−0011",
+        "postal_code": "060-0011",
         "revisit": "〇",
         "tel": "011−738−6613",
         "url": "https://harajin.jp"
@@ -4890,7 +4890,7 @@
         "doctor": "村上　俊也",
         "first": "×",
         "name": "医療法人社団遼風会　　　札幌新川整形外科",
-        "postal_code": "001－0926",
+        "postal_code": "001-0926",
         "revisit": "",
         "tel": "011－761－1187",
         "url": "http://www.ssoc.jp/"
@@ -4940,7 +4940,7 @@
         "name": "小石川クリニック",
         "postal_code": "001-0029",
         "revisit": "○",
-        "tel": "011-398-3947011-746-3988（代表）",
+        "tel": "011-398-3947\n011-746-3988（代\n表）",
         "url": "https://psgroup.jimdo.com/"
     },
     {
@@ -5142,7 +5142,7 @@
         "doctor": "齊藤　要一",
         "first": "○",
         "name": "医療法人社団いちご会新道東フレンド整形外科",
-        "postal_code": "065－0031",
+        "postal_code": "065-0031",
         "revisit": "○",
         "tel": "011－789－0010",
         "url": "https://friend-seikei.com/"
@@ -6822,7 +6822,7 @@
         "doctor": "小笠原一男",
         "first": "○",
         "name": "小笠原眼科",
-        "postal_code": "006－0815",
+        "postal_code": "006-0815",
         "revisit": "○",
         "tel": "011－684－5111",
         "url": "http://www.ogasawara.gr.jp"
@@ -7254,7 +7254,7 @@
         "doctor": "秋山實男\n槇本深\n野納邦昭",
         "first": "×",
         "name": "秋山記念病院",
-        "postal_code": "041－0802",
+        "postal_code": "041-0802",
         "revisit": "○",
         "tel": "0138－46－6660",
         "url": "https://akiyama.hakodate.jp/"

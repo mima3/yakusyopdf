@@ -1,67 +1,49 @@
 [
     {
         "kind": "warn",
-        "message": "データが空です row:25 col:name",
+        "message": "値が存在しません. index:25 col:1 value:",
         "page": 9,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:25 col:postal_code value:（医）上村クリニック\n上村皮ふ科・形成外科クリニック\n820-0071",
+        "message": "郵便番号の形式ではありません index:25 col:2 value:（医）上村クリニック\n上村皮ふ科・形成外科クリニック\n820-0071",
         "page": 9,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:15 col:tel value:0943(77)7111",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:13 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:16 col:tel value:0944-86ｰ4069",
+        "message": "郵便番号の形式ではありません index:19 col:2 value:",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:19 col:postal_code value:",
-        "page": 11,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:28 col:postal_code value:",
-        "page": 11,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:3 col:name",
+        "message": "値が存在しません. index:3 col:1 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:3 col:postal_code value:医療法人文翠会　ふるた整形外科・形成外科クリニック\n807-0078",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:医療法人文翠会　ふるた整形外科・形成外科クリニック\n807-0078",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     }

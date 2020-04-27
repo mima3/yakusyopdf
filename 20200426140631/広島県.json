@@ -882,7 +882,7 @@
         "doctor": "冨原健司　冨原\n幹子　仲稔子",
         "first": "×",
         "name": "冨原脳神経外科医院",
-        "postal_code": "７３４－０００４",
+        "postal_code": "734-0004",
         "revisit": "○",
         "tel": "082-255-2255",
         "url": "http://www.tomihara-cl.com/"
@@ -1140,40 +1140,16 @@
         "url": "082-879-1111www.hiroshimairyo.or.jp/outline/template.html"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "広島県広島市安佐南区西原8丁目29番24号",
         "cooperation": "広島赤十字原爆病院（広島県広島市中区千田町1丁目9番6）",
         "department": "・内科（消化器・呼\n吸器・循環器）\n・外科、肛門外科\n・整形外科\n・皮膚科",
         "doctor": "中村　顕治朗\n吉崎　浩一\n島筒　和史\n桑原　健太郎\n田辺　浩一郎\n内藤　浩之",
-        "first": "",
+        "first": "○",
         "name": "医療法人社団聖愛会　ぎおん牛田病院",
         "postal_code": "731-0113",
         "revisit": "○",
         "tel": "082-850-3116",
-        "url": "https://www.smile-seiaikai.com/gionushita-hospital.html ○"
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
+        "url": "https://www.smile-seiaikai.com/gionushita-hospital.html"
     },
     {
         "address": "広島県広島市安佐南区山本新町2丁目18-9-8信徳ビル1階",
@@ -1186,18 +1162,6 @@
         "revisit": "○",
         "tel": "",
         "url": "082-554-1447https://www.tanabe-kasugano-clinic.com"
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
     },
     {
         "address": "広島県広島市安佐南区祇園5丁目2-45-204",
@@ -1404,18 +1368,6 @@
         "url": "082-810-0188https://keiseikai-nmn.net/wp3/ninomiya/"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "広島県広島市安佐北区落合5-1-10",
         "cooperation": "広島市立安佐市民病院（広島県広島市安佐北区可部南2-1-1）\n広島共立病院（広島県広島市安佐南区中須2-20-20）",
         "department": "整形外科\n内科\n眼科",
@@ -1524,18 +1476,6 @@
         "url": "https://keiseikai-nmn.net/wp3/mita/"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "広島県広島市安芸区矢野東2-31-11",
         "cooperation": "済生会広島病院(広島県安芸郡坂町北新地2丁目3-10)\nマツダ病院(広島県安芸郡府中町青崎南2-15)",
         "department": "整形外科\nリハビリテー\nション科\nリウマチ科",
@@ -1554,7 +1494,7 @@
         "doctor": "鎗田　圭一郎",
         "first": "×",
         "name": "日本製鋼所広島製作所診療所",
-        "postal_code": "736‐8602",
+        "postal_code": "736-8602",
         "revisit": "○",
         "tel": "082-822-0173",
         "url": ""
@@ -1626,7 +1566,7 @@
         "doctor": "青木正則",
         "first": "○",
         "name": "青木耳鼻咽喉科クリニック",
-        "postal_code": "7315112",
+        "postal_code": "731-5112",
         "revisit": "○",
         "tel": "082-923-0445",
         "url": ""
@@ -1830,7 +1770,7 @@
         "doctor": "西　俊雄",
         "first": "○",
         "name": "医）西医院",
-        "postal_code": "722－0001",
+        "postal_code": "722-0001",
         "revisit": "○",
         "tel": "0848-23-2437",
         "url": "westc@urban.ne.jp"
@@ -1974,7 +1914,7 @@
         "doctor": "湯川　岳夫",
         "first": "○",
         "name": "呉中央クリニック整形外科",
-        "postal_code": "730ｰ0014",
+        "postal_code": "730-0014",
         "revisit": "○",
         "tel": "0823ｰ32ｰ0011",
         "url": "現在開設中です"
@@ -3162,7 +3102,7 @@
         "doctor": "外来主治医等",
         "first": "×",
         "name": "東広島医療センター",
-        "postal_code": "739－0041",
+        "postal_code": "739-0041",
         "revisit": "○",
         "tel": "082－423－2176",
         "url": "https://higashihiroshima.hosp.go.jp/"
@@ -3366,7 +3306,7 @@
         "doctor": "新開洋一",
         "first": "×",
         "name": "医療法人社団辰星会新開医院",
-        "postal_code": "739－2731",
+        "postal_code": "739-2731",
         "revisit": "○",
         "tel": "0823－82－2074",
         "url": ""
@@ -3378,7 +3318,7 @@
         "doctor": "",
         "first": "×",
         "name": "三木医院",
-        "postal_code": "７３９-０２６７",
+        "postal_code": "739-0267",
         "revisit": "○",
         "tel": "082-433-2501",
         "url": ""
@@ -3498,7 +3438,7 @@
         "doctor": "明石 陽三郎\n　酒井 亮",
         "first": "×",
         "name": "明石内科クリニック",
-        "postal_code": "738−0002",
+        "postal_code": "738-0002",
         "revisit": "○",
         "tel": "0829-32-1911",
         "url": ""
@@ -3558,7 +3498,7 @@
         "doctor": "津田　敏孝",
         "first": "×",
         "name": "津田医院",
-        "postal_code": "７３１－０６１２",
+        "postal_code": "731-0612",
         "revisit": "○",
         "tel": "0826-54-0699",
         "url": "http://www.akitakatamed.or.jp/medi/h016.html"
@@ -3594,7 +3534,7 @@
         "doctor": "河瀬 徹",
         "first": "○",
         "name": "瀬戸ハイム内科",
-        "postal_code": "7350011",
+        "postal_code": "735-0011",
         "revisit": "○",
         "tel": "082-285-0816",
         "url": "http://www.seto816.com/home/"
@@ -3666,7 +3606,7 @@
         "doctor": "河瀬　徹",
         "first": "○",
         "name": "瀬戸ハイム内科",
-        "postal_code": "7350011",
+        "postal_code": "735-0011",
         "revisit": "○",
         "tel": "082-285-0816",
         "url": "http://www.seto816.com/home/"
@@ -3708,18 +3648,6 @@
         "url": "http://www.urban.ne.jp/home/kakehp/"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "広島県豊田郡大崎上島町明石2700",
         "cooperation": "",
         "department": "内科・消化器科\n胃腸科・婦人科",
@@ -3740,7 +3668,7 @@
         "name": "神石高原町立病院",
         "postal_code": "720-1522",
         "revisit": "○\n再診で処方する場\n合、慢性疾患等を有\nする定期受診患者",
-        "tel": "0847-85-2711（対応時間）8時30分から16時まで",
+        "tel": "0847-85-2711\n（対応時間）\n8時30分から16\n時まで",
         "url": "http://www.youseikai-grp.jp/jth/"
     }
 ]

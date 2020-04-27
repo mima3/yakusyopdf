@@ -1,218 +1,194 @@
 [
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:12 col:postal_code value:500－8323",
-        "page": 5,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:12 col:tel value:058－254－8200",
-        "page": 5,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:17 col:tel value:058－295-6333",
-        "page": 5,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:15 col:name",
+        "message": "値が存在しません. index:15 col:1 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:15 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:15 col:2 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:15 col:address",
+        "message": "値が存在しません. index:15 col:3 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:15 col:tel value:",
+        "message": "値が存在しません. index:15 col:4 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:16 col:name",
+        "message": "値が存在しません. index:16 col:1 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:16 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:16 col:2 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:16 col:address",
+        "message": "値が存在しません. index:16 col:3 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:16 col:tel value:",
+        "message": "値が存在しません. index:16 col:4 value:",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:2 col:name",
+        "message": "値が存在しません. index:2 col:1 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:2 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:2 col:address",
+        "message": "値が存在しません. index:2 col:3 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:2 col:tel value:",
+        "message": "値が存在しません. index:2 col:4 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:3 col:name",
+        "message": "値が存在しません. index:3 col:1 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:3 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:3 col:address",
+        "message": "値が存在しません. index:3 col:3 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:3 col:tel value:",
+        "message": "値が存在しません. index:3 col:4 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:4 col:name",
+        "message": "値が存在しません. index:4 col:1 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:4 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:4 col:address",
+        "message": "値が存在しません. index:4 col:3 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:4 col:tel value:",
+        "message": "値が存在しません. index:4 col:4 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:5 col:name",
+        "message": "値が存在しません. index:5 col:1 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:5 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:5 col:address",
+        "message": "値が存在しません. index:5 col:3 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:5 col:tel value:",
+        "message": "値が存在しません. index:5 col:4 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:6 col:name",
+        "message": "値が存在しません. index:6 col:1 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:6 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:6 col:address",
+        "message": "値が存在しません. index:6 col:3 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:6 col:tel value:",
+        "message": "値が存在しません. index:6 col:4 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:7 col:name",
+        "message": "値が存在しません. index:7 col:1 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:7 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:7 col:address",
+        "message": "値が存在しません. index:7 col:3 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:7 col:tel value:",
+        "message": "値が存在しません. index:7 col:4 value:",
         "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:8 col:tel value:0574‐60‐322",
-        "page": 15,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/岐阜県.pdf"
     }
 ]

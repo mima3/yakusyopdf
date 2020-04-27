@@ -1,20 +1,8 @@
 [
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:3 col:tel value:",
+        "message": "値が存在しません. index:3 col:4 value:",
         "page": 6,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/埼玉県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:13 col:tel value:048−789−5777",
-        "page": 25,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/埼玉県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:postal_code value:３６９−１３０５",
-        "page": 33,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/埼玉県.pdf"
     }
 ]

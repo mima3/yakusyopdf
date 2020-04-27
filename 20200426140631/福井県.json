@@ -174,7 +174,7 @@
         "doctor": "長谷浩吉",
         "first": "",
         "name": "はせペインクリニック",
-        "postal_code": "914－0811",
+        "postal_code": "914-0811",
         "revisit": "○",
         "tel": "0770－25－1370",
         "url": "https://hase-pain.jp/"
@@ -714,7 +714,7 @@
         "doctor": "門　知生",
         "first": "〇",
         "name": "門整形外科",
-        "postal_code": "９１０－０８４３",
+        "postal_code": "910-0843",
         "revisit": "〇",
         "tel": "0776－53－1700",
         "url": ""
@@ -1056,18 +1056,6 @@
         "url": "https://bls-acls-pals-fa-fukui.jp/shockwave/"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "福井県越前市北府2丁目12-13",
         "cooperation": "福井県立病院（福井県福井市四ッ井2丁目8－1）\n福井大学医学部付属病院（福井県吉田郡永平寺町松岡下\n合月23-3）\n福井赤十字病院（福井県福井市月見2丁目4-1）\n福井県済生会病院（福井県福井市和田中町舟橋7-1）\n福井循環器病院（福井県福井市新保2丁目228）",
         "department": "内科\n整形外科",
@@ -1266,9 +1254,9 @@
         "doctor": "打波　　大\n打波　郁子",
         "first": "○",
         "name": "打波外科胃腸科婦人科",
-        "postal_code": "９１０－００１７",
+        "postal_code": "910-0017",
         "revisit": "○",
-        "tel": "(０７７６)２６－７１７１",
+        "tel": "(０７７６)\n２６－７１７１",
         "url": "http://www.uchinami.clinic-hp.com/"
     },
     {

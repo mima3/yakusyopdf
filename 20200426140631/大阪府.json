@@ -726,7 +726,7 @@
         "doctor": "城谷知彦",
         "first": "×",
         "name": "いしが城谷クリニック",
-        "postal_code": "5670883",
+        "postal_code": "567-0883",
         "revisit": "〇　以前からの定期通院の\n方のみ",
         "tel": "072‐622-3003",
         "url": "https://www.ishiga-iin.com"
@@ -1518,7 +1518,7 @@
         "doctor": "森口　英世・大和　彩",
         "first": "○",
         "name": "森口医院",
-        "postal_code": "584−0071",
+        "postal_code": "584-0071",
         "revisit": "○",
         "tel": "0721-28-1200",
         "url": "http://www002.upp.so-net.ne.jp/moriguchi-CL/index.html"
@@ -1592,7 +1592,7 @@
         "name": "社会医療法人さくら会さくら会病院",
         "postal_code": "589-0011",
         "revisit": "○",
-        "tel": "０７２－３６６－５７５７",
+        "tel": "０７２－３６６－\n５７５７",
         "url": "http://www.sakurak.jp/"
     },
     {
@@ -1830,7 +1830,7 @@
         "doctor": "笹井　賢良",
         "first": "",
         "name": "笹井内科",
-        "postal_code": "586‐0094",
+        "postal_code": "586-0094",
         "revisit": "○",
         "tel": "0721－53－1000",
         "url": ""
@@ -2382,7 +2382,7 @@
         "doctor": "",
         "first": "準備中",
         "name": "泉佐野優人会病院",
-        "postal_code": "〒598-0063",
+        "postal_code": "598-0063",
         "revisit": "準備中",
         "tel": "072-462-2851",
         "url": "https://yujinkai.or.jp/"
@@ -3426,7 +3426,7 @@
         "doctor": "杉浦　卓",
         "first": "○",
         "name": "医療法人杉浦内科オーエーピー診療所",
-        "postal_code": "530−6012",
+        "postal_code": "530-6012",
         "revisit": "○",
         "tel": "06-6351-1600",
         "url": "http://www.sugiura-clinic.org"
@@ -4902,7 +4902,7 @@
         "doctor": "田中　英高",
         "first": "×",
         "name": "OD低血圧クリニック田中",
-        "postal_code": "〒530-0054",
+        "postal_code": "530-0054",
         "revisit": "あり",
         "tel": "06-6361-0700",
         "url": "info@odtanaka.com"
@@ -5630,8 +5630,8 @@
     {
         "address": "大阪府堺市堺区南陵町4-4-17",
         "cooperation": "堺市立総合医療センター（堺市西区家原寺町1-1-1）　　\n　　　　　　　　　　耳原総合病院（堺市堺区協和町4-\n465）",
-        "department": "内科　　　　　　消",
-        "doctor": "化器内科　　小児科 山縣　英生　　　山縣　宏至",
+        "department": "内科　　　　　　消\n化器内科　　小児科",
+        "doctor": "山縣　英生　　　山縣　宏至",
         "first": "×",
         "name": "山県クリニック",
         "postal_code": "590-0811",
@@ -6170,8 +6170,8 @@
     {
         "address": "大阪府東大阪市小阪本町1丁目3番2号",
         "cooperation": "当院にて",
-        "department": "",
-        "doctor": "整形外科　　　内科 小味　克巳　　　小味　典子",
+        "department": "整形外科　　　内科",
+        "doctor": "小味　克巳　　　小味　典子",
         "first": "○",
         "name": "医療法人展生会　こみ整形外科",
         "postal_code": "577-0802",
@@ -6884,7 +6884,7 @@
         "name": "大阪医科大学三島南病院",
         "postal_code": "569-0856",
         "revisit": "○",
-        "tel": "072-677-1333（代表）",
+        "tel": "072-677-1333\n（代表）",
         "url": "https://www.omcmmh.jp/"
     },
     {

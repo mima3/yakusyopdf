@@ -336,13 +336,13 @@
         "url": ""
     },
     {
-        "address": "850-0853 長崎県長崎市浜町3-20　浜町くまビル6階",
+        "address": "長崎県長崎市浜町3-20　浜町くまビル6階",
         "cooperation": "井上病院（長崎県長崎市宝町６番１２号）",
         "department": "内科\n循環器科",
         "doctor": "中山　史生",
         "first": "○",
         "name": "なかやま内科診療所",
-        "postal_code": "",
+        "postal_code": "850-0853",
         "revisit": "○",
         "tel": "095-801-1722",
         "url": "https://nakayama-naika,jp/"
@@ -365,8 +365,8 @@
         "department": "耳鼻咽喉科",
         "doctor": "山野邉　滋晴",
         "first": "○",
-        "name": "医療法人協仁会　共立耳鼻咽喉科 852-8003",
-        "postal_code": "",
+        "name": "医療法人協仁会　共立耳鼻咽喉科",
+        "postal_code": "852-8003",
         "revisit": "○",
         "tel": "095-862-0001",
         "url": "http://kyouritu.in.coocan.jp/"
@@ -684,13 +684,13 @@
         "url": ""
     },
     {
-        "address": "859-3725 長崎県東彼杵郡波佐見町長野郷538番地１",
+        "address": "長崎県東彼杵郡波佐見町長野郷538番地１",
         "cooperation": "長崎川棚医療センター（長崎県東彼杵郡川棚町下組郷２００５－１）",
         "department": "内科",
         "doctor": "藤下　幹夫",
         "first": "○",
         "name": "藤下内科医院",
-        "postal_code": "",
+        "postal_code": "859-3725",
         "revisit": "○",
         "tel": "0956-85-7325",
         "url": ""
@@ -1265,8 +1265,8 @@
         "department": "腎臓内科\n泌尿器科\n消化器内科\n循環器内科\n内科\n外科\n脳神経外科",
         "doctor": "宮崎　雅也\n与儀　安男\n阿座上　聖史\n白石　嘉憲\n龍田　洋一\n山口　聡\n中本　守人\n石坂　繁寿\n堤　圭治",
         "first": "",
-        "name": "社会医療法人　三佼会　宮崎病院 854-0066",
-        "postal_code": "",
+        "name": "社会医療法人　三佼会　宮崎病院",
+        "postal_code": "854-0066",
         "revisit": "○",
         "tel": "0957-25-4800",
         "url": "http://www.sankoukai.net"
@@ -1457,8 +1457,8 @@
         "department": "内科",
         "doctor": "片峰　智子\n奥井　俊治",
         "first": "○",
-        "name": "医療法人社団博生会　大久保医院 850-0842",
-        "postal_code": "",
+        "name": "医療法人社団博生会　大久保医院",
+        "postal_code": "850-0842",
         "revisit": "○",
         "tel": "095-823-5996",
         "url": ""
@@ -1661,8 +1661,8 @@
         "department": "内科\n外科\n循環器科\n消化器科\n呼吸器科\n整形外科",
         "doctor": "安部　幸弘\n岡　忠之\n川原　史生\n今西　健夫\n非常勤医師\n平野　徹\n井上　廣",
         "first": "",
-        "name": "医療法人慈恵会　小江原中央病院 851-1132",
-        "postal_code": "",
+        "name": "医療法人慈恵会　小江原中央病院",
+        "postal_code": "851-1132",
         "revisit": "○",
         "tel": "095-846-1010",
         "url": "https://www,koebaru.com/"
@@ -1712,7 +1712,7 @@
         "name": "医療法人昭和会　長崎あじさい病院",
         "postal_code": "850-0918",
         "revisit": "○",
-        "tel": "095-828-9700（担当）095-828-9713（担当者直通）",
+        "tel": "095-828-9700\n（担当）\n095-828-9713\n（担当者直通）",
         "url": "www.ajisai-hospital.jp"
     },
     {
@@ -1805,8 +1805,8 @@
         "department": "内科\n外科\n小児科",
         "doctor": "山下　貴知男",
         "first": "",
-        "name": "五島市国民健康保険玉之浦診療所 853-0411",
-        "postal_code": "",
+        "name": "五島市国民健康保険玉之浦診療所",
+        "postal_code": "853-0411",
         "revisit": "○",
         "tel": "0959-87-2241",
         "url": ""
@@ -2084,7 +2084,7 @@
         "name": "深沢眼科",
         "postal_code": "851-0133",
         "revisit": "○",
-        "tel": "095-839-2010、090-4588-6850",
+        "tel": "095-839-2010、\n090-4588-6850",
         "url": ""
     },
     {
@@ -2501,8 +2501,8 @@
         "department": "耳鼻咽喉科",
         "doctor": "後藤　弘毅",
         "first": "〇",
-        "name": "ごとう耳鼻咽喉科・整形外科医院 859-5153",
-        "postal_code": "",
+        "name": "ごとう耳鼻咽喉科・整形外科医院",
+        "postal_code": "859-5153",
         "revisit": "〇",
         "tel": "0950-22-4377",
         "url": "https://www.gotoujibika.com/"
@@ -2600,7 +2600,7 @@
         "name": "ゆずクリニック",
         "postal_code": "850-0831",
         "revisit": "○",
-        "tel": "精神科095-822-3415糖尿病内分泌内科095-895-5560",
+        "tel": "精神科095-822-\n3415\n糖尿病内分泌内科\n095-895-5560",
         "url": "http://clinic.yuzuriha.or.jp/"
     },
     {
@@ -2849,8 +2849,8 @@
         "department": "小児科",
         "doctor": "田中　司",
         "first": "○",
-        "name": "医療法人大輪会　愛育小児科医院 850-0954",
-        "postal_code": "",
+        "name": "医療法人大輪会　愛育小児科医院",
+        "postal_code": "850-0954",
         "revisit": "○",
         "tel": "095-879-3812",
         "url": ""
@@ -2945,8 +2945,8 @@
         "department": "腎臓内科",
         "doctor": "廣瀬　弥幸",
         "first": "",
-        "name": "医療法人陽蘭会　広瀬クリニック 850-0018",
-        "postal_code": "",
+        "name": "医療法人陽蘭会　広瀬クリニック",
+        "postal_code": "850-0018",
         "revisit": "○",
         "tel": "095-828-1355",
         "url": "https;//hirose-yourankai.jp"

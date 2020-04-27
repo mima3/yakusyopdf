@@ -642,7 +642,7 @@
         "doctor": "中井　望\n中井　真理子",
         "first": "否",
         "name": "中井内科医院",
-        "postal_code": "462－0037",
+        "postal_code": "462-0037",
         "revisit": "否",
         "tel": "052-912-8822",
         "url": "http://www.nakai-naika.com"
@@ -2454,7 +2454,7 @@
         "doctor": "新美　岳",
         "first": "可",
         "name": "新美クリニック",
-        "postal_code": "4570022",
+        "postal_code": "457-0022",
         "revisit": "可",
         "tel": "052-824-1123",
         "url": "niimicl.com"
@@ -4866,7 +4866,7 @@
         "doctor": "志貴　一仁",
         "first": "否",
         "name": "志貴医院",
-        "postal_code": "444--0858",
+        "postal_code": "444-0858",
         "revisit": "否",
         "tel": "0564-53-1485",
         "url": "－"
@@ -6630,7 +6630,7 @@
         "doctor": "谷　智満\n重康敏明",
         "first": "否",
         "name": "しげやす内科クリニック",
-        "postal_code": "490－1211",
+        "postal_code": "490-1211",
         "revisit": "可",
         "tel": "052-449-5550",
         "url": "－"
@@ -6954,7 +6954,7 @@
         "doctor": "水野一明",
         "first": "否",
         "name": "みずのファミリークリニック",
-        "postal_code": "475－0925",
+        "postal_code": "475-0925",
         "revisit": "可",
         "tel": "0569－32－6001",
         "url": "－"
@@ -7030,18 +7030,6 @@
         "revisit": "否",
         "tel": "0569－22－9881",
         "url": "https://www.handa-hosp.jp/"
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
     },
     {
         "address": "",

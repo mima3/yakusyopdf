@@ -6,7 +6,7 @@
         "doctor": "川村　勝",
         "first": "×",
         "name": "川村クリニック",
-        "postal_code": "267‐0066",
+        "postal_code": "267-0066",
         "revisit": "×",
         "tel": "043－295⁻7887",
         "url": "https://www.chiba-kawamura.jp/modx/"
@@ -66,7 +66,7 @@
         "doctor": "岩崎　明美\n眞鍋　洋一",
         "first": "○",
         "name": "大多喜眼科",
-        "postal_code": "298－0215",
+        "postal_code": "298-0215",
         "revisit": "○",
         "tel": "0470-64-6246",
         "url": "http://otakiganka.com"
@@ -630,7 +630,7 @@
         "doctor": "宍戸　英雄\n宍戸　英樹",
         "first": "○",
         "name": "宍戸内科医院",
-        "postal_code": "2850837",
+        "postal_code": "285-0837",
         "revisit": "○",
         "tel": "043-487-9551",
         "url": "http://www.sisido.jp/"
@@ -690,9 +690,9 @@
         "doctor": "唐澤　秀治\n入江　邦隆\n小渋　陽一\n中村ひろみ\n小野澤陽子\n篠崎　敏明\n森島　孝行\n本田　真一",
         "first": "×",
         "name": "医療法人社団一心会初富保健病院",
-        "postal_code": "〒273-0121",
+        "postal_code": "273-0121",
         "revisit": "〇",
-        "tel": "０４７－４４２－０８１１",
+        "tel": "０４７－４４２\n－０８１１",
         "url": "https://www.hatsutomi.or.jp/"
     },
     {
@@ -1292,7 +1292,7 @@
         "name": "医療法人社団健裕会なかまち泌尿器科クリニック",
         "postal_code": "286-0048",
         "revisit": "○",
-        "tel": "0476-26-8010090-9297-3178",
+        "tel": "0476-26-8010\n090-9297-3178",
         "url": "https://www.nakamachiclinic.com"
     },
     {
@@ -1674,7 +1674,7 @@
         "doctor": "永野　玲子",
         "first": "×",
         "name": "市川レディースクリニック",
-        "postal_code": "272－0033",
+        "postal_code": "272-0033",
         "revisit": "○",
         "tel": "047-323-6158",
         "url": "https://www.ichikawa-ladiesclinic.com"
@@ -1698,7 +1698,7 @@
         "doctor": "忠岡　信彦",
         "first": "○",
         "name": "吉田クリニック",
-        "postal_code": "２７２－０８３３",
+        "postal_code": "272-0833",
         "revisit": "○",
         "tel": "047(375)2930",
         "url": ""
@@ -1736,7 +1736,7 @@
         "name": "たかはし内科小児科クリニック",
         "postal_code": "294-0045",
         "revisit": "〇",
-        "tel": "０４７０－２９－７５０１",
+        "tel": "０４７０－２９\n－７５０１",
         "url": "http://takahashi--clinic.jp"
     },
     {
@@ -1854,7 +1854,7 @@
         "doctor": "斉藤丈夫\n李鍾碩\n渡辺聡枝\n高林克日己",
         "first": "×",
         "name": "医療法人社団鼎会三和病院",
-        "postal_code": "270‐2253",
+        "postal_code": "270-2253",
         "revisit": "○",
         "tel": "047-712-0202",
         "url": "http://www.sanwa-hsp.or.jp"
@@ -2214,7 +2214,7 @@
         "doctor": "原沢　健寿",
         "first": "○",
         "name": "原沢外科内科整形外科",
-        "postal_code": "2730105",
+        "postal_code": "273-0105",
         "revisit": "○",
         "tel": "047-443-8226",
         "url": ""
@@ -2466,7 +2466,7 @@
         "doctor": "古川　健",
         "first": "△（病状による）",
         "name": "千葉県袖ケ浦福祉センター診療室",
-        "postal_code": "299－0298",
+        "postal_code": "299-0298",
         "revisit": "○",
         "tel": "0438－62－2746",
         "url": "www.cfj.or.jp/ser_05/index.html"
@@ -2574,7 +2574,7 @@
         "doctor": "前田　弘子",
         "first": "○",
         "name": "天王台こどもおとしよりクリニック",
-        "postal_code": "270－1143",
+        "postal_code": "270-1143",
         "revisit": "〇",
         "tel": "04－7182－5071",
         "url": "https：//www.tennoudai-kodomo.com/"
@@ -2924,7 +2924,7 @@
         "name": "酒々井虎の門クリニック",
         "postal_code": "285-0912",
         "revisit": "○",
-        "tel": "０４３－３１０－７０２１",
+        "tel": "０４３－３１０\n－７０２１",
         "url": ""
     },
     {
@@ -2982,7 +2982,7 @@
         "doctor": "中沢　裕貴\n岩渕　秀大\n寺島　正浩\n藤本　竜也\n福島　剛志",
         "first": "×",
         "name": "市川東病院",
-        "postal_code": "2720001",
+        "postal_code": "272-0001",
         "revisit": "○",
         "tel": "0417-327-3355",
         "url": "http://ichikawahigashi.com/"
@@ -3030,7 +3030,7 @@
         "doctor": "長谷川史郎",
         "first": "×",
         "name": "長谷川病院",
-        "postal_code": "290－0062",
+        "postal_code": "290-0062",
         "revisit": "〇",
         "tel": "0436－41－0453",
         "url": ""
@@ -3042,7 +3042,7 @@
         "doctor": "武田　有啓",
         "first": "○",
         "name": "医療法人社団清芳会おにたか武田クリニック",
-        "postal_code": "272－0015",
+        "postal_code": "272-0015",
         "revisit": "○",
         "tel": "047－333－6160",
         "url": "http://www.onitaka-takeda-clinic.com/"
@@ -3128,7 +3128,7 @@
         "name": "香取おみがわ医療センター",
         "postal_code": "289-0332",
         "revisit": "○",
-        "tel": "0478-82-3161電話のみ対応",
+        "tel": "0478-82-3161\n電話のみ対応",
         "url": "www.hospital.omigawa.chiba.jp/"
     },
     {
@@ -3182,8 +3182,8 @@
     {
         "address": "千葉県我孫子市1855-1",
         "cooperation": "",
-        "department": "",
-        "doctor": "全外来診療科 全外来担当医師",
+        "department": "全外来診療科",
+        "doctor": "全外来担当医師",
         "first": "×",
         "name": "社会医療法人社団蛍水会名戸ヶ谷あびこ病院",
         "postal_code": "270-166",
@@ -3318,7 +3318,7 @@
         "doctor": "詫摩　博史　村\n田　眞知子",
         "first": "○",
         "name": "太田整形外科医院",
-        "postal_code": "294－0045",
+        "postal_code": "294-0045",
         "revisit": "○",
         "tel": "0470－28－5500",
         "url": "http://www.citydo.com/prf/chiba/guide/sg/t000155599-top.html?c=0401004"
@@ -4290,9 +4290,9 @@
         "doctor": "森　直樹",
         "first": "×",
         "name": "医療法人社団東恵会　浦安外科胃腸科医院",
-        "postal_code": "２７９－０００２",
+        "postal_code": "279-0002",
         "revisit": "○",
-        "tel": "０４７－７１１－１５１５",
+        "tel": "０４７－７１１\n－１５１５",
         "url": "https://www.ichou-clinic.com/"
     },
     {
@@ -4340,7 +4340,7 @@
         "name": "医療法人社団楊緑会スマイルキッズクリニック",
         "postal_code": "285-0855",
         "revisit": "〇",
-        "tel": "０４３-４８７-２８８８",
+        "tel": "０４３-４８７-\n２８８８",
         "url": "http://www.smilekidsclinic.com"
     },
     {
@@ -4482,7 +4482,7 @@
         "doctor": "末村 雅明",
         "first": "×",
         "name": "医療法人社団紘和会しいの木クリニック",
-        "postal_code": "〒270-0014",
+        "postal_code": "270-0014",
         "revisit": "○",
         "tel": "047-312-1717",
         "url": "http://houmonshinryou.com/clinic/kowa-01/"
@@ -4674,7 +4674,7 @@
         "doctor": "伊藤晴夫",
         "first": "×",
         "name": "メディカルガーデン整形外科",
-        "postal_code": "2790012",
+        "postal_code": "279-0012",
         "revisit": "〇",
         "tel": "047-306-2755",
         "url": "https://itamibaibai-seikei.com/"
@@ -7146,7 +7146,7 @@
         "doctor": "長谷川正行",
         "first": "×",
         "name": "はせがわ内科外科クリニック",
-        "postal_code": "274－0063",
+        "postal_code": "274-0063",
         "revisit": "○",
         "tel": "047-469-1159",
         "url": "https://hasegawa-naikageka.jp/"
@@ -7580,7 +7580,7 @@
         "name": "医療法人社団銀のくまみんなのクリニック大久保",
         "postal_code": "277-0862",
         "revisit": "○",
-        "tel": "04-7179-555104-7141-7180",
+        "tel": "04-7179-5551\n04-7141-7180",
         "url": "https://www.min-cli.com/"
     },
     {

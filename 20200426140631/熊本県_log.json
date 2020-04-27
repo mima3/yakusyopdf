@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:861-41579",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/熊本県.pdf"
+    }
+]

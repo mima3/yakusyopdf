@@ -1,295 +1,55 @@
 [
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:7 col:tel value:082－516－1185",
-        "page": 5,
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが数値ではありません row:13 col:tel value:082－262－5200",
-        "page": 6,
+        "kind": "info",
+        "message": "空行のため処理をスキップします:3",
+        "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが数値ではありません row:9 col:postal_code value:７３４－０００４",
-        "page": 7,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:10 col:tel value:082－568-2234",
-        "page": 7,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:2 col:tel value:",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:5",
         "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:3 col:name",
+        "message": "値が存在しません. index:6 col:4 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:7",
         "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:3 col:postal_code value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:3 col:address",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:tel value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:5 col:name",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:5 col:postal_code value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:5 col:address",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:5 col:tel value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:6 col:tel value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:7 col:name",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:7 col:postal_code value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:7 col:address",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:7 col:tel value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:15 col:tel value:082‐831‐7220",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:8 col:tel value:082－842－0106",
+        "message": "値が存在しません. index:10 col:4 value:",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが数値ではありません row:10 col:tel value:",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:11",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが空です row:11 col:name",
-        "page": 11,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:11 col:postal_code value:",
-        "page": 11,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:11 col:address",
-        "page": 11,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:11 col:tel value:",
-        "page": 11,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:tel value:082－842－0016",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:7",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが空です row:7 col:name",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:7 col:postal_code value:",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:7 col:address",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:7 col:tel value:",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:8 col:tel value:082‐888‐1575",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:9 col:postal_code value:736‐8602",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:8 col:postal_code value:722－0001",
-        "page": 14,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:7 col:postal_code value:730ｰ0014",
-        "page": 15,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:7 col:tel value:0823ｰ32ｰ0011",
-        "page": 15,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:tel value:0845－25－0029",
-        "page": 18,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:9 col:postal_code value:739－0041",
-        "page": 25,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:9 col:tel value:082－423－2176",
-        "page": 25,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:postal_code value:739－2731",
-        "page": 27,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:tel value:0823－82－2074",
-        "page": 27,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:9 col:tel value:0829－50－6166",
-        "page": 27,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:12 col:tel value:0829－34-3400",
-        "page": 27,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:14 col:postal_code value:738−0002",
-        "page": 27,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:6 col:postal_code value:７３１－０６１２",
-        "page": 28,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:3 col:name",
-        "page": 30,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:postal_code value:",
-        "page": 30,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:3 col:address",
-        "page": 30,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:tel value:",
-        "page": 30,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:5 col:tel value:0847-85-2711\n（対応時間）\n8時30分から16\n時まで",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:3",
         "page": 30,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     }

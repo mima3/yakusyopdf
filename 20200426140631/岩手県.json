@@ -60,18 +60,6 @@
         "url": "http://www.rnac.ne.jp/~otomegawahp/"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "岩手県盛岡市長田町10-32",
         "cooperation": "いするぎ医院（岩手県盛岡市大通3丁目3-22）\n本間内科医院（岩手県盛岡市上田2丁目20-13）",
         "department": "泌尿器科\n外科、内科",
@@ -444,7 +432,7 @@
         "url": "なし"
     },
     {
-        "address": "岩手県上閉伊郡大槌町小鎚第23地割字寺野１番地１ 0193-42-2121",
+        "address": "岩手県上閉伊郡大槌町小鎚第23地割字寺野１番地１",
         "cooperation": "",
         "department": "内科\n外科\n整形外科\n皮膚科\n眼科",
         "doctor": "佐藤　一\n黒田　継久\n佐々木　健治\n種川　達也\n岩田　千尋\n（整形外科応援\n医師）\n（皮膚科応援医\n師）\n（眼科応援医\n師）",
@@ -452,19 +440,7 @@
         "name": "岩手県立大槌病院",
         "postal_code": "028-1121",
         "revisit": "○",
-        "tel": "",
+        "tel": "0193-42-2121",
         "url": "https://www5.pref.iwate.jp/~ootsuchi/"
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
     }
 ]

@@ -234,7 +234,7 @@
         "doctor": "市来能成",
         "first": "×",
         "name": "市来内科・外科医院",
-        "postal_code": "８８０−００２３",
+        "postal_code": "880-0023",
         "revisit": "○",
         "tel": "0985-25-1888",
         "url": "無"
@@ -918,7 +918,7 @@
         "doctor": "上野　尚美",
         "first": "×",
         "name": "上野医院",
-        "postal_code": "881－0104",
+        "postal_code": "881-0104",
         "revisit": "○",
         "tel": "0983-44-5100",
         "url": "なし"
@@ -930,7 +930,7 @@
         "doctor": "大森　史彦",
         "first": "×",
         "name": "大森内科医院",
-        "postal_code": "884－0002",
+        "postal_code": "884-0002",
         "revisit": "○",
         "tel": "0983-22-0055",
         "url": "なし"
@@ -942,7 +942,7 @@
         "doctor": "大塚　康二郎\n大塚　直純\n大塚　記史",
         "first": "○",
         "name": "大塚病院",
-        "postal_code": "881－0016",
+        "postal_code": "881-0016",
         "revisit": "○",
         "tel": "0983-43-0016",
         "url": "http://www.otsuka.or.jp/"
@@ -954,7 +954,7 @@
         "doctor": "大塚　和子",
         "first": "○",
         "name": "大塚皮膚科医院",
-        "postal_code": "881－0016",
+        "postal_code": "881-0016",
         "revisit": "○",
         "tel": "0983-43-5234",
         "url": "http://www.otsuka.or.jp/"
@@ -966,7 +966,7 @@
         "doctor": "植川　和利\n宮尾　雄治\n江崎　公明\n田ノ上　絵美\n安藤　徹\n坂田　勝美\n中原　彰彦\n唐澤　直希",
         "first": "×",
         "name": "独立行政法人国立病院機構宮崎病院",
-        "postal_code": "889－1301",
+        "postal_code": "889-1301",
         "revisit": "○",
         "tel": "0983-27-1036",
         "url": "https://miyazaki.hosp.go.jp/"
@@ -1278,7 +1278,7 @@
         "doctor": "佐藤　伸矢",
         "first": "×",
         "name": "さとう耳鼻咽喉科",
-        "postal_code": "882－0056",
+        "postal_code": "882-0056",
         "revisit": "○\n（アレルギー性鼻炎\nと\nめまいを主に）",
         "tel": "0982－29－3939",
         "url": "－"
@@ -1292,7 +1292,7 @@
         "name": "五ヶ瀬町国民健康保険病院",
         "postal_code": "882-1203",
         "revisit": "○",
-        "tel": "0982-73-5500",
+        "tel": "0982-73-\n5500",
         "url": "http://www.town.gokase.miyazaki.jp/kakuka/hospital/"
     }
 ]

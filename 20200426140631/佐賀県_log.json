@@ -1,115 +1,25 @@
 [
     {
-        "kind": "warn",
-        "message": "データが数値ではありません row:8 col:tel value:0952−20−1671",
-        "page": 1,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:3 col:name",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:3",
         "page": 2,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:postal_code value:",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:5",
         "page": 2,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが空です row:3 col:address",
-        "page": 2,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:3 col:tel value:",
-        "page": 2,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:5 col:name",
-        "page": 2,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:5 col:postal_code value:",
-        "page": 2,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:5 col:address",
-        "page": 2,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:5 col:tel value:",
-        "page": 2,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:9 col:tel value:0955－72－5125",
-        "page": 3,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:1 col:tel value:",
-        "page": 7,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:1 col:name",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:1",
         "page": 8,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが数値ではありません row:1 col:postal_code value:",
-        "page": 8,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:1 col:address",
-        "page": 8,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:1 col:tel value:",
-        "page": 8,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:2 col:name",
-        "page": 8,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:2 col:postal_code value:",
-        "page": 8,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:2 col:address",
-        "page": 8,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:2 col:tel value:",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:2",
         "page": 8,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/佐賀県.pdf"
     }

@@ -122,8 +122,8 @@
     {
         "address": "秋田県秋田市南通みその町3番15号",
         "cooperation": "",
-        "department": "すべての診療科 各診療科医師",
-        "doctor": "",
+        "department": "すべての診療科",
+        "doctor": "各診療科医師",
         "first": "×",
         "name": "中通総合病院",
         "postal_code": "010-8577",
@@ -330,7 +330,7 @@
         "doctor": "高清水一善",
         "first": "○",
         "name": "髙清水医院",
-        "postal_code": "０１０－０００１",
+        "postal_code": "010-0001",
         "revisit": "○",
         "tel": "018-832-7122",
         "url": ""
@@ -368,7 +368,7 @@
         "name": "医療法人 杏仁会ひかり桜ケアクリニック",
         "postal_code": "010-0042",
         "revisit": "○",
-        "tel": "018-874-8858080-1667-8894（担当者携帯：菅原）",
+        "tel": "018-874-8858\n080-1667-8894\n（担当者携帯：菅\n原）",
         "url": "http://kyojinkai.com/sakura-top/"
     },
     {
@@ -534,7 +534,7 @@
         "doctor": "堤　祥浩",
         "first": "○",
         "name": "つつみ整形外科",
-        "postal_code": "011－0902",
+        "postal_code": "011-0902",
         "revisit": "○",
         "tel": "018－880－6060",
         "url": "http://www.tsutsumi.e-doctor.info/"
@@ -630,7 +630,7 @@
         "doctor": "照井　哲",
         "first": "○",
         "name": "仙南診療所",
-        "postal_code": "019－1235",
+        "postal_code": "019-1235",
         "revisit": "○",
         "tel": "0187-87-8500",
         "url": ""
@@ -678,7 +678,7 @@
         "doctor": "児玉　達彦",
         "first": "○",
         "name": "児玉内科クリニック",
-        "postal_code": "018－3331",
+        "postal_code": "018-3331",
         "revisit": "○",
         "tel": "0186－69－7311",
         "url": "http://website2.infomity.net/8270000008/"
@@ -954,7 +954,7 @@
         "doctor": "水沢広和",
         "first": "○",
         "name": "水沢医院",
-        "postal_code": "010－0065",
+        "postal_code": "010-0065",
         "revisit": "○",
         "tel": "018－866-5533",
         "url": ""
@@ -978,7 +978,7 @@
         "doctor": "佐藤伸逸",
         "first": "○",
         "name": "医療法人さとうハートクリニック",
-        "postal_code": "015－0013",
+        "postal_code": "015-0013",
         "revisit": "○",
         "tel": "0184-23-8600",
         "url": "http://www.satoheart.com/"
@@ -1002,9 +1002,9 @@
         "doctor": "山田暢夫",
         "first": "×",
         "name": "やまだ糖尿病・胃腸内科クリニック",
-        "postal_code": "０１５－００５１",
+        "postal_code": "015-0051",
         "revisit": "○",
-        "tel": "０１８４－２７－１３１３",
+        "tel": "０１８４－２７\n－１３１３",
         "url": "http://clinic-yamada.jp"
     },
     {
@@ -1321,9 +1321,9 @@
     },
     {
         "address": "秋田県北秋田市李岱字下豊田２０",
-        "cooperation": "齋藤　浩太郎 北秋田市民病院（秋田県北秋田市下杉字上清水沢16-29）",
+        "cooperation": "北秋田市民病院（秋田県北秋田市下杉字上清水沢16-29）",
         "department": "内科\n呼吸器科\nアレルギー科",
-        "doctor": "",
+        "doctor": "齋藤　浩太郎",
         "first": "○",
         "name": "北秋田市国民健康保険合川診療所",
         "postal_code": "018-4282",
@@ -1338,7 +1338,7 @@
         "doctor": "菅原　純哉\n館岡　正子",
         "first": "×",
         "name": "稲庭クリニック",
-        "postal_code": "010－0011",
+        "postal_code": "010-0011",
         "revisit": "○",
         "tel": "018－835－1210",
         "url": "https://www.kyukokai.com/warabekai/inaniwa-clinic/"

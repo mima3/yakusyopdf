@@ -1,7 +1,7 @@
 [
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:11 col:postal_code value:",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:",
         "page": 1,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/滋賀県.pdf"
     }

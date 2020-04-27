@@ -156,18 +156,6 @@
         "url": "http://www7b.biglobe.ne.jp/~yanagita/"
     },
     {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
-    },
-    {
         "address": "三重県四日市市安島1-4-16　カネニビル2F",
         "cooperation": "",
         "department": "心療内科\n精神科",
@@ -209,7 +197,7 @@
         "department": "脳神経外科　　脳神経内科　　内科、外科",
         "doctor": "長谷川　浩一",
         "first": "○",
-        "name": "17 長谷川脳神経外科クリニック",
+        "name": "長谷川脳神経外科クリニック",
         "postal_code": "510-0002",
         "revisit": "○",
         "tel": "059-330-0330",
@@ -558,7 +546,7 @@
         "doctor": "草川　雅之",
         "first": "○\n（最近5年間に受\n診歴のある方の\nみ）",
         "name": "草川医院",
-        "postal_code": "514－0125",
+        "postal_code": "514-0125",
         "revisit": "○",
         "tel": "059-232-2210",
         "url": ""
@@ -682,18 +670,6 @@
         "revisit": "○",
         "tel": "059-265-2016",
         "url": "https://tsu-med.jp/komada_hayashi/"
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
     },
     {
         "address": "三重県伊賀市小田町258-1",
@@ -858,7 +834,7 @@
         "doctor": "井口光正",
         "first": "×",
         "name": "医療法人井口小児科",
-        "postal_code": "５１５－２３２４",
+        "postal_code": "515-2324",
         "revisit": "○",
         "tel": "0598-42-2900",
         "url": ""

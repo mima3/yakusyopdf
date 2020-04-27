@@ -960,15 +960,15 @@
         "url": ""
     },
     {
-        "address": "990-0042 山形県山形市七日町1-4-31山形七日町ﾜｼﾝﾄﾝﾎﾃﾙ1階 023-625-8887",
+        "address": "山形県山形市七日町1-4-31山形七日町ﾜｼﾝﾄﾝﾎﾃﾙ1階",
         "cooperation": "",
         "department": "精神科\n心療内科",
         "doctor": "髙橋誠一郎",
         "first": "×",
         "name": "七日町メンタルクリニック",
-        "postal_code": "",
+        "postal_code": "990-0042",
         "revisit": "○",
-        "tel": "",
+        "tel": "023-625-8887",
         "url": "https://www.nanukamachimc.jp"
     },
     {
@@ -1112,7 +1112,7 @@
         "name": "林内科・レディースクリニック",
         "postal_code": "990-2339",
         "revisit": "○",
-        "tel": "023-688-8781（内科）023-688-8681",
+        "tel": "023-688-8781\n（内科）\n023-688-8681",
         "url": "https://itp.ne.jp/info/067753744106341930/"
     },
     {
@@ -2074,18 +2074,6 @@
         "revisit": "○",
         "tel": "0237-54-3888",
         "url": "clinics.medley.life/clinics/5c45258bdcc22a5ae3f41028 ○"
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
-        "url": ""
     },
     {
         "address": "山形県東根市神町中央一丁目8番11号",
@@ -3369,18 +3357,6 @@
         "postal_code": "999-0121",
         "revisit": "○",
         "tel": "0238-42-2151",
-        "url": ""
-    },
-    {
-        "address": "",
-        "cooperation": "",
-        "department": "",
-        "doctor": "",
-        "first": "",
-        "name": "",
-        "postal_code": "",
-        "revisit": "",
-        "tel": "",
         "url": ""
     },
     {

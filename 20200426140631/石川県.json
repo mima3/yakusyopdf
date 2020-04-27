@@ -282,7 +282,7 @@
         "doctor": "角田弘一",
         "first": "○",
         "name": "角田医院",
-        "postal_code": "929‐1215",
+        "postal_code": "929-1215",
         "revisit": "○",
         "tel": "076-281-0012",
         "url": ""
@@ -414,7 +414,7 @@
         "doctor": "中積智子、中積\n泰人、結城仰\n子、横山浩一",
         "first": "○",
         "name": "金沢メディカルステーションヴィーク",
-        "postal_code": "9200858",
+        "postal_code": "920-0858",
         "revisit": "○",
         "tel": "076-235-4114",
         "url": "ｖｉｅｃ＠ｖｉｅｃ．Ｊｐ"
@@ -558,7 +558,7 @@
         "doctor": "有川　功\n有川　佳代\n霜田　ふゆみ\n濱口　毅",
         "first": "○",
         "name": "医）有川整形外科医院",
-        "postal_code": "９２４－０８８２",
+        "postal_code": "924-0882",
         "revisit": "○",
         "tel": "076-275-7500",
         "url": "http://www.arikawaseikei.jp/"
@@ -716,7 +716,7 @@
         "name": "野々市こころのクリニック",
         "postal_code": "921-8809",
         "revisit": "○",
-        "tel": "076-248-2122https://www.kokorono-cl.com/",
+        "tel": "076-248-2122\nhttps://www.kokorono-cl.com/",
         "url": ""
     },
     {
@@ -738,7 +738,7 @@
         "doctor": "山本博",
         "first": "×",
         "name": "やまもと内科医院",
-        "postal_code": "9240836",
+        "postal_code": "924-0836",
         "revisit": "○",
         "tel": "762743588",
         "url": ""
@@ -1074,7 +1074,7 @@
         "doctor": "柳瀬晴也",
         "first": "×",
         "name": "やなせ医院",
-        "postal_code": "929－0124",
+        "postal_code": "929-0124",
         "revisit": "○",
         "tel": "0761－55－0166",
         "url": "http//yanase-cl.jp"
@@ -1146,7 +1146,7 @@
         "doctor": "辻口　大",
         "first": "○",
         "name": "医療法人社団辻口医院",
-        "postal_code": "929－2241",
+        "postal_code": "929-2241",
         "revisit": "○",
         "tel": "0767－66－0118",
         "url": ""
@@ -1170,7 +1170,7 @@
         "doctor": "窪田　善之",
         "first": "×",
         "name": "くぼた歯科医院",
-        "postal_code": "923－1271",
+        "postal_code": "923-1271",
         "revisit": "○",
         "tel": "076-277-0248",
         "url": "https://itp.ne.jp/info/173733003169250290/"
@@ -1280,7 +1280,7 @@
         "name": "まるおかクリニック",
         "postal_code": "927-0027",
         "revisit": "○",
-        "tel": "0768-52-8228",
+        "tel": "0768-52-\n8228",
         "url": ""
     },
     {
@@ -1326,7 +1326,7 @@
         "doctor": "笠原久美子",
         "first": "○",
         "name": "河崎医院",
-        "postal_code": "9250141",
+        "postal_code": "925-0141",
         "revisit": "○",
         "tel": "767320019",
         "url": ""

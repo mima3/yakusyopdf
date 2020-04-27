@@ -1,32 +1,38 @@
 [
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:10 col:postal_code value:162ｰ0811",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:162ｰ0811",
         "page": 4,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:10 col:tel value:03ｰ6228ｰ1783",
-        "page": 4,
+        "message": "郵便番号の形式ではありません index:13 col:2 value:03-3718-9907",
+        "page": 29,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:6 col:tel value:03-3777-7712 (cid:10) 070-7489-2324",
-        "page": 27,
+        "message": "郵便番号の形式ではありません index:2 col:2 value:03-3386-6500",
+        "page": 37,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:2 col:tel value:03－3565－6639",
-        "page": 41,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:5 col:postal_code value:177ｰ0031",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:177ｰ0031",
         "page": 54,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:181-00013",
+        "page": 65,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:187-00025",
+        "page": 73,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/東京都.pdf"
     }
 ]

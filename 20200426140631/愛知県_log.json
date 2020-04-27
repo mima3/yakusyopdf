@@ -1,18 +1,6 @@
 [
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:16 col:postal_code value:462－0037",
-        "page": 2,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:64 col:postal_code value:490－1211",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
         "message": "列数の少ないデータフレームが取得されたためスキップします df.columns.values:[0 1 2 3]",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
@@ -24,92 +12,56 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
-        "kind": "warn",
-        "message": "データが数値ではありません row:25 col:postal_code value:475－0925",
+        "kind": "info",
+        "message": "空行のため処理をスキップします:32",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:25 col:tel value:0569－32－6001",
+        "message": "値が存在しません. index:33 col:3 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:31 col:tel value:0569－22－9881",
+        "message": "郵便番号の形式ではありません index:33 col:4 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:32 col:name",
+        "message": "値が存在しません. index:33 col:5 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:32 col:postal_code value:",
+        "message": "値が存在しません. index:33 col:6 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:32 col:address",
+        "message": "値が存在しません. index:57 col:3 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:32 col:tel value:",
+        "message": "郵便番号の形式ではありません index:57 col:4 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが空です row:33 col:name",
+        "message": "値が存在しません. index:57 col:5 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
         "kind": "warn",
-        "message": "データが数値ではありません row:33 col:postal_code value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:33 col:address",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:33 col:tel value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:57 col:name",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:57 col:postal_code value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが空です row:57 col:address",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:57 col:tel value:",
+        "message": "値が存在しません. index:57 col:6 value:",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
@@ -117,12 +69,6 @@
         "kind": "warn",
         "message": "列数の少ないデータフレームが取得されたためスキップします df.columns.values:[0 1 2 3]",
         "page": 14,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "データが数値ではありません row:47 col:tel value:0563－54－3115",
-        "page": 15,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     }
 ]

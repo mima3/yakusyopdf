@@ -2,23 +2,15 @@
     "download_time": "2020-04-26 14:06:32.273186",
     "list": [
         {
-            "local": "C:\\dev\\python3\\yakusyopdf/20200426140631/神奈川県.pdf",
-            "name": "神奈川県",
-            "url": "https://www.mhlw.go.jp/content/000625137.pdf"
+            "local": "C:\\dev\\python3\\yakusyopdf/20200426140631/長野県.pdf",
+            "name": "長野県",
+            "url": "https://www.mhlw.go.jp/content/000625000.pdf"
 
-        },
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/20200426140631/三重県.pdf",
-            "name": "三重県",
-            "url": "https://www.mhlw.go.jp/content/000625027.pdf"
-        },
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/20200426140631/徳島県.pdf",
-            "name": "徳島県",
-            "url": "https://www.mhlw.go.jp/content/000625134.pdf"
+
         }
+
     ],
-    "listx": [
+    "listⓍ": [
         {
             "local": "C:\\dev\\python3\\yakusyopdf/20200426140631/北海道.pdf",
             "name": "北海道",
