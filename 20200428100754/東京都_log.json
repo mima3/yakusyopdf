@@ -1,0 +1,26 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:03-3718-9907",
+        "page": 38,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:03-3386-6500",
+        "page": 45,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:181-00013",
+        "page": 73,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:187-00025",
+        "page": 80,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/東京都.pdf"
+    }
+]

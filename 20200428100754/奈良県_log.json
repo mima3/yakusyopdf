@@ -1,0 +1,50 @@
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:9 col:2 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:3 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:9 col:4 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:9 col:5 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:10 col:2 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:3 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:10 col:4 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:10 col:5 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/奈良県.pdf"
+    }
+]

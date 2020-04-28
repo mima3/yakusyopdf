@@ -1,0 +1,8 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:993-003",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山形県.pdf"
+    }
+]

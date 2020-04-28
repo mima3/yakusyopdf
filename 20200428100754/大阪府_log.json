@@ -1,0 +1,20 @@
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:11 col:4 value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:8 col:4 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:19 col:2 value:534-021",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/大阪府.pdf"
+    }
+]

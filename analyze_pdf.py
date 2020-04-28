@@ -1,210 +1,175 @@
+"""「新型コロナウイルス感染症の感染拡大を踏まえたオンライン診療について」のページから対応医療機関リストのPDFを解析する."""
 import sys
+import re
 import json
-import camelot
 import csv
 import copy
 import mojimoji
-import re
-from tqdm import tqdm
+import analyze_pdf_table
 
 
-class AnalyzePdf:
-    log = []
-    target_path = ''
-    page = 0
-    rule = {}
-    fixrec_func = None
+CHECK_POSTAL_CODE = r'0[0-9]{1}-[0-9]{4}-[0-9]{4}|0[0-9]{2}-[0-9]{3}-[0-9]{4}|0[0-9]{3}-[0-9]{2}-[0-9]{4}|0[0-9]{4}-[0-9]{1}-[0-9]{4}'
+DEFAULT_RULE = {
+    "first_page_offset" : 2,
+    "other_page_offset" : 2,
+    "char_margin" : 0.25,         # 2つの文字がこのマージンよりも接近している場合、それらは同じ行の一部と見なされます。
+    "accuracy" : 90.0,
+    "line_scale": 30,             # 大きいほど小さい線を検出するが、大きすぎると文字を線と見なしてしまう。
+    "columns" : {
+        "no" : {
+            "index" : 0,
+        },
+        "name" : {
+            "index" : 1,
+            "chk_func" : "chk_required",
+            "cnv_func" : "conv_oneline"
+        },
+        "postal_code" : {
+            "index" : 2,
+            "chk_func" : "chk_postal_code",
+            "cnv_func" : "conv_postal_code"
+        },
+        "address" : {
+            "index" : 3,
+            "chk_func" : "chk_required",
+            "cnv_func" : "conv_oneline"
+        },
+        "tel": {
+            "index" : 4,
+            "chk_func" : "chk_required"
+        },
+        "url": {
+            "index" : 5,
+            "cnv_func" : "conv_url"
+        },
+        "first": {
+            "index" : 6,
+        },
+        "revisit": {
+            "index" : 7,
+        },
+        "department": {
+            "index" : 8,
+        },
+        "doctor": {
+            "index" : 9,
+        },
+        "cooperation" : {
+            "index" : 10
+        }
+    }
+}
 
-    def info(self, s):
-        self.log.append({
-             "kind" : "info",
-             "path" : self.target_path,
-             "page" : self.page,
-             "message" : s
-        })
 
-    def warn(self, s):
-        self.log.append({
-             "kind" : "warn",
-             "path" : self.target_path,
-             "page" : self.page,
-             "message" : s
-        })
-
-    def _check_empty_line(self, df, ix):
-        """指定の行が空行か確認する"""
-        result = True
-        for k in self.rule['columns']:
-           col_ix = self.rule['columns'][k]['index']
-           if df.loc[ix][col_ix]:
-               result = False
-               break
-        return result
-    
-    def _parse_table(self, table):
-        ret = []
-        df = table.df
-        if len(df.columns.values) < len(self.rule['columns']):
-            self.warn("列数の少ないデータフレームが取得されたためスキップします df.columns.values:{}".format(str(df.columns.values)))
-            return ret
-
-        for ix in df.index.values:
-            rec = {}
-            # タイトル行をスキップする処理
-            offset = 0
-            if self.page == 1:
-                offset = self.rule['first_page_offset']
-            else:
-                offset = self.rule['other_page_offset']
-            if ix < offset:
-                continue
-            if self._check_empty_line(df, ix):
-                self.info("空行のため処理をスキップします:{}".format(ix))
-                continue
-            for k in self.rule['columns']:
-                col_ix = self.rule['columns'][k]['index']
-                v = df.loc[ix][col_ix]
-                chk_error = ""
-                if 'chk_func' in self.rule['columns'][k]:
-                    chk_method = getattr(self, self.rule['columns'][k]['chk_func'])
-                    chk_error = chk_method(v)
-                    if chk_error:
-                        self.warn("{} index:{} col:{} value:{}".format(chk_error, ix, col_ix, v))
-
-                if 'cnv_func' in self.rule['columns'][k] and not chk_error:
-                    cnv_method = getattr(self, self.rule['columns'][k]['cnv_func'])
-                    v = cnv_method(v)
-                rec[k] = v
-            if self.fixrec_func:
-                rec = self.fixrec_func(rec, self.info)
-            rec['page'] = str(self.page)
-            rec['order'] = str(table.order)
-            rec['index'] = str(ix)
-            ret.append(rec)
-        return ret
-
-    def _parse_page(self):
-        ret = []
-        tables = camelot.read_pdf(
-            self.target_path,
-            pages=str(self.page),
-            line_scale = self.rule['line_scale'],
-            layout_kwargs={'char_margin': self.rule['char_margin']},
-            copy_text=['v']
+def fix_name(rec, log):
+    """nameの修正処理"""
+    if rec['no']:
+        # 北海道などは名前が長すぎて項番の列と合体してしまっている
+        # 改行で区切ってもっとも長いものを名前として決定する
+        names = rec['no'].split('\n')
+        target_name = names[0]
+        no = names[len(names)-1]
+        for name in names:
+            if len(target_name) < len(name):
+                no = target_name
+                target_name = name
+        rec['name'] = target_name
+        log(
+            "nameが空のためnoから値を取得しました. no:{}->{}, {}".format(
+                rec['no'],
+                no,
+                rec['name']
+            )
         )
+        rec['no'] = no
+    if rec['postal_code'] and not rec['name']:
+        # 郵便番号に混在しているか確認
+        # ※郵便番号に表記の揺れがあったらあきらめる
+        postal_code = rec['postal_code']
+        m = re.search("[0-9]{3}-[0-9]{4}", postal_code)
+        if m and analyze_pdf_table.AnalyzePdfTable.conv_postal_code(postal_code) != "":
+            rec['name'] = postal_code[0:m.span()[0]]
+            rec['postal_code'] = m.group()
+            log(
+                "nameが空のためpostal_codeから値を取得しました. postal_code:{}->{}, {}".format(
+                    postal_code,
+                    rec['name'],
+                    rec['postal_code']
+                )
+            )
 
-        if len(tables) == 0:
-            return ret
-        for table in tables:
-            if table.parsing_report['accuracy'] <= self.rule['accuracy']:
-                self.warn("解析対象のテーブルではありません accurasy:{}/{}".format(table.parsing_report['accuracy'], self.rule['accuracy']))
-                continue
-            ret.extend(self._parse_table(table))
-        return ret
+def fix_postal_code(rec, log):
+    """postal_codeの修正処理"""
+    if rec['name']:
+        # 施設名に混在しているか確認
+        # ※郵便番号に表記の揺れがあったらあきらめる
+        name = rec['name']
+        m = re.search("[0-9]{3}-[0-9]{4}", name)
+        if m:
+            rec['name'] = name[0:m.span()[0]]
+            rec['postal_code'] = m.group()
+            log(
+                "postal_codeが空のためnameから値を取得しました. name:{}->{}, {}".format(
+                    name,
+                    rec['name'],
+                    rec['postal_code']
+                )
+            )
 
+def fix_tel(rec, log):
+    """電話番号の修正処理"""
+    if rec['url']:
+        # urlに混在している場合
+        url = rec['url']
+        m = re.match(r'[\d-]+', url)
+        if m:
+            rec['tel'] = m.group()
+            rec['url'] = url[m.span()[1]:]
+            log("telが空のためurlから値を取得しました. url:{}->{}, {}".format(url, rec['tel'], rec['url']))
+    if rec['address']:
+        # addressに混在している場合
+        # ※電話番号に表記の揺れがあったらあきらめる
+        address = rec['address']
+        m = re.search(CHECK_POSTAL_CODE, address)
+        if m:
+            rec['address'] = address[0:m.span()[0]]
+            rec['tel'] = m.group()
+            log(
+                "telが空のためaddressから値を取得しました. address:{}->{}, {}".format(
+                    address,
+                    rec['address'],
+                    rec['tel']
+                )
+            )
 
-    def parse_pdf(self, path, rule, fixrec_func = None):
-        self.target_path = path
-        self.rule = rule
-        self.page = 0
-        self.log = []
-        self.fixrec_func = fixrec_func
-        ret = []
-        handler=camelot.handlers.PDFHandler(path)
-        pages = handler._get_pages(path, pages="all")
-        for self.page in tqdm(pages):
-           page_ret = self._parse_page()
-           ret.extend(page_ret)
-        return ret
-
-    @classmethod
-    def conv_oneline(cls, s):
-        s = s.replace('\n', '')
-        s = s.replace('\r', '')
-        return s
-
-    @classmethod
-    def conv_url(cls, s):
-        s = cls.conv_oneline(s)
-        return mojimoji.zen_to_han(s)
-
-    @classmethod
-    def chk_required(cls, s):
-        if not s.strip():
-            return "値が存在しません."
-        return ""
-
-    @classmethod
-    def conv_number(cls, s):
-        s = cls.conv_oneline(s)
-        s = mojimoji.zen_to_han(s)
-        s = s.strip()
-        s = s.replace('〒', '')
-        s = s.replace('-', '')
-        s = s.replace('ー', '')
-        s = s.replace('―', '')
-        s = s.replace('‐', '')
-        s = s.replace('－', '')
-        s = s.replace('−', '')
-        s = s.replace('ｰ', '')
-        s = s.replace('(', '')
-        s = s.replace(')', '')
-        return s
-
-    @classmethod
-    def conv_postal_code(cls, s):
-        s = cls.conv_number(s)
-        return s[0:3] + "-" + s[3:]
-
-    @classmethod
-    def chk_postal_code(cls, s):
-        s = cls.conv_number(s)
-        if not s.isdigit() or len(s) != 7:
-            return "郵便番号の形式ではありません"
-        return ""
 
 def fix_record(rec, log):
+    """１行ごとにデータが上手く取得できなかった場合に修正する"""
     if not rec['name']:
-        # 名前がない場合
-        if rec['postal_code']:
-            # 郵便番号に混在しているか確認
-            # ※郵便番号に表記の揺れがあったらあきらめる
-            postal_code = rec['postal_code']
-            m = re.search("[0-9]{3}-[0-9]{4}", postal_code)
-            if m and AnalyzePdf.conv_postal_code(postal_code) != "":
-                rec['name'] = postal_code[0:m.span()[0]]
-                rec['postal_code'] = m.group()
-                log("nameが空のためpostal_codeから値を取得しました. postal_code:{}->{}, {}".format(postal_code, rec['name'], rec['postal_code']))
+        fix_name(rec, log)
+
     if not rec['postal_code']:
-        # 郵便番号がない場合
-        if rec['name']:
-            # 施設名に混在しているか確認
-            # ※郵便番号に表記の揺れがあったらあきらめる
-            name = rec['name']
-            m = re.search("[0-9]{3}-[0-9]{4}", name)
-            if m:
-                rec['name'] = name[0:m.span()[0]]
-                rec['postal_code'] = m.group()
-                log("postal_codeが空のためnameから値を取得しました. name:{}->{}, {}".format(name, rec['name'], rec['postal_code']))
+        fix_postal_code(rec, log)
+
+    if not rec['address']:
+        if rec['tel']:
+            # 電話番号はある場合
+            tel = mojimoji.zen_to_han(rec['tel'])
+            m = re.search(CHECK_POSTAL_CODE, tel)
+            if m and m.span()[0] != 0:
+                rec['address'] = mojimoji.han_to_zen(tel[0:m.span()[0]])
+                rec['tel'] = m.group()
+                log(
+                    "addressが空のためtelから値を取得しました. tel:{}->{}, {}".format(
+                        tel,
+                        rec['address'],
+                        rec['tel']
+                    )
+                )
+
     if not rec['tel']:
         # 電話番号がない場合
-        if rec['url']:
-            # urlに混在している場合
-            url = rec['url']
-            m = re.match(r'[\d-]+', url)
-            if m:
-                rec['tel'] = m.group()
-                rec['url'] = url[m.span()[1]:]
-                log("telが空のためurlから値を取得しました. url:{}->{}, {}".format(url, rec['tel'], rec['url']))
-        if rec['address']:
-            # addressに混在している場合
-            # ※電話番号に表記の揺れがあったらあきらめる
-            address = rec['address']
-            m = re.search(r'0[0-9]{1}-[0-9]{4}-[0-9]{4}|0[0-9]{2}-[0-9]{3}-[0-9]{4}|0[0-9]{3}-[0-9]{2}-[0-9]{4}|0[0-9]{4}-[0-9]{1}-[0-9]{4}', address)
-            if m:
-                rec['address'] = address[0:m.span()[0]]
-                rec['tel'] = m.group()
-                log("telが空のためaddressから値を取得しました. address:{}->{}, {}".format(address, rec['address'], rec['tel']))
+        fix_tel(rec, log)
     else:
         # 電話番号ある場合
         tel = mojimoji.zen_to_han(rec['tel'])
@@ -213,110 +178,50 @@ def fix_record(rec, log):
             ix = rec['tel'].find('http')
             if ix != -1:
                 rec['tel'] = tel[:ix-1]
-                rec['url'] = AnalyzePdf.conv_url(tel[ix:])
-                log("telにhttpを検出したためurlにコピーします. tel:{}->{}, {}".format(tel, rec['tel'], rec['url']))
-
-    if not rec['address']:
-        if rec['tel']:
-            # 電話番号はある場合
-            tel = mojimoji.zen_to_han(rec['tel'])
-            m = re.search(r'0[0-9]{1}-[0-9]{4}-[0-9]{4}|0[0-9]{2}-[0-9]{3}-[0-9]{4}|0[0-9]{3}-[0-9]{2}-[0-9]{4}|0[0-9]{4}-[0-9]{1}-[0-9]{4}', tel)
-            if m and m.span()[0] != 0:
-                rec['address'] = mojimoji.han_to_zen(tel[0:m.span()[0]])
-                rec['tel'] = m.group()
-                log("addressが空のためtelから値を取得しました. tel:{}->{}, {}".format(tel, rec['address'], rec['tel']))
+                rec['url'] = analyze_pdf_table.AnalyzePdfTable.conv_url(tel[ix:])
+                log(
+                    "telにhttpを検出したためurlにコピーします. tel:{}->{}, {}".format(
+                        tel,
+                        rec['tel'],
+                        rec['url']
+                    )
+                )
 
     return rec
 
-def copy_record(list, src_ix, dst_ix):
-    for k in list[dst_ix]:
-        if not list[dst_ix][k]:
-            result[dst_ix][k] = result[src_ix][k]
+def copy_record(rec_list, src_ix, dst_ix):
+    """レコードのコピー処理"""
+    for k in rec_list[dst_ix]:
+        if not rec_list[dst_ix][k]:
+            rec_list[dst_ix][k] = rec_list[src_ix][k]
 
-
-if __name__ == '__main__':
-    argvs = sys.argv
-    argc = len(argvs)
-    if argc != 2:
-        print("Usage #python %s [downloadフォルダのパス]" % argvs[0])
-        exit()
-    dst_folder = argvs[1]
-    with open( '{}/info.json'.format(dst_folder), mode='r', encoding='utf8') as fp:
-        pdf_info = json.load(fp)
-
-    pdf = AnalyzePdf()
-    default_rule = {
-       "first_page_offset" : 2,
-       "other_page_offset" : 2,
-       "char_margin" : 0.5,          # 2つの文字がこのマージンよりも接近している場合、それらは同じ行の一部と見なされます。
-       "accuracy" : 95.0,
-       "line_scale": 15,             # 大きいほど小さい線を検出するが、大きすぎると文字を線と見なしてしまう。
-       "columns" : {
-           "name" : {
-               "index" : 1,
-               "chk_func" : "chk_required",
-               "cnv_func" : "conv_oneline"
-           },
-           "postal_code" : {
-               "index" : 2,
-               "chk_func" : "chk_postal_code",
-               "cnv_func" : "conv_postal_code"
-           },
-           "address" : {
-               "index" : 3,
-               "chk_func" : "chk_required",
-               "cnv_func" : "conv_oneline"
-           },
-           "tel": {
-               "index" : 4, 
-               "chk_func" : "chk_required"
-           },
-           "url": {
-               "index" : 5, 
-               "cnv_func" : "conv_url"
-           },
-           "first": {
-               "index" : 6, 
-           },
-           "revisit": {
-               "index" : 7, 
-           },
-           "department": {
-               "index" : 8,
-           },
-           "doctor": {
-               "index" : 9,
-           },
-           "cooperation" : {
-               "index" : 10
-           }
-       }
-    }
-    #
+def setup_rule():
+    """ルールの設定"""
     rules = {}
-    rules['茨城県'] = copy.deepcopy(default_rule)
+    rules['茨城県'] = copy.deepcopy(DEFAULT_RULE)
     rules['茨城県']['other_page_offset'] = 0
-    rules['宮崎県'] = copy.deepcopy(default_rule)
+    rules['宮崎県'] = copy.deepcopy(DEFAULT_RULE)
     rules['宮崎県']['other_page_offset'] = 0
-    rules['京都府'] = copy.deepcopy(default_rule)
+    rules['京都府'] = copy.deepcopy(DEFAULT_RULE)
     rules['京都府']['other_page_offset'] = 0
-    rules['鹿児島県'] = copy.deepcopy(default_rule)
+    rules['鹿児島県'] = copy.deepcopy(DEFAULT_RULE)
     rules['鹿児島県']['other_page_offset'] = 0
-    rules['千葉県'] = copy.deepcopy(default_rule)
-    rules['千葉県']['other_page_offset'] = 0
-    rules['富山県'] = copy.deepcopy(default_rule)
+    #2020/04/28時点でレイアウトが変わった
+    #rules['千葉県'] = copy.deepcopy(DEFAULT_RULE)
+    #rules['千葉県']['other_page_offset'] = 0
+    rules['富山県'] = copy.deepcopy(DEFAULT_RULE)
     rules['富山県']['other_page_offset'] = 0
-    rules['香川県'] = copy.deepcopy(default_rule)
+    rules['香川県'] = copy.deepcopy(DEFAULT_RULE)
     rules['香川県']['other_page_offset'] = 0
-    rules['佐賀県'] = copy.deepcopy(default_rule)
+    rules['佐賀県'] = copy.deepcopy(DEFAULT_RULE)
     rules['佐賀県']['other_page_offset'] = 0
-    rules['長崎県'] = copy.deepcopy(default_rule)
+    rules['長崎県'] = copy.deepcopy(DEFAULT_RULE)
     rules['長崎県']['other_page_offset'] = 0
-    rules['和歌山県'] = copy.deepcopy(default_rule)
+    rules['和歌山県'] = copy.deepcopy(DEFAULT_RULE)
     rules['和歌山県']['other_page_offset'] = 0
-    
+
     #
-    rules['愛知県'] = copy.deepcopy(default_rule)
+    rules['愛知県'] = copy.deepcopy(DEFAULT_RULE)
     rules['愛知県']['other_page_offset'] = 0
     rules['愛知県']['columns']['name']['index'] = 3
     rules['愛知県']['columns']['postal_code']['index'] = 4
@@ -329,14 +234,14 @@ if __name__ == '__main__':
     rules['愛知県']['columns']['doctor']['index'] = 13
     rules['愛知県']['columns']['cooperation']['index'] = 14
     #
-    rules['東京都'] = copy.deepcopy(default_rule)
+    rules['東京都'] = copy.deepcopy(DEFAULT_RULE)
     rules['東京都']['first_page_offset'] = 3
     #
-    rules['福岡県'] = copy.deepcopy(default_rule)
+    rules['福岡県'] = copy.deepcopy(DEFAULT_RULE)
     rules['福岡県']['first_page_offset'] = 3
     rules['福岡県']['other_page_offset'] = 0
     #
-    rules['奈良県'] = copy.deepcopy(default_rule)
+    rules['奈良県'] = copy.deepcopy(DEFAULT_RULE)
     rules['奈良県']['columns']['name']['index'] = 2
     rules['奈良県']['columns']['postal_code']['index'] = 3
     rules['奈良県']['columns']['address']['index'] = 4
@@ -348,71 +253,119 @@ if __name__ == '__main__':
     rules['奈良県']['columns']['doctor']['index'] = 10
     rules['奈良県']['columns']['cooperation']['index'] = 11
     #
-    rules['三重県'] = copy.deepcopy(default_rule)
-    rules['三重県']['accuracy'] = 90.0
-    rules['徳島県'] = copy.deepcopy(default_rule)
-    rules['徳島県']['accuracy'] = 90.0
+    #rules['三重県'] = copy.deepcopy(DEFAULT_RULE)
+    #rules['三重県']['accuracy'] = 90.0
+    #rules['徳島県'] = copy.deepcopy(DEFAULT_RULE)
+    #rules['徳島県']['accuracy'] = 90.0
     #
-    rules['山梨県'] = copy.deepcopy(default_rule)
-    rules['山梨県']['other_page_offset'] = 0
-    rules['山梨県']['line_scale'] = 30
-    rules['山梨県']['char_margin'] = 0.25
+    #rules['山梨県'] = copy.deepcopy(DEFAULT_RULE)
+    #rules['山梨県']['other_page_offset'] = 0
+    #rules['山梨県']['line_scale'] = 30
+    #rules['山梨県']['char_margin'] = 0.25
     #
-    rules['神奈川県'] = copy.deepcopy(default_rule)
-    rules['神奈川県']['accuracy'] = 90.0
-    rules['神奈川県']['char_margin'] = 0.25
+    #rules['神奈川県'] = copy.deepcopy(DEFAULT_RULE)
+    #rules['神奈川県']['accuracy'] = 90.0
+    #rules['神奈川県']['char_margin'] = 0.25
     #
-    rules['新潟県'] = copy.deepcopy(default_rule)
-    rules['新潟県']['char_margin'] = 0.25
+    #rules['新潟県'] = copy.deepcopy(DEFAULT_RULE)
+    ##rules['新潟県']['char_margin'] = 0.25
     #
-    rules['長野県'] = copy.deepcopy(default_rule)
-    rules['長野県']['char_margin'] = 0.25
+    #rules['長野県'] = copy.deepcopy(DEFAULT_RULE)
+    #rules['長野県']['char_margin'] = 0.25
+
+    return rules
+
+def fix_result_list(result):
+    """PDFの取得結果の一覧を修正する.
+    ・名称が空の行がある場合、ページの区切りによって前後のどちらかの行から欠損しているデータを取得する
+    """
+    last_validated_ix = 0
+    for ix in range(len(result)):
+        if ix == 0:
+            continue
+        if result[ix]['name']:
+            last_validated_ix = ix
+            continue
+        next_validated_ix = ix
+        for tmp_ix in range(ix, len(result)):
+            if result[tmp_ix]['name']:
+                next_validated_ix = tmp_ix
+                break
+        if result[ix]['page'] != result[next_validated_ix]['page']:
+            # 現在の名称が空で次に改ページがある場合は次の行からデータを取得する
+            copy_record(result, next_validated_ix, ix)
+        elif result[ix]['page'] != result[last_validated_ix]['page']:
+            # 現在の名称が空で現在行で改ページがある場合は前の行からデータを取得する
+            copy_record(result, last_validated_ix, ix)
+        else:
+            # 修正ができなかった場合
+            print(
+                "名前のないレコードの復旧はできませんでした 最後の有効行のname:{} page:{} 行:{}".format(
+                    result[last_validated_ix]['name'],
+                    result[ix]['page'],
+                    result[ix]['index']
+                )
+            )
+    return result
+
+def output_result(result, dst_folder, name):
+    """解析結果をJSONとCSVに保存"""
+    json_path = '{}/{}.json'.format(dst_folder, name)
+    with open(json_path, mode='w', encoding='utf8') as fp:
+        json.dump(result, fp, sort_keys=True, indent=4, ensure_ascii=False)
+
+    csv_path = '{}/{}.csv'.format(dst_folder, name)
+    with open(csv_path, 'w', encoding='utf16', newline='') as f:
+        writer = csv.writer(f, quoting=csv.QUOTE_ALL)
+        for r in result:
+            writer.writerow([
+                r['name'],
+                r['postal_code'],
+                r['address'],
+                r['tel'],
+                r['url'],
+                r['first'],
+                r['revisit'],
+                r['department'],
+                r['doctor'],
+                r['cooperation']
+            ])
+
+
+def main(argvs):
+    """メイン処理"""
+    argvs = sys.argv
+    argc = len(argvs)
+    if argc != 2:
+        print("Usage #python %s [downloadフォルダのパス]" % argvs[0])
+        exit()
+    dst_folder = argvs[1]
+    with open('{}/info.json'.format(dst_folder), mode='r', encoding='utf8') as fp:
+        pdf_info = json.load(fp)
+
+    pdf = analyze_pdf_table.AnalyzePdfTable()
+    #
+    rules = setup_rule()
 
     for data in pdf_info["list"]:
         print(data['local'])
         result = []
-        rule = default_rule
+        rule = DEFAULT_RULE
         if data['name'] in rules:
             rule = rules[data['name']]
         result = pdf.parse_pdf(data['local'], rule, fix_record)
 
         # 解析結果のログだけは出力しておく
-        with open('{}/{}_log.json'.format(dst_folder, data['name']), mode='w', encoding='utf8') as fp:
-            json.dump(pdf.log, fp, sort_keys = True, indent = 4, ensure_ascii=False)
+        log_path = '{}/{}_log.json'.format(dst_folder, data['name'])
+        with open(log_path, mode='w', encoding='utf8') as fp:
+            json.dump(pdf.log, fp, sort_keys=True, indent=4, ensure_ascii=False)
 
-        # 空の名称の行があった場合、上下、どちらかの行から情報を取得する
-        line = 0
-
-        last_validated_ix = 0
-        for ix in range(len(result)):
-            if ix == 0:
-                continue
-            if result[ix]['name']:
-                last_validated_ix = ix
-                continue
-            next_validated_ix = ix
-            for tmpIx in range(ix, len(result)):
-                if result[tmpIx]['name']:
-                    next_validated_ix = tmpIx
-                    break
-            if result[ix]['page'] != result[next_validated_ix]['page']:
-                # 現在の名称が空で次に改ページがある場合は次の行からデータを取得する
-                copy_record(result, next_validated_ix, ix)
-            elif result[ix]['page'] != result[last_validated_ix]['page']:
-                # 現在の名称が空で現在行で改ページがある場合は前の行からデータを取得する
-                copy_record(result, last_validated_ix, ix)
-            else:
-                # 修正ができなかった場合
-                result[ix]['name'] = result[last_validated_ix]['name']
-                print("名称のないレコードの復旧はできませんでした 最後の有効行のname:{} page:{} 行:{}".format( result[last_validated_ix]['name'], result[ix]['page'], result[ix]['index'])) 
-
+        # PDFの取得結果の一覧を修正する
+        result = fix_result_list(result)
 
         # ファイルに保存
-        with open('{}/{}.json'.format(dst_folder, data['name']), mode='w', encoding='utf8') as fp:
-            json.dump(result, fp, sort_keys = True, indent = 4, ensure_ascii=False)
+        output_result(result, dst_folder, data['name'])
 
-        with open('{}/{}.csv'.format(dst_folder, data['name']), 'w', encoding='utf16', newline='') as f:
-            writer = csv.writer(f, quoting=csv.QUOTE_ALL)
-            for r in result:
-                writer.writerow([r['name'], r['postal_code'], r['address'], r['tel'], r['url'], r['first'], r['revisit'], r['department'], r['doctor'], r['cooperation']])
 
+if __name__ == '__main__':
+    main(sys.argv)

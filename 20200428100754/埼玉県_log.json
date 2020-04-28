@@ -1,0 +1,8 @@
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:4 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/埼玉県.pdf"
+    }
+]

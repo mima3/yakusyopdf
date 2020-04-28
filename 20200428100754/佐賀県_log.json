@@ -1,0 +1,14 @@
+[
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:1",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/佐賀県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:2",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/佐賀県.pdf"
+    }
+]

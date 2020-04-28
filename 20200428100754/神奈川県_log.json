@@ -1,0 +1,14 @@
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:15 col:4 value:",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/神奈川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:4 value:",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/神奈川県.pdf"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:4 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:山梨県中央市山之神1533-21055-274-3773->山梨県中央市山之神1533-21, 055-274-3773",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:4 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:山梨県北杜市明野町上手5200551-25-2901->山梨県北杜市明野町上手520, 0551-25-2901",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:9 col:4 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:山梨県北杜市須玉町若神子6080551-42-2740->山梨県北杜市須玉町若神子608, 0551-42-2740",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:10 col:4 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:山梨県甲斐市富竹新田231-1055-279-8611->山梨県甲斐市富竹新田231-1, 055-279-8611",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:12 col:4 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:山梨県甲斐市富竹新田1757-1055-276-2300->山梨県甲斐市富竹新田1757-1, 055-276-2300",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:4 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:山梨県笛吹市石和町市部1021055-262-3185->山梨県笛吹市石和町市部1021, 055-262-3185",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:4 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:山梨県山梨市東後屋敷524-10553-23-5206->山梨県山梨市東後屋敷524-1, 0553-23-5206",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/山梨県.pdf"
+    }
+]

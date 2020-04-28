@@ -1,0 +1,182 @@
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:1 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:1 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:1 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:1 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:1 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:1 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/岐阜県.pdf"
+    }
+]

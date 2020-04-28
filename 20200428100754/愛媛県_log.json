@@ -1,0 +1,116 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:弁財天耳鼻咽喉科クリニック793-0030->弁財天耳鼻咽喉科クリニック, 793-0030",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telにhttpを検出したためurlにコピーします. tel:(0898)23-2000http://www.imabari-daiichi.com/->(0898)23-200, http://www.imabari-daiichi.com/",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:たかおか眼科内科クリニック790-0053->たかおか眼科内科クリニック, 790-0053",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:ふくだ循環器科内科クリニック791-8044->ふくだ循環器科内科クリニック, 791-8044",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:やいた内科内視鏡クリニック790-0903->やいた内科内視鏡クリニック, 790-0903",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:17 col:2 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:みねおい内科・循環器内科医院790-0051->みねおい内科・循環器内科医院, 790-0051",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:22 col:2 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:星の岡心臓・血管クリニック790-0932->星の岡心臓・血管クリニック, 790-0932",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:にのみや消化器科内科小児科791-0243->にのみや消化器科内科小児科, 791-0243",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:4 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:愛媛県松山市東長戸１－１０－１８089-922-5522->愛媛県松山市東長戸１－１０－１８, 089-922-5522",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:4 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:愛媛県松山市鴨川１－２－１１089-925-5345->愛媛県松山市鴨川１－２－１１, 089-925-5345",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛媛県.pdf"
+    }
+]

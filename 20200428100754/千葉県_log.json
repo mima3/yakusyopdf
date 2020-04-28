@@ -1,0 +1,20 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:17 col:2 value:04-7170-5680",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:286-021",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/千葉県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:28 col:2 value:270-166",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/千葉県.pdf"
+    }
+]

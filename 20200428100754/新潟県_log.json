@@ -1,0 +1,44 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:15 col:2 value:950-087",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:3 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/新潟県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "addressが空のためtelから値を取得しました. tel:新潟県加茂市青海町1-9-10256-52-0701->新潟県加茂市青海町１－９－１, 0256-52-0701",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:17 col:2 value:94-6772",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/新潟県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:4 value:",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/新潟県.pdf"
+    }
+]

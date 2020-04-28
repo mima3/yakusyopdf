@@ -1,0 +1,146 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:980504",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:12 col:4 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:01558-6-3111https://wwww.town.taiki.hokkaido.jp/soshiki/byouin/byouintop.html->01558-6-3111, https://wwww.town.taiki.hokkaido.jp/soshiki/byouin/byouintop.html",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:13 col:4 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:医療法人社団うえはら耳鼻咽喉科クリニック084-0909->医療法人社団うえはら耳鼻咽喉科クリニック, 084-0909",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:9 col:1 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:医療法人社団功仁会足立皮膚科美容外科クリニック\n186->186, 医療法人社団功仁会足立皮膚科美容外科クリニック",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:11 col:1 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:医療法人社団智美会吉川メディカルクリニック088-0615\n188->188, 医療法人社団智美会吉川メディカルクリニック088-0615",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:医療法人社団智美会吉川メディカルクリニック088-0615->医療法人社団智美会吉川メディカルクリニック, 088-0615",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:医療法人社団駒草会桜ケ岡皮膚科クリニック085-0805->医療法人社団駒草会桜ケ岡皮膚科クリニック, 085-0805",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:24 col:2 value:600007",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:11 col:4 value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:北海道札幌市中央区大通西5丁目8番地011-233-5255昭和ビル2階->北海道札幌市中央区大通西5丁目8番地, 011-233-5255",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:001-0029\n001-0906",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:9 col:4 value:",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:北海道函館市本通１丁目７-22メディカルプレイス2Ｆ 0138-33-7300->北海道函館市本通１丁目７-22メディカルプレイス2Ｆ , 0138-33-7300",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:4",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:5",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:6",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:7",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/北海道.pdf"
+    }
+]

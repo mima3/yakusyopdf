@@ -1,0 +1,20 @@
+[
+    {
+        "kind": "warn",
+        "message": "列数の少ないデータフレームが取得されたためスキップします df.columns.values:[0 1 2 3]",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛知県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "列数の少ないデータフレームが取得されたためスキップします df.columns.values:[0 1 2 3]",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛知県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "列数の少ないデータフレームが取得されたためスキップします df.columns.values:[0 1 2 3]",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200428100754/愛知県.pdf"
+    }
+]
