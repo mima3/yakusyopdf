@@ -10,29 +10,5 @@
         "message": "値が存在しません. index:7 col:4 value:",
         "page": 32,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:24 col:1 value:",
-        "page": 35,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:24 col:2 value:",
-        "page": 35,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:24 col:3 value:",
-        "page": 35,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:24 col:4 value:",
-        "page": 35,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/神奈川県.pdf"
     }
 ]

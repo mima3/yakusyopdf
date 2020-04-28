@@ -41,8 +41,9 @@ class AnalyzePdf:
                break
         return result
     
-    def _parse_df(self, df):
+    def _parse_table(self, table):
         ret = []
+        df = table.df
         if len(df.columns.values) < len(self.rule['columns']):
             self.warn("列数の少ないデータフレームが取得されたためスキップします df.columns.values:{}".format(str(df.columns.values)))
             return ret
@@ -76,6 +77,9 @@ class AnalyzePdf:
                 rec[k] = v
             if self.fixrec_func:
                 rec = self.fixrec_func(rec, self.info)
+            rec['page'] = str(self.page)
+            rec['order'] = str(table.order)
+            rec['index'] = str(ix)
             ret.append(rec)
         return ret
 
@@ -85,7 +89,8 @@ class AnalyzePdf:
             self.target_path,
             pages=str(self.page),
             line_scale = self.rule['line_scale'],
-            layout_kwargs={'char_margin': self.rule['char_margin']}
+            layout_kwargs={'char_margin': self.rule['char_margin']},
+            copy_text=['v']
         )
 
         if len(tables) == 0:
@@ -94,7 +99,7 @@ class AnalyzePdf:
             if table.parsing_report['accuracy'] <= self.rule['accuracy']:
                 self.warn("解析対象のテーブルではありません accurasy:{}/{}".format(table.parsing_report['accuracy'], self.rule['accuracy']))
                 continue
-            ret.extend(self._parse_df(table.df))
+            ret.extend(self._parse_table(table))
         return ret
 
 
@@ -159,6 +164,17 @@ class AnalyzePdf:
         return ""
 
 def fix_record(rec, log):
+    if not rec['name']:
+        # 名前がない場合
+        if rec['postal_code']:
+            # 郵便番号に混在しているか確認
+            # ※郵便番号に表記の揺れがあったらあきらめる
+            postal_code = rec['postal_code']
+            m = re.search("[0-9]{3}-[0-9]{4}", postal_code)
+            if m and AnalyzePdf.conv_postal_code(postal_code) != "":
+                rec['name'] = postal_code[0:m.span()[0]]
+                rec['postal_code'] = m.group()
+                log("nameが空のためpostal_codeから値を取得しました. postal_code:{}->{}, {}".format(postal_code, rec['name'], rec['postal_code']))
     if not rec['postal_code']:
         # 郵便番号がない場合
         if rec['name']:
@@ -211,6 +227,12 @@ def fix_record(rec, log):
                 log("addressが空のためtelから値を取得しました. tel:{}->{}, {}".format(tel, rec['address'], rec['tel']))
 
     return rec
+
+def copy_record(list, src_ix, dst_ix):
+    for k in list[dst_ix]:
+        if not list[dst_ix][k]:
+            result[dst_ix][k] = result[src_ix][k]
+
 
 if __name__ == '__main__':
     argvs = sys.argv
@@ -290,6 +312,8 @@ if __name__ == '__main__':
     rules['佐賀県']['other_page_offset'] = 0
     rules['長崎県'] = copy.deepcopy(default_rule)
     rules['長崎県']['other_page_offset'] = 0
+    rules['和歌山県'] = copy.deepcopy(default_rule)
+    rules['和歌山県']['other_page_offset'] = 0
     
     #
     rules['愛知県'] = copy.deepcopy(default_rule)
@@ -329,13 +353,6 @@ if __name__ == '__main__':
     rules['徳島県'] = copy.deepcopy(default_rule)
     rules['徳島県']['accuracy'] = 90.0
     #
-    # URLとTELが結合するため調整が必要
-    rules['和歌山県'] = copy.deepcopy(default_rule)
-    rules['和歌山県']['other_page_offset'] = 0
-    #rules['和歌山県']['char_margin'] = 0.05
-    #rules['広島県'] = copy.deepcopy(default_rule)
-    #rules['広島県']['char_margin'] = 0.25    
-    #
     rules['山梨県'] = copy.deepcopy(default_rule)
     rules['山梨県']['other_page_offset'] = 0
     rules['山梨県']['line_scale'] = 30
@@ -357,7 +374,40 @@ if __name__ == '__main__':
         rule = default_rule
         if data['name'] in rules:
             rule = rules[data['name']]
-        result = pdf.parse_pdf(data['local'], rule, fix_record) 
+        result = pdf.parse_pdf(data['local'], rule, fix_record)
+
+        # 解析結果のログだけは出力しておく
+        with open('{}/{}_log.json'.format(dst_folder, data['name']), mode='w', encoding='utf8') as fp:
+            json.dump(pdf.log, fp, sort_keys = True, indent = 4, ensure_ascii=False)
+
+        # 空の名称の行があった場合、上下、どちらかの行から情報を取得する
+        line = 0
+
+        last_validated_ix = 0
+        for ix in range(len(result)):
+            if ix == 0:
+                continue
+            if result[ix]['name']:
+                last_validated_ix = ix
+                continue
+            next_validated_ix = ix
+            for tmpIx in range(ix, len(result)):
+                if result[tmpIx]['name']:
+                    next_validated_ix = tmpIx
+                    break
+            if result[ix]['page'] != result[next_validated_ix]['page']:
+                # 現在の名称が空で次に改ページがある場合は次の行からデータを取得する
+                copy_record(result, next_validated_ix, ix)
+            elif result[ix]['page'] != result[last_validated_ix]['page']:
+                # 現在の名称が空で現在行で改ページがある場合は前の行からデータを取得する
+                copy_record(result, last_validated_ix, ix)
+            else:
+                # 修正ができなかった場合
+                result[ix]['name'] = result[last_validated_ix]['name']
+                print("名称のないレコードの復旧はできませんでした 最後の有効行のname:{} page:{} 行:{}".format( result[last_validated_ix]['name'], result[ix]['page'], result[ix]['index'])) 
+
+
+        # ファイルに保存
         with open('{}/{}.json'.format(dst_folder, data['name']), mode='w', encoding='utf8') as fp:
             json.dump(result, fp, sort_keys = True, indent = 4, ensure_ascii=False)
 
@@ -366,5 +416,3 @@ if __name__ == '__main__':
             for r in result:
                 writer.writerow([r['name'], r['postal_code'], r['address'], r['tel'], r['url'], r['first'], r['revisit'], r['department'], r['doctor'], r['cooperation']])
 
-        with open('{}/{}_log.json'.format(dst_folder, data['name']), mode='w', encoding='utf8') as fp:
-            json.dump(pdf.log, fp, sort_keys = True, indent = 4, ensure_ascii=False)

@@ -12,60 +12,6 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
     },
     {
-        "kind": "info",
-        "message": "空行のため処理をスキップします:32",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:33 col:3 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:33 col:4 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:33 col:5 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:33 col:6 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:57 col:3 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:57 col:4 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:57 col:5 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:57 col:6 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/愛知県.pdf"
-    },
-    {
         "kind": "warn",
         "message": "列数の少ないデータフレームが取得されたためスキップします df.columns.values:[0 1 2 3]",
         "page": 14,

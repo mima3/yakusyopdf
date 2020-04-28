@@ -6,12 +6,6 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福井県.pdf"
     },
     {
-        "kind": "info",
-        "message": "空行のため処理をスキップします:8",
-        "page": 9,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福井県.pdf"
-    },
-    {
         "kind": "warn",
         "message": "値が存在しません. index:10 col:4 value:",
         "page": 9,

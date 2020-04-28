@@ -12,14 +12,8 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
-        "kind": "info",
-        "message": "空行のため処理をスキップします:3",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "空行のため処理をスキップします:5",
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:4 value:",
         "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
@@ -36,8 +30,8 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
-        "kind": "info",
-        "message": "空行のため処理をスキップします:7",
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:4 value:",
         "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
@@ -54,21 +48,9 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     },
     {
-        "kind": "info",
-        "message": "空行のため処理をスキップします:11",
+        "kind": "warn",
+        "message": "値が存在しません. index:11 col:4 value:",
         "page": 11,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "空行のため処理をスキップします:7",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "空行のため処理をスキップします:3",
-        "page": 30,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/広島県.pdf"
     }
 ]

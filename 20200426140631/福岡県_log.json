@@ -12,6 +12,12 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
     {
+        "kind": "info",
+        "message": "nameが空のためpostal_codeから値を取得しました. postal_code:（医）上村クリニック\n上村皮ふ科・形成外科クリニック\n820-0071->（医）上村クリニック\n上村皮ふ科・形成外科クリニック\n, 820-0071",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
+    },
+    {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:13 col:2 value:",
         "page": 11,
@@ -44,6 +50,12 @@
     {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:3 col:2 value:医療法人文翠会　ふるた整形外科・形成外科クリニック\n807-0078",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためpostal_codeから値を取得しました. postal_code:医療法人文翠会　ふるた整形外科・形成外科クリニック\n807-0078->医療法人文翠会　ふるた整形外科・形成外科クリニック\n, 807-0078",
         "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/20200426140631/福岡県.pdf"
     },
