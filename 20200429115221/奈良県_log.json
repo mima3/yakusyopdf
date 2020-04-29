@@ -1,0 +1,944 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:東大寺福祉療育病院",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:バルツｱ・ゴーデル",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:奈良東九条病院",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:社会医療法人平和会吉田\n病院",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:奈良西部病院",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:社会医療法人松本快生会\n西奈良中央病院",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:寺崎クリニック",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:東谷医院",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:そめかわクリニック内\n科・循環器内科",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:かづきクリニック",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:ないとう耳鼻咽喉科",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:やまだクリニック",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:登美ヶ丘こどもクリニック",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:医療法人　　　　　　　　\nおがわ小児科診療所",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:医療法人山本内科医院",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:医療法人庄野整形外科",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:くにしげクリニック",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:はらだ糖尿病・腎・内科クリ\nニック",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:しだ小児科クリニック",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:医療法人　小嶌診療所",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:しんのクリニック",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:やまがた内科医院",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:こたけ整形外科",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:たかはし耳鼻咽喉科",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:やまね内科クリニック",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:なかがわ呼吸器科アレル\nギー科医院",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:なんぶ小児科アレルギー\n科",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:医療法人つじもとクリ\nニック",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:15 col:2 value:おしくまクリニック",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:16 col:2 value:あやめ池診療所",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:17 col:2 value:おおまえ医院",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:18 col:2 value:（医）西脇医院",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:おかたに病院",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:医療法人厚生会奈良厚生\n会病院",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:独立行政法人国立病院機構　\nやまと精神医療センター",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:医療法人田北会　田北病\n院",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:かくたに内科消化器内科",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:片桐民主診療所",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:医療法人岡谷会小泉診療\n所",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:医療法人社団松下会　東\n生駒病院",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:白庭病院",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:竹内小児科",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:岡クリニック",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:きくち診療所",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:生駒胃腸科肛門科診療所",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:医療法人社団有山会有山\n診療所",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:医療法人風尚会やました医\n院",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:整形外科やまだクリニック",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:医療法人はしもとクリ\nニック",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:医療法人康成会菊美台ク\nリニック",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:医療法人金泉会　かない\nずみ胃腸科・内科",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:やわらぎクリニック",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:石崎整形外科内科",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:医療法人郁慈会　服部記\n念病院",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:安達内科医院",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:にしやまと糖尿病内科　　　　\n　　クリニック",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:きじ内科クリニック",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:武内クリニック",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:医療法人まつおかクリ\nニック",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:うえだ耳鼻咽喉科",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:酒井診療所",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:池田医院",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:竹田内科クリニック",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:別府レディースクリニッ\nク",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:あおき小児科",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:15 col:2 value:医療法人　相志和診会岩\n間循環器内科",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:16 col:2 value:医療法人　　　　　　　　\n牧浦皮膚泌尿器科",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:17 col:2 value:はえの医院",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:大浦内科クリニック",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:山下内科クリニック",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:医療法人　坂上医院",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:ニッセイ聖隷クリニック",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:山下皮膚科クリニック",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:中井記念病院",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:医療法人 春日医院",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:医療法人黄クリニック",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:中谷診療所",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:整形外科よねだクリニッ\nク",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:ましたに内科クリニック",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:医療法人田中医院",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:下河辺医院",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:医療法人一路会錦織病院",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:医療法人橿原友紘会大和\n橿原病院",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:奈良県立医科大学附属病\n院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:医療法人　桂会　　　　\n平尾病院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:たに小児科医院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:クリニック神宮前",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:医療法人芳隆会八嶌医院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:医療法人　吉川医院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:菊川医院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:医療法人風天会　森医院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:奈良県医療福祉生活協同\n組合みみなし診療所",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:医療法人　米田診療所",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:医療法人　桐山医院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:飛鳥川クリニック",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:木田クリニック",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:かわはらこどもクリニッ\nク",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:医療法人中尾医院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:15 col:2 value:医療法人さくら会うねび\n内科クリニック",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:16 col:2 value:神宮前こころのクリニッ\nク",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:17 col:2 value:（医）ひのうえ会　ひが\nみリウマチ・糖尿病　　\n内科クリニック",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:18 col:2 value:医療法人彩運会辻本内科\n医院",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:19 col:2 value:坂口クリニック",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:阪口クリニック",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:勝山診療所",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:勝山内科医院",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:松村医院",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:佐々木クリニック",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:安田医院",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:まるはしファミリークリ\nニック",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:西本内科",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:医療法人澤田医院",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:医療法人博友会みちのク\nリニック",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:医療法人　和田クリニッ\nク",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:医療法人康成会旭ヶ丘クリニッ\nク",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:かわしま内科外科こども\nクリニック",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:医療法人希　　　　　　\n二上駅前診療所",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:医療法人　谷山耳鼻咽喉\n科クリニック",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:15 col:2 value:医療法人　谷山耳鼻咽喉\n科クリニック",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:16 col:2 value:医療法人興生会\n吉本整形外科・外科病院",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:17 col:2 value:医療法人堀内医院",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:18 col:2 value:医療法人　下村医院",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:19 col:2 value:鵜山医院",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:医療法人小泉医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:社会医療法人平成記念会　\nへいせいたかとりクリ\nニック",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:石川医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:奈良東病院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:小林クリニック",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:医療法人　菊川内科医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:内藤内科医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:羽田医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:きむら内科医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:辻医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:すずきこどもクリニック",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:医療法人拓誠会　辻村病\n院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:12 col:2 value:宇陀市立病院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:吉井整形外科医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:山本診療所",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:15 col:2 value:宇陀市国民健康保険直営\n田口診療所",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:16 col:2 value:宇陀市国民健康保険直営\n東里診療所",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:17 col:2 value:久保医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:18 col:2 value:医療法人智光会　城井内\n科医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:19 col:2 value:山添村国民健康保険\n東山診療所添村",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:20 col:2 value:国保中央病院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:21 col:2 value:医療法人坂根医院",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:忠岡医院",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:医療法人小嶌内科小児科",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:曽爾村国民健康保険診療\n所",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:医療法人鎌田医院田園診\n療所",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:賀名生診療所",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:医療法人中垣整形外科",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:医療法人　田仲医院",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:野迫川村国民健康保険診\n療所",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:中川医院",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:十津川村小原診療所",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:十津川村上野地診療所",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:下北山村国民健康保険診\n療所",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/奈良県.pdf"
+    }
+]

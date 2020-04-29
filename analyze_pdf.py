@@ -206,9 +206,6 @@ def setup_rule():
     rules['京都府']['other_page_offset'] = 0
     rules['鹿児島県'] = copy.deepcopy(DEFAULT_RULE)
     rules['鹿児島県']['other_page_offset'] = 0
-    #2020/04/28時点でレイアウトが変わった
-    #rules['千葉県'] = copy.deepcopy(DEFAULT_RULE)
-    #rules['千葉県']['other_page_offset'] = 0
     rules['富山県'] = copy.deepcopy(DEFAULT_RULE)
     rules['富山県']['other_page_offset'] = 0
     rules['香川県'] = copy.deepcopy(DEFAULT_RULE)
@@ -219,6 +216,10 @@ def setup_rule():
     rules['長崎県']['other_page_offset'] = 0
     rules['和歌山県'] = copy.deepcopy(DEFAULT_RULE)
     rules['和歌山県']['other_page_offset'] = 0
+    rules['奈良県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['奈良県']['other_page_offset'] = 0
+    rules['福岡県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['福岡県']['other_page_offset'] = 0
 
     #
     rules['愛知県'] = copy.deepcopy(DEFAULT_RULE)
@@ -237,41 +238,6 @@ def setup_rule():
     rules['東京都'] = copy.deepcopy(DEFAULT_RULE)
     rules['東京都']['first_page_offset'] = 3
     #
-    rules['福岡県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['福岡県']['first_page_offset'] = 3
-    rules['福岡県']['other_page_offset'] = 0
-    #
-    rules['奈良県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['奈良県']['columns']['name']['index'] = 2
-    rules['奈良県']['columns']['postal_code']['index'] = 3
-    rules['奈良県']['columns']['address']['index'] = 4
-    rules['奈良県']['columns']['tel']['index'] = 5
-    rules['奈良県']['columns']['url']['index'] = 6
-    rules['奈良県']['columns']['first']['index'] = 7
-    rules['奈良県']['columns']['revisit']['index'] = 8
-    rules['奈良県']['columns']['department']['index'] = 9
-    rules['奈良県']['columns']['doctor']['index'] = 10
-    rules['奈良県']['columns']['cooperation']['index'] = 11
-    #
-    #rules['三重県'] = copy.deepcopy(DEFAULT_RULE)
-    #rules['三重県']['accuracy'] = 90.0
-    #rules['徳島県'] = copy.deepcopy(DEFAULT_RULE)
-    #rules['徳島県']['accuracy'] = 90.0
-    #
-    #rules['山梨県'] = copy.deepcopy(DEFAULT_RULE)
-    #rules['山梨県']['other_page_offset'] = 0
-    #rules['山梨県']['line_scale'] = 30
-    #rules['山梨県']['char_margin'] = 0.25
-    #
-    #rules['神奈川県'] = copy.deepcopy(DEFAULT_RULE)
-    #rules['神奈川県']['accuracy'] = 90.0
-    #rules['神奈川県']['char_margin'] = 0.25
-    #
-    #rules['新潟県'] = copy.deepcopy(DEFAULT_RULE)
-    ##rules['新潟県']['char_margin'] = 0.25
-    #
-    #rules['長野県'] = copy.deepcopy(DEFAULT_RULE)
-    #rules['長野県']['char_margin'] = 0.25
 
     return rules
 
