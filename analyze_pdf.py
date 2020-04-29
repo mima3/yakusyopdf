@@ -218,8 +218,6 @@ def setup_rule():
     rules['長崎県']['other_page_offset'] = 0
     rules['和歌山県'] = copy.deepcopy(DEFAULT_RULE)
     rules['和歌山県']['other_page_offset'] = 0
-    rules['奈良県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['奈良県']['other_page_offset'] = 0
     rules['福岡県'] = copy.deepcopy(DEFAULT_RULE)
     rules['福岡県']['other_page_offset'] = 0
 
@@ -240,7 +238,19 @@ def setup_rule():
     rules['東京都'] = copy.deepcopy(DEFAULT_RULE)
     rules['東京都']['first_page_offset'] = 3
     #
-
+    rules['奈良県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['奈良県']['other_page_offset'] = 0
+    rules['奈良県']['columns']['name']['index'] = 2
+    rules['奈良県']['columns']['postal_code']['index'] = 3
+    rules['奈良県']['columns']['address']['index'] = 4
+    rules['奈良県']['columns']['tel']['index'] = 5
+    rules['奈良県']['columns']['url']['index'] = 6
+    rules['奈良県']['columns']['first']['index'] = 7
+    rules['奈良県']['columns']['revisit']['index'] = 8
+    rules['奈良県']['columns']['department']['index'] = 9
+    rules['奈良県']['columns']['doctor']['index'] = 10
+    rules['奈良県']['columns']['cooperation']['index'] = 11
+ 
     return rules
 
 def fix_result_list(result):
