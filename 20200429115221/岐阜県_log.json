@@ -24,12 +24,6 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
     },
     {
-        "kind": "info",
-        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
-    },
-    {
         "kind": "warn",
         "message": "値が存在しません. index:3 col:1 value:",
         "page": 13,
@@ -50,12 +44,6 @@
     {
         "kind": "warn",
         "message": "値が存在しません. index:3 col:4 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
     },
@@ -84,12 +72,6 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
     },
     {
-        "kind": "info",
-        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
-    },
-    {
         "kind": "warn",
         "message": "値が存在しません. index:5 col:1 value:",
         "page": 13,
@@ -110,12 +92,6 @@
     {
         "kind": "warn",
         "message": "値が存在しません. index:5 col:4 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
     },
@@ -144,12 +120,6 @@
         "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
     },
     {
-        "kind": "info",
-        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
-    },
-    {
         "kind": "warn",
         "message": "値が存在しません. index:7 col:1 value:",
         "page": 13,
@@ -170,12 +140,6 @@
     {
         "kind": "warn",
         "message": "値が存在しません. index:7 col:4 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "nameが空のためnoから値を取得しました. no:177->177, 177",
         "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/岐阜県.pdf"
     }

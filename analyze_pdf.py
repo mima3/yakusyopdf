@@ -73,15 +73,17 @@ def fix_name(rec, log):
             if len(target_name) < len(name):
                 no = target_name
                 target_name = name
-        rec['name'] = target_name
-        log(
-            "nameが空のためnoから値を取得しました. no:{}->{}, {}".format(
-                rec['no'],
-                no,
-                rec['name']
+        if not target_name.isdigit():
+            # 名前が項番ではないこと
+            rec['name'] = target_name
+            log(
+                "nameが空のためnoから値を取得しました. no:{}->{}, {}".format(
+                    rec['no'],
+                    no,
+                    rec['name']
+                )
             )
-        )
-        rec['no'] = no
+            rec['no'] = no
     if rec['postal_code'] and not rec['name']:
         # 郵便番号に混在しているか確認
         # ※郵便番号に表記の揺れがあったらあきらめる
