@@ -10,11 +10,5 @@
         "message": "郵便番号の形式ではありません index:19 col:2 value:",
         "page": 1,
         "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/長野県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "nameが空のためnoから値を取得しました. no:18->18, 18",
-        "page": 1,
-        "path": "C:\\dev\\python3\\yakusyopdf/20200429115221/長野県.pdf"
     }
 ]
