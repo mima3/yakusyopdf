@@ -1,8 +1,6 @@
 """「新型コロナウイルス感染症の感染拡大を踏まえたオンライン診療について」のPDFの解析結果のJSONを結合します."""
 import json
 from peewee import *
-from playhouse.sqlite_ext import *
-from statistics import mean, median,variance,stdev
 from datetime import date
 #import logging
 #logger = logging.getLogger('peewee')
