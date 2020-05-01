@@ -1,4 +1,4 @@
-#! C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\python.exe
+#![python_path]
 # coding: utf-8
 from bottle import run
 # import ConfigParser
@@ -7,7 +7,7 @@ import sys
 
 
 conf = configparser.ConfigParser()
-conf.read("./application.ini")
+conf.read("[ini_path]")
 try:
   i = 0
   path = conf.get('system', 'path' + str(i))
