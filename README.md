@@ -20,7 +20,19 @@ https://needtec.sakura.ne.jp/wod07672/2020/04/29/%e5%8e%9a%e7%94%9f%e5%8a%b4%e5%
 python download_pdf.py
 
 # 作成したフォルダを指定して、PDFの内容からJSONとCSVを作成する
-python analyze_pdf.py 20200428100754
+python analyze_pdf.py 20200428
+
+# 各都道府県ごとのJSONファイルを1つのファイルに纏めます。また、この際、キーを住所毎にします。
+python merge_json 20200428
+
+# YahooのジオコーダAPIを用いて住所から経度・緯度を求めて更新します。
+python create_geo.py 20200428 YahooのAPPID
+
+# ジオコーダAPIの使用量を減らすため、以前作成した経度緯度情報をインポートすることも可能です
+python create_geo_by_json.py 古いall_data.json 新しいall_data.json
+
+# データベースに保存します
+python create_hospital_db.py 20200428\all_data.json 20200428\hospital.sqlite
 ```
 
 ## ライセンス
