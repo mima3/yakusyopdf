@@ -16,7 +16,7 @@ def download(url, local_path):
 
 def main():
     """メイン処理"""
-    dst_folder = os.getcwd() + datetime.datetime.now().strftime("/%Y%m%d%H%M%S")
+    dst_folder = os.getcwd() + datetime.datetime.now().strftime("/%Y%m%d")
     if not os.path.exists(dst_folder):
         os.mkdir(dst_folder)
 
