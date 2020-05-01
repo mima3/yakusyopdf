@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>オンライン診療の情報</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+          integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+          crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+          integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+          crossorigin=""></script>
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        <!--ツールチップ-->
+        <script src="https://cdn.jsdelivr.net/npm/vue-tippy/dist/vue-tippy.min.js"></script>
+        <!--bluma-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css">
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    </head>
+    <body>
+        <h1 class="title">オンライン診療の情報</h1>
+        <div id = "app">
+          <section class="section">
+            <h2 class="title is-5">説明</h2>
+            現在位置より<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/rinsyo/index_00014.html">新型コロナウイルス感染症の感染拡大を踏まえたオンライン診療について</a>のPDFに記載されている情報を検索します。<br>
+            PDFの読み取り精度の問題で完全な精度で取得できていないのでご注意ください。<br>
+            住所から座標の取得については<a href="https://developer.yahoo.co.jp/webapi/map/openlocalplatform/v1/geocoder.html">Yahoo!ジオコーダAPI</a>を使用しています。<br>
+          </section>
+          <section class="section">
+            <h2 class="title is-5">検索条件</h2>
+            <div class="field is-grouped">
+              <div class="control">
+                経度：
+                <input class="input" v-model="lat" placeholder="経度">
+              </div>
+              <div  class="control">
+                緯度:
+                <input class="input" v-model="lng" placeholder="緯度">
+              </div>
+            </div>
+            <div class="field is-grouped">
+              <div class="control">
+                <button class="button is-info" v-on:click="getHospital" content="入力した座標に近い病院の一覧を検索します" v-tippy>検索</button>
+              </div>
+              <div class="control">
+                <button class="button is-info" v-on:click="getCurrentPos" content="ブラウザで位置情報の取得ができる場合、現在の位置で検索します。" v-tippy>現在で検索</button>
+              </div>
+            </div>
+          </section>
+          <section class="section">
+            <h2 class="title is-5">検索結果</h2>
+            <table id="list" class="table is-bordered is-hoverable">
+              <thead class="thead">
+                <tr>
+                  <th content="施設名をクリックすると地図に詳細を表示します" v-tippy>施設名</td>
+                  <!--
+                  <td>郵便番号</td>
+                  <td>住所</td>
+                  <td>位置情報</td>
+                  <td>TEL</td>
+                  <td>ウェブサイト</td>
+                  -->
+                  <th content="初診の電話等を用いた診療の実施の有無" v-tippy>初診</td>
+                  <th content="再診の電話等を用いた診療の実施の有無" v-tippy>再診</td>
+                  <!--
+                  <td>対応診療科</td>
+                  <td>担当医師名</td>
+                  <td>対面診療が必要と判断した場合に連携する医療機関名（複数ある場合は複数、住所も併せて記載）</td>
+                  -->
+                </tr>
+              </thead>
+              <tbody>
+              <tr v-on:click="showMap(item)" v-for="item in items">
+              <td >{{ item.name }}</td>
+              <!--
+              <td>{{ item.postal_code }}</td>
+              <td>{{ item.address }}</td>
+              <td>{{ item.lat }},{{ item.lng }}</td>
+              <td>{{ item.tel }}</td>
+              <td>{{ item.url }}</td>
+              -->
+              <td>{{ item.first }}</td>
+              <td>{{ item.revist }}</td>
+              <!--
+              <td>{{ item.department }}</td>
+              <td>{{ item.doctor }}</td>
+              <td>{{ item.cooperation }}</td>
+              -->
+              </tr>
+              </tbody>
+            </table>
+            {{ data_note }}<br>
+            <a href="https://developer.yahoo.co.jp/about">
+            <img src="https://s.yimg.jp/images/yjdn/yjdn_attbtn1_125_17.gif" title="Webサービス by Yahoo! JAPAN" alt="Web Services by Yahoo! JAPAN" width="125" height="17" border="0" style="margin:15px 15px 15px 15px"></a>
+          </section>
+        </div> <!--Vue -->
+        <section class="section">
+          <h2 class="title is-5">地図</h2>
+          <div id="map" style="width: 500px; height: 400px"></div>
+        </section>
+        <script  type="text/javascript">
+
+
+const default_lat = 35.182245;
+const default_lng = 136.496509;
+const map = L.map('map').setView([default_lat, default_lng], 13);
+L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png', {
+  attribution: "<a href='https://maps.gsi.go.jp/development/ichiran.html' target='_blank'>地理院タイル</a>"
+}).addTo(map);
+
+let app = new Vue({
+  el : '#app',
+  data : {
+    lat : default_lat,
+    lng : default_lng,
+    items: [],
+    data_note : ""
+  },
+  methods: {
+    getCurrentPos: function() {
+      const self = this;
+      if (!navigator.geolocation) {
+        alert('お使いのブラウザでは現在位置を取得できません.')
+        return;
+      }
+      navigator.geolocation.getCurrentPosition(
+        function(position) {
+          self.lat = position.coords.latitude;
+          self.lng = position.coords.longitude;
+          self.getHospital();
+        },
+        function (err) {
+          alert(err.code + err.message)
+        }
+      );
+    },
+    getHospital : function() {
+      const self = this;
+      axios.get(
+          'json/get_hospital',
+          {
+            params: {
+              lat : this.lat,
+              lng : this.lng
+            }
+          }
+      ).then(function(res) {
+        if (res.headers['content-type'] !== 'application/json;charset=utf-8') {
+          alert('データの取得に失敗しました.');
+          return;
+        }
+        if (res.data.error) {
+          alert(res.data.error);
+          return;
+        }
+        self.items = res.data.items;
+        self.data_note = `※${res.data.lastupdate} 時点の情報`;
+        for(let i = 0; i <  self.items.length; ++i) {
+          const item = self.items[i];
+          const comment = `
+          <table>
+            <tr><td>施設名</td><td><a href="${item.url}">${item.name}</a></td></tr>
+            <tr><td>TEL</td><td>${item.tel}</td></tr>
+            <tr><td>対応診療科</td><td>${item.department}</td></tr>
+            <tr><td>連携する医療機関名</td><td>${item.cooperation}</td></tr>
+          </table>`;
+          item.marker = L.marker([item.lat, item.lng]).bindPopup(comment).addTo(map);
+
+        }
+        map.setView([self.lat, self.lng]);
+        window.location.hash = '';
+        window.location.hash = 'list';
+      }).catch(function(err) {
+        alert(err);
+      });
+    },
+    showMap : function(item) {
+      map.setView([item.lat, item.lng]);
+      item.marker.openPopup();
+      window.location.hash = '';
+      window.location.hash = 'map';
+    }
+  }
+});
+        </script>
+    </body>
+</html>
