@@ -29,7 +29,7 @@ def filter_data(name, path, result):
            'tel' : rec['tel'],
            'url' : rec['url'],
            'first' : rec['first'],
-           'revist': rec['revisit'],
+           'revisit': rec['revisit'],
            'department' : rec['department'],
            'doctor' : rec['doctor'],
            'cooperation' : rec['cooperation']

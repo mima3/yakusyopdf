@@ -40,7 +40,7 @@ class Hospitals(Model):
     tel = CharField()
     url = CharField()
     first = CharField()
-    revist = CharField()
+    revisit = CharField()
     department = CharField()
     doctor = CharField()
     cooperation = CharField()
@@ -88,7 +88,7 @@ class HospitalDb:
                         'tel' : item['tel'],
                         'url' : item['url'],
                         'first' : item['first'],
-                        'revist' : item['revist'],
+                        'revisit' : item['revisit'],
                         'department' : item['department'],
                         'doctor' : item['doctor'],
                         'cooperation' : item['cooperation'],
@@ -123,7 +123,7 @@ class HospitalDb:
                     'url' : hospital.url,
                     'tel' : hospital.tel,
                     'first' : hospital.first,
-                    'revist' : hospital.revist,
+                    'revisit' : hospital.revisit,
                     'department' : hospital.department,
                     'doctor' : hospital.doctor,
                     'cooperation' : hospital.cooperation,

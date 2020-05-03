@@ -24,7 +24,7 @@
           <section class="section">
             <h2 class="title is-5">説明</h2>
             現在位置より<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/rinsyo/index_00014.html">新型コロナウイルス感染症の感染拡大を踏まえたオンライン診療について</a>のPDFに記載されている情報を検索します。<br>
-            PDFの読み取り精度の問題で完全な精度で取得できていないのでご注意ください。<br>
+            <p style="color:red">PDFの読み取りと座標変換の精度の問題で、正しい結果が保証できませんのでご注意ください。</p><br>
             住所から座標の取得については<a href="https://developer.yahoo.co.jp/webapi/map/openlocalplatform/v1/geocoder.html">Yahoo!ジオコーダAPI</a>を使用しています。<br>
             <a href="https://github.com/mima3/yakusyopdf">GitHub</a>
           </section>
@@ -45,7 +45,7 @@
                 <button class="button is-info" v-on:click="getHospital" content="入力した座標に近い病院の一覧を検索します" v-tippy>検索</button>
               </div>
               <div class="control">
-                <button class="button is-info" v-on:click="getCurrentPos" content="ブラウザで位置情報の取得ができる場合、現在の位置で検索します。" v-tippy>現在で検索</button>
+                <button class="button is-info" v-on:click="getCurrentPos" content="ブラウザで位置情報の取得ができる場合、現在の位置で検索します。" v-tippy>現在地で検索</button>
               </div>
             </div>
           </section>

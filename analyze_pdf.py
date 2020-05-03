@@ -7,8 +7,8 @@ import copy
 import mojimoji
 import analyze_pdf_table
 
-
-CHECK_POSTAL_CODE = r'0[0-9]{1}-[0-9]{4}-[0-9]{4}|0[0-9]{2}-[0-9]{3}-[0-9]{4}|0[0-9]{3}-[0-9]{2}-[0-9]{4}|0[0-9]{4}-[0-9]{1}-[0-9]{4}'
+CHECK_POSTAL_CODE = r'[0-9]{3}-[0-9]{4}'
+CHECK_TEL_CODE = r'0[0-9]{1}-[0-9]{4}-[0-9]{4}|0[0-9]{2}-[0-9]{3}-[0-9]{4}|0[0-9]{3}-[0-9]{2}-[0-9]{4}|0[0-9]{4}-[0-9]{1}-[0-9]{4}'
 DEFAULT_RULE = {
     "first_page_offset" : 2,
     "other_page_offset" : 2,
@@ -88,7 +88,7 @@ def fix_name(rec, log):
         # 郵便番号に混在しているか確認
         # ※郵便番号に表記の揺れがあったらあきらめる
         postal_code = rec['postal_code']
-        m = re.search("[0-9]{3}-[0-9]{4}", postal_code)
+        m = re.search(CHECK_POSTAL_CODE, postal_code)
         if m and analyze_pdf_table.AnalyzePdfTable.conv_postal_code(postal_code) != "":
             rec['name'] = postal_code[0:m.span()[0]]
             rec['postal_code'] = m.group()
@@ -106,7 +106,7 @@ def fix_postal_code(rec, log):
         # 施設名に混在しているか確認
         # ※郵便番号に表記の揺れがあったらあきらめる
         name = rec['name']
-        m = re.search("[0-9]{3}-[0-9]{4}", name)
+        m = re.search(CHECK_POSTAL_CODE, name)
         if m:
             rec['name'] = name[0:m.span()[0]]
             rec['postal_code'] = m.group()
@@ -132,7 +132,7 @@ def fix_tel(rec, log):
         # addressに混在している場合
         # ※電話番号に表記の揺れがあったらあきらめる
         address = rec['address']
-        m = re.search(CHECK_POSTAL_CODE, address)
+        m = re.search(CHECK_TEL_CODE, address)
         if m:
             rec['address'] = address[0:m.span()[0]]
             rec['tel'] = m.group()
@@ -145,6 +145,39 @@ def fix_tel(rec, log):
             )
 
 
+def fix_address(rec, log):
+    if rec['postal_code']:
+        # 郵便番号の列にaddressに混在している場合
+        # ※郵便番号に表記の揺れがあったらあきらめる
+        postal_code = rec['postal_code']
+        m = re.search(CHECK_POSTAL_CODE, postal_code)
+        if m :
+            print(m.group(), m.span())
+            rec['postal_code'] = m.group()
+            rec['address'] = postal_code[m.span()[1]:]
+            log(
+                "postal_codeが空のためaddressから値を取得しました. postal_code:{}->{}, {}".format(
+                    postal_code,
+                    rec['postal_code'],
+                    rec['address']
+                )
+            )
+
+    if rec['tel']:
+        # 電話番号はある場合
+        tel = mojimoji.zen_to_han(rec['tel'])
+        m = re.search(CHECK_TEL_CODE, tel)
+        if m and m.span()[0] != 0:
+            rec['address'] = mojimoji.han_to_zen(tel[0:m.span()[0]])
+            rec['tel'] = m.group()
+            log(
+                "addressが空のためtelから値を取得しました. tel:{}->{}, {}".format(
+                    tel,
+                    rec['address'],
+                    rec['tel']
+                )
+            )
+
 def fix_record(rec, log):
     """１行ごとにデータが上手く取得できなかった場合に修正する"""
     if not rec['name']:
@@ -154,20 +187,7 @@ def fix_record(rec, log):
         fix_postal_code(rec, log)
 
     if not rec['address']:
-        if rec['tel']:
-            # 電話番号はある場合
-            tel = mojimoji.zen_to_han(rec['tel'])
-            m = re.search(CHECK_POSTAL_CODE, tel)
-            if m and m.span()[0] != 0:
-                rec['address'] = mojimoji.han_to_zen(tel[0:m.span()[0]])
-                rec['tel'] = m.group()
-                log(
-                    "addressが空のためtelから値を取得しました. tel:{}->{}, {}".format(
-                        tel,
-                        rec['address'],
-                        rec['tel']
-                    )
-                )
+        fix_address(rec, log)
 
     if not rec['tel']:
         # 電話番号がない場合
