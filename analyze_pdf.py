@@ -6,6 +6,9 @@ import csv
 import copy
 import mojimoji
 import analyze_pdf_table
+import cv2
+import numpy as np
+
 
 CHECK_POSTAL_CODE = r'[0-9]{3}-[0-9]{4}'
 CHECK_TEL_CODE = r'0[0-9]{1}-[0-9]{4}-[0-9]{4}|0[0-9]{2}-[0-9]{3}-[0-9]{4}|0[0-9]{3}-[0-9]{2}-[0-9]{4}|0[0-9]{4}-[0-9]{1}-[0-9]{4}'
@@ -15,6 +18,7 @@ DEFAULT_RULE = {
     "char_margin" : 0.25,         # 2つの文字がこのマージンよりも接近している場合、それらは同じ行の一部と見なされます。
     "accuracy" : 90.0,
     "line_scale": 30,             # 大きいほど小さい線を検出するが、大きすぎると文字を線と見なしてしまう。
+    "image_proc" : None,
     "columns" : {
         "no" : {
             "index" : 0,
@@ -109,7 +113,7 @@ def fix_postal_code(rec, log):
         m = re.search(CHECK_POSTAL_CODE, name)
         if m:
             rec['name'] = name[0:m.span()[0]]
-            rec['postal_code'] = m.group()
+            rec['postal_code'] = name[m.span()[0]:]
             log(
                 "postal_codeが空のためnameから値を取得しました. name:{}->{}, {}".format(
                     name,
@@ -152,7 +156,6 @@ def fix_address(rec, log):
         postal_code = rec['postal_code']
         m = re.search(CHECK_POSTAL_CODE, postal_code)
         if m :
-            print(m.group(), m.span())
             rec['postal_code'] = m.group()
             rec['address'] = postal_code[m.span()[1]:]
             log(
@@ -217,6 +220,15 @@ def copy_record(rec_list, src_ix, dst_ix):
         if not rec_list[dst_ix][k]:
             rec_list[dst_ix][k] = rec_list[src_ix][k]
 
+def image_proc_remove_dotline(threshold):
+    """画像中の点線を直線に直す"""
+    #el = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))
+    el = np.zeros((5,5), np.uint8)
+    el[2, :] =1    
+    threshold = cv2.dilate(threshold, el, iterations=1)
+    threshold = cv2.erode(threshold, el, iterations=1)
+    return threshold
+
 def setup_rule():
     """ルールの設定"""
     rules = {}
@@ -270,9 +282,11 @@ def setup_rule():
     rules['奈良県']['columns']['department']['index'] = 9
     rules['奈良県']['columns']['doctor']['index'] = 10
     rules['奈良県']['columns']['cooperation']['index'] = 11
- 
+    #
+    rules['兵庫県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['兵庫県']['image_proc'] = image_proc_remove_dotline
     return rules
-
+    
 def fix_result_list(result):
     """PDFの取得結果の一覧を修正する.
     ・名称が空の行がある場合、ページの区切りによって前後のどちらかの行から欠損しているデータを取得する

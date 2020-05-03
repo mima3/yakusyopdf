@@ -1,7 +1,12 @@
 """PDFのテーブルを解析する."""
+import os
 from tqdm import tqdm
 import camelot
+import camelot_ex
 import mojimoji
+from camelot.utils import (
+    TemporaryDirectory,
+)
 
 
 class AnalyzePdfTable:
@@ -86,12 +91,13 @@ class AnalyzePdfTable:
             ret.append(rec)
         return ret
 
-    def _parse_page(self):
+    def _parse_page(self, handler, page):
         ret = []
-        tables = camelot.read_pdf(
-            self.target_path,
-            pages=str(self.page),
+        tables = self._read_pdf(
+            handler,
+            page,
             line_scale=self.rule['line_scale'],
+            image_proc=self.rule['image_proc'],
             layout_kwargs={'char_margin': self.rule['char_margin']},
             copy_text=['v']
         )
@@ -104,6 +110,23 @@ class AnalyzePdfTable:
                 continue
             ret.extend(self._parse_table(table))
         return ret
+
+    def _read_pdf(self, handler, page, password=None, suppress_stdout=False, layout_kwargs={}, **kwargs):
+
+        tables = []
+        with TemporaryDirectory() as tempdir:
+            handler._save_page(handler.filepath, page, tempdir)
+            tmp_page = os.path.join(tempdir, "page-{0}.pdf".format(page))
+            parser = camelot_ex.LatticeEx(
+                **kwargs
+            )
+            t = parser.extract_tables(
+                tmp_page,
+                suppress_stdout=suppress_stdout,
+                layout_kwargs=layout_kwargs
+            )
+            tables.extend(t)
+            return tables
 
 
     def parse_pdf(self, path, rule, fixrec_func=None):
@@ -119,7 +142,7 @@ class AnalyzePdfTable:
         # https://github.com/camelot-dev/camelot/issues/28
         pages = handler._get_pages(path, pages="all")
         for self.page in tqdm(pages):
-            page_ret = self._parse_page()
+            page_ret = self._parse_page(handler, self.page)
             ret.extend(page_ret)
         return ret
 
