@@ -98,7 +98,7 @@ https://www.mhlw.go.jp/content/000626079.pdf
  - page21  index:0～2については行が分割された影響
  - page21  index:12 col:4については行が分割された影響
 
-##石川県
+## 石川県
 https://www.mhlw.go.jp/content/000625011.pdf
  - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
