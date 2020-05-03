@@ -1,9 +1,10 @@
-# Web�y�[�W
-## �ړI
-���ݍ��W�ɂ����Ƃ��߂��a�@�̏����擾����Web�T�[�r�X�ł��B
+# Webページ
+## 目的
+現在座標にもっとも近い病院の情報を取得するWebサービスです。  
 
+https://needtec.sakura.ne.jp/yakusyopdf/
 
-## �����^���T�[�o�[�ւ̃f�v���C��
+## レンタルサーバーへのデプロイ例
 
 ```
 rm -rf yakusyopdf
