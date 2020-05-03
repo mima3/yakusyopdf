@@ -1,180 +1,238 @@
-# 2020/05/03 11:39:57���_
-##�k�C��
+# 2020/05/03 11:39:57時点
+## 北海道
 https://www.mhlw.go.jp/content/000625697.pdf
 
- - 2�y�[�W���ȍ~�̃w�b�_�[�s�̕\���̗L�����ς�����B
- - �X�֔ԍ��F980504�͌�L
- - �X�֔ԍ��F099-01111�͌�L
- - page:9 index:13 col:4 �ɒl�����݂��Ȃ����A�O�̍s�ɂ͂���̂ŋ��e�Ƃ���.
- - �X�֔ԍ��F600007�͌�L
- - page:21 �����f�ÃN���j�b�N�Ƒ��c���ȏz��N���j�b�N�̍s�Ɍr�������݂��Ă��Ȃ��B���̂��ߌ��������f�[�^�Ƃ��Ď�舵����B
+ - 2ページ名以降のヘッダー行の表示の有無が変わった。
+ - 郵便番号：980504は誤記
+ - 郵便番号：099-01111は誤記
+ - page:9 index:13 col:4 に値が存在しないが、前の行にはあるので許容とする.
+ - 郵便番号：600007は誤記
+ - page:21 総合診療クリニックと太田内科循環器クリニックの行に罫線が存在していない。このため結合したデータとして取り扱われる。
 
-##�X�� https://www.mhlw.go.jp/content/000627310.pdf
- - �S�Ă̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 青森県
+https://www.mhlw.go.jp/content/000627310.pdf
+ - 全ての警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##��茧 https://www.mhlw.go.jp/content/000627311.pdf
- - �X�֔ԍ��@025-00016�@�͌�L
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 岩手県
+https://www.mhlw.go.jp/content/000627311.pdf
+ - 郵便番号　025-00016　は誤記
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##�{�錧 https://www.mhlw.go.jp/content/000626614.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 宮城県
+https://www.mhlw.go.jp/content/000626614.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##�H�c�� https://www.mhlw.go.jp/content/000625066.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 秋田県
+https://www.mhlw.go.jp/content/000625066.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##�R�`�� https://www.mhlw.go.jp/content/000625009.pdf
- - �X�֔ԍ�993-003�͌�L
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 山形県
+https://www.mhlw.go.jp/content/000625009.pdf
+ - 郵便番号993-003は誤記
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##������ https://www.mhlw.go.jp/content/000626098.pdf
- - �x���Ȃ�
+## 福島県
+https://www.mhlw.go.jp/content/000626098.pdf
+ - 警告なし
 
-##��錧 https://www.mhlw.go.jp/content/000626615.pdf
- - �{�ݖ��̕a�@�̎�ނ����Ă���s�����邽�ߌx������������
- - �X�֔ԍ��@32-0022�͌�L
- - page9,page19�̐擪�s�̎�舵���ɂ��Č������K�v
+## 茨城県
+https://www.mhlw.go.jp/content/000626615.pdf
+ - 施設名の病院の種類を入れている行があるため警告が発生する
+ - 郵便番号　32-0022は誤記
+ - page9,page19の先頭行の取り扱いについて検討が必要
  
-##�Ȗ،� https://www.mhlw.go.jp/content/000626075.pdf
- - page3 ��Ö@�l�b�������ʂ�N���j�b�N�ɓd�b�ԍ��Ȃ�
+## 栃木県
+https://www.mhlw.go.jp/content/000626075.pdf
+ - page3 医療法人恵愛会さくら通りクリニックに電話番号なし
 
-##�Q�n�� https://www.mhlw.go.jp/content/000626076.pdf
- - �x���Ȃ�
+## 群馬県
+https://www.mhlw.go.jp/content/000626076.pdf
+ - 警告なし
 
-##��ʌ� https://www.mhlw.go.jp/content/000627337.pdf
- - �����΃N���j�b�N �d�b�ԍ��Ȃ�
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 埼玉県
+https://www.mhlw.go.jp/content/000627337.pdf
+ - あおばクリニック 電話番号なし
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##��t�� https://www.mhlw.go.jp/content/000627345.pdf
- -  page 15 index:2 col:4 value �����O�̍s�Ƀf�[�^�����݂��Ă���̂ŋ��e�Ƃ���
- - �X�֔ԍ��@270-166�͌�L
- - �X�֔ԍ��@286-021�͌�L
+## 千葉県
+https://www.mhlw.go.jp/content/000627345.pdf
+ -  page 15 index:2 col:4 value だが前の行にデータが存在しているので許容とする
+ - 郵便番号　270-166は誤記
+ - 郵便番号　286-021は誤記
 
-##�����s https://www.mhlw.go.jp/content/000627308.pdf
- - �X�֔ԍ��F104-042�͌�L
- - �X�֔ԍ��F03-5148-3921�͌�L
- - �X�֔ԍ��F03-3386-6500�͌�L
- - �X�֔ԍ��F181-00013�͌�L
- - �X�֔ԍ��F187-00025�͌�L
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
- 
- 
-##�_�ސ쌧 https://www.mhlw.go.jp/content/000626081.pdf
- - ���l���S�r���畆��A��Ȉ�@�ɂ͓d�b�ԍ����Ȃ�
- - �Ô���A��ȃN���j�b�N�ɂ͓d�b�ԍ����Ȃ�
- - �X�֔ԍ��@250--875�͌�L
- - 42page�ڂ� �X�֔ԍ��@250-�͌�L
- - �݂Ђ�N���j�b�N�ɂ͗X�֔ԍ��͑��݂��Ȃ�
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
- 
-##�V���� https://www.mhlw.go.jp/content/000626100.pdf
- - �X�֔ԍ� 950-087�͌�L
- - page7 index:13�̓d�b�ԍ��̌����͍s����������Ă��邽�߁B���e�Ƃ���
- - ���r���ȏ�����ȃN���j�b�N�ɗX�֔ԍ��Ȃ�
- - �����Ƃ����ȃN���j�b�N�ɗX�֔ԍ��Ȃ�
- - �X�֔ԍ�94-6772�͌�L
- - ��������@�ɓd�b�ԍ��Ȃ�
-
-##�x�R�� https://www.mhlw.go.jp/content/000626079.pdf
- - page4�̐擪�s�̎�舵���ɂ���
- - page6�̍ŏI�s�̎�舵���ɂ���
- - page10  index:6 col:4�ɂ��Ă͍s���������ꂽ�e��
- - page19  index:3 col:4�ɂ��Ă͍s���������ꂽ�e��
- - page20  index:2 col:4�ɂ��Ă͍s���������ꂽ�e��
- - page21  index:0�`2�ɂ��Ă͍s���������ꂽ�e��
- - page21  index:12 col:4�ɂ��Ă͍s���������ꂽ�e��
-
-##�ΐ쌧 https://www.mhlw.go.jp/content/000625011.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
-
-##���䌧 https://www.mhlw.go.jp/content/000626618.pdf
- - �X�֔ԍ��F9118-8014�͌�L
-##�R���� https://www.mhlw.go.jp/content/000627315.pdf
- ������ύX�������߁A�v�Č���
-
-##���쌧 https://www.mhlw.go.jp/content/000627316.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
-
-##�򕌌� https://www.mhlw.go.jp/content/000625015.pdf
- - page13�̐擪�s�̎�舵��
- 
-##�É��� https://www.mhlw.go.jp/content/000626083.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
-
-##���m�� https://www.mhlw.go.jp/content/000626619.pdf
- - �x���Ȃ�
-##�O�d�� https://www.mhlw.go.jp/content/000626101.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
-##���ꌧ https://www.mhlw.go.jp/content/000627317.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
-##���s�{ https://www.mhlw.go.jp/content/000626084.pdf
- - �x���Ȃ�
-##���{ https://www.mhlw.go.jp/content/000626085.pdf
- - �������Ȃɂ͓d�b�ԍ����Ȃ�
- - ��Ö@�l�@���m��ɂ͓d�b�ԍ����Ȃ�
- - �X�֔ԍ�534-021�͌�L
+## 東京都
+https://www.mhlw.go.jp/content/000627308.pdf
+ - 郵便番号：104-042は誤記
+ - 郵便番号：03-5148-3921は誤記
+ - 郵便番号：03-3386-6500は誤記
+ - 郵便番号：181-00013は誤記
+ - 郵便番号：187-00025は誤記
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
  
  
-##���Ɍ� https://www.mhlw.go.jp/content/000626621.pdf
- - ��X�N���j�b�N�ɓd�b�ԍ��Ȃ�
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 神奈川県
+https://www.mhlw.go.jp/content/000626081.pdf
+ - 横浜相鉄ビル皮膚泌尿器科医院には電話番号がない
+ - 古畑泌尿器科クリニックには電話番号がない
+ - 郵便番号　250--875は誤記
+ - 42page目の 郵便番号　250-は誤記
+ - みひらクリニックには郵便番号は存在しない
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
  
-##�ޗǌ� https://www.mhlw.go.jp/content/000627318.pdf
- - �X�֔ԍ��@631-003�͌�L
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 新潟県
+https://www.mhlw.go.jp/content/000626100.pdf
+ - 郵便番号 950-087は誤記
+ - page7 index:13の電話番号の欠損は行が分割されているため。許容とする
+ - 小池内科消化器科クリニックに郵便番号なし
+ - さいとう内科クリニックに郵便番号なし
+ - 郵便番号94-6772は誤記
+ - すずき医院に電話番号なし
+
+## 富山県
+https://www.mhlw.go.jp/content/000626079.pdf
+ - page4の先頭行の取り扱いについて
+ - page6の最終行の取り扱いについて
+ - page10  index:6 col:4については行が分割された影響
+ - page19  index:3 col:4については行が分割された影響
+ - page20  index:2 col:4については行が分割された影響
+ - page21  index:0～2については行が分割された影響
+ - page21  index:12 col:4については行が分割された影響
+
+##石川県
+https://www.mhlw.go.jp/content/000625011.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+
+## 福井県
+https://www.mhlw.go.jp/content/000626618.pdf
+ - 郵便番号：9118-8014は誤記
+
+## 山梨県
+https://www.mhlw.go.jp/content/000627315.pdf
+ 書式を変更されたため、要再検討が必要。
+
+## 長野県
+https://www.mhlw.go.jp/content/000627316.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+
+## 岐阜県
+https://www.mhlw.go.jp/content/000625015.pdf
+ - page13の先頭行の取り扱い
  
-##�a�̎R�� https://www.mhlw.go.jp/content/000626622.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+##静岡県
+https://www.mhlw.go.jp/content/000626083.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##���挧 https://www.mhlw.go.jp/content/000627319.pdf
- - �X�֔ԍ�0852-0876�͌�L
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 愛知県
+https://www.mhlw.go.jp/content/000626619.pdf
+ - 警告なし
+
+## 三重県
+https://www.mhlw.go.jp/content/000626101.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+
+## 滋賀県
+https://www.mhlw.go.jp/content/000627317.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+
+## 京都府
+https://www.mhlw.go.jp/content/000626084.pdf
+ - 警告なし
+
+## 大阪府
+https://www.mhlw.go.jp/content/000626085.pdf
+ - 岡﨑内科には電話番号がない
+ - 医療法人　平仁会には電話番号がない
+ - 郵便番号534-021は誤記
  
-##������ https://www.mhlw.go.jp/content/000626089.pdf
- - �X�֔ԍ�0852-0876�͌�L
- - page8�����肩���s������
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+ 
+## 兵庫県
+https://www.mhlw.go.jp/content/000626621.pdf
+ - 大森クリニックに電話番号なし
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+ 
+## 奈良県
+https://www.mhlw.go.jp/content/000627318.pdf
+ - 郵便番号　631-003は誤記
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+ 
+## 和歌山県
+https://www.mhlw.go.jp/content/000626622.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##���R�� https://www.mhlw.go.jp/content/000626091.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 鳥取県
+https://www.mhlw.go.jp/content/000627319.pdf
+ - 郵便番号0852-0876は誤記
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+ 
+## 島根県
+https://www.mhlw.go.jp/content/000626089.pdf
+ - 郵便番号0852-0876は誤記
+ - page8あたりから空行がある
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##�L���� https://www.mhlw.go.jp/content/000627320.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
-##�R���� https://www.mhlw.go.jp/content/000627321.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 岡山県
+https://www.mhlw.go.jp/content/000626091.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##������ https://www.mhlw.go.jp/content/000626623.pdf
- - �X�֔ԍ�770-052�͌�L
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 広島県
+https://www.mhlw.go.jp/content/000627320.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##���쌧 https://www.mhlw.go.jp/content/000626104.pdf
- - �x���Ȃ�
+## 山口県
+https://www.mhlw.go.jp/content/000627321.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##���Q�� https://www.mhlw.go.jp/content/000625070.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 徳島県
+https://www.mhlw.go.jp/content/000626623.pdf
+ - 郵便番号770-052は誤記
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##���m�� https://www.mhlw.go.jp/content/000625071.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 香川県
+https://www.mhlw.go.jp/content/000626104.pdf
+ - 警告なし
 
-##������ https://www.mhlw.go.jp/content/000626105.pdf
- - �C�������ׂĎ����ōs���Ă���
+## 愛媛県
+https://www.mhlw.go.jp/content/000625070.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##���ꌧ https://www.mhlw.go.jp/content/000626095.pdf
- - �x���Ȃ�
+## 高知県
+https://www.mhlw.go.jp/content/000625071.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
 
-##���茧 https://www.mhlw.go.jp/content/000625116.pdf
- - page2 index6 �͍s����������Ă��邽�߃f�[�^�����܂��Ƃ�Ȃ�
- - �����@�ɂ͏Z�����Ȃ�
+## 福岡県
+https://www.mhlw.go.jp/content/000626105.pdf
+ - 修正がすべて自動で行われている
 
-##�F�{�� https://www.mhlw.go.jp/content/000627322.pdf
- - �X�֔ԍ�861-41579�͌�L
-##�啪�� https://www.mhlw.go.jp/content/000625014.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
-##�{�茧 https://www.mhlw.go.jp/content/000626624.pdf
- - page1 index8 �͍s����������Ă��邽�߃f�[�^�����܂��Ƃ�Ȃ�
- - page2 index8 �͍s����������Ă��邽�߃f�[�^�����܂��Ƃ�Ȃ�
- - page9 index3 �͍s����������Ă��邽�߃f�[�^�����܂��Ƃ�Ȃ�
-##�������� https://www.mhlw.go.jp/content/000627323.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
-##���ꌧ https://www.mhlw.go.jp/content/000626625.pdf
- - ���̌x���͂Q�s�ڈȍ~�̃w�b�_�[�Ɋւ�����̂Ȃ̂ŋ��e�Ƃ���B
+## 佐賀県
+https://www.mhlw.go.jp/content/000626095.pdf
+ - 警告なし
 
+## 長崎県
+https://www.mhlw.go.jp/content/000625116.pdf
+ - page2 index6 は行が分割されているためデータがうまくとれない
+ - 黒崎医院には住所がない
+
+## 熊本県
+https://www.mhlw.go.jp/content/000627322.pdf
+ - 郵便番号861-41579は誤記
+
+## 大分県
+https://www.mhlw.go.jp/content/000625014.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+
+## 宮崎県
+https://www.mhlw.go.jp/content/000626624.pdf
+ - page1 index8 は行が分割されているためデータがうまくとれない
+ - page2 index8 は行が分割されているためデータがうまくとれない
+ - page9 index3 は行が分割されているためデータがうまくとれない
+
+## 鹿児島県
+https://www.mhlw.go.jp/content/000627323.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+
+## 沖縄県
+https://www.mhlw.go.jp/content/000626625.pdf
+ - 他の警告は２行目以降のヘッダーに関するものなので許容とする。
+
+## 要検討項目
+ - 警告が多すぎるので間引く方法
