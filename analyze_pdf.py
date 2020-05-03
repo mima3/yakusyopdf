@@ -285,6 +285,13 @@ def setup_rule():
     #
     rules['兵庫県'] = copy.deepcopy(DEFAULT_RULE)
     rules['兵庫県']['image_proc'] = image_proc_remove_dotline
+    #
+    rules['山梨県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['山梨県']['columns']['first']['index'] = 6
+    rules['山梨県']['columns']['revisit']['index'] = 7
+    rules['山梨県']['columns']['department']['index'] = 10
+    rules['山梨県']['columns']['doctor']['index'] = 11
+    rules['山梨県']['columns']['cooperation']['index'] = 12
     return rules
     
 def fix_result_list(result):

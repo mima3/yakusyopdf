@@ -70,6 +70,8 @@ class HospitalDb:
                 }
                 address_rec = Addresses.insert(address_data).execute()
                 # 座標情報
+                if not 'coordinates' in address_info[address]:
+                    continue
                 for coordinate in address_info[address]['coordinates']:
                     coordinate_data = {
                         'address_id' : address_rec.real,
