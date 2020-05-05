@@ -35,3 +35,9 @@ python create_geo_by_json.py 古いall_data.json 新しいall_data.json
 python create_hospital_db.py 20200428\all_data.json 20200428\hospital.sqlite
 ```
 
+```seq
+Andrew->Terry: Says Hello
+Note right of Terry: Terry thinks\nabout it
+Terry-->Andrew: How are you?
+Andrew->>Terry: I am good thanks!
+```
