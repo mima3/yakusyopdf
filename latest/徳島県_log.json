@@ -1,0 +1,296 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:770-052",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/徳島県.pdf"
+    }
+]

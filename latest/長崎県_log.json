@@ -1,0 +1,20 @@
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:3 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/長崎県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためaddressから値を取得しました. postal_code:851-2105->851-2105, ",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/長崎県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "解析対象のテーブルではありません accurasy:-411.24/90.0",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/長崎県.pdf"
+    }
+]

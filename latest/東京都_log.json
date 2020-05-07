@@ -1,0 +1,2570 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 9,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:4 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:東京都中央区八丁堀２－２０－８　八丁堀綜通ビル９Ｆ03-3551-8860->東京都中央区八丁堀２－２０－８　八丁堀綜通ビル９Ｆ, 03-3551-8860",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:15 col:2 value:104-042",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:03-5148-3921",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 14,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 17,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 19,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 21,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 22,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 22,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 22,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 22,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 23,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 24,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 24,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 24,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 24,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 25,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 25,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 25,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 25,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 28,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 28,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 28,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 28,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 29,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 29,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 29,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 29,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 30,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 30,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 30,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 30,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 32,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 33,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 33,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 33,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 33,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 34,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 34,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 34,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 34,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 35,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 35,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 35,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 35,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 36,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 36,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 36,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 36,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 37,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 37,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 37,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 37,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 38,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 38,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 38,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 38,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 39,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 39,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 39,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 39,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 40,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 40,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 40,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 40,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 41,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 41,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 41,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 41,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 42,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 42,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 42,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 42,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 43,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 43,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 43,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 43,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 44,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 44,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 44,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 44,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 45,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 45,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 45,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 45,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 46,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 46,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 46,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 46,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 47,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 47,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 47,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 47,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:03-3718-9907",
+        "page": 47,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 48,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 48,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 48,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 48,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 49,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 49,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 49,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 49,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 50,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 50,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 50,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 50,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 51,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 51,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 51,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 51,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 52,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 52,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 52,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 52,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 53,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 53,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 53,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 53,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 54,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 54,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 54,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 54,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 55,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 55,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 55,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 55,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 56,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 56,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 56,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 56,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:03-3386-6500",
+        "page": 56,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 57,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 57,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 57,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 57,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 58,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 58,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 58,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 58,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 59,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 59,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 59,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 59,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 60,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 60,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 60,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 60,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 61,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 61,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 61,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 61,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 62,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 62,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 62,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 62,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 63,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 63,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 63,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 63,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 64,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 64,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 64,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 64,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 65,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 65,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 65,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 65,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 66,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 66,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 66,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 66,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 67,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 67,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 67,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 67,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 68,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 68,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 68,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 68,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 69,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 69,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 69,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 69,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 70,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 70,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 70,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 70,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 71,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 71,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 71,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 71,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 72,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 72,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 72,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 72,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 73,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 73,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 73,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 73,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 74,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 74,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 74,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 74,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 75,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 75,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 75,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 75,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 76,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 76,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 76,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 76,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 77,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 77,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 77,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 77,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 78,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 78,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 78,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 78,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 79,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 79,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 79,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 79,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 80,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 80,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 80,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 80,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 81,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 81,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 81,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 81,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 82,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 82,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 82,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 82,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 83,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 83,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 83,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 83,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 84,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 84,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 84,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 84,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 85,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 85,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 85,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 85,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 86,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 86,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 86,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 86,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 87,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 87,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 87,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 87,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 88,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 88,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 88,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 88,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 89,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 89,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 89,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 89,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 90,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 90,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 90,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 90,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:181-00013",
+        "page": 90,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 91,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 91,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 91,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 91,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 92,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 92,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 92,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 92,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 93,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 93,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 93,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 93,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 94,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 94,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 94,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 94,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 95,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 95,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 95,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 95,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 96,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 96,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 96,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 96,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 97,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 97,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 97,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 97,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 98,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 98,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 98,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 98,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 99,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 99,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 99,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 99,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:187-00025",
+        "page": 99,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 100,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 100,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 100,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 100,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 101,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 101,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 101,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 101,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 102,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 102,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 102,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 102,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 103,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 103,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 103,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 103,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 104,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 104,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 104,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 104,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 105,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 105,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 105,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 105,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 106,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 106,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 106,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 106,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/東京都.pdf"
+    }
+]

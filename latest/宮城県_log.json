@@ -1,0 +1,32 @@
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:0 col:2 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/宮城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:3 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/宮城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:0 col:4 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/宮城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:1 col:2 value:郵便番号",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/宮城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:984-00178",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/20200503/宮城県.pdf"
+    }
+]
