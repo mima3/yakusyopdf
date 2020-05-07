@@ -34,4 +34,3 @@ python create_geo_by_json.py 古いall_data.json 新しいall_data.json
 # データベースに保存します。
 python create_hospital_db.py 20200428\all_data.json 20200428\hospital.sqlite
 ```
-
