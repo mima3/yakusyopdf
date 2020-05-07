@@ -19,8 +19,8 @@ https://needtec.sakura.ne.jp/wod07672/2020/04/29/%e5%8e%9a%e7%94%9f%e5%8a%b4%e5%
 # 新型コロナウイルス感染症の感染拡大を踏まえたオンライン診療についてのページからPDFをダウンロードしてフォルダに保存する
 python download_pdf.py
 
-# 作成したフォルダを指定して、PDFの内容からJSONとCSVを作成する
-python analyze_pdf.py 20200428
+# 作成したフォルダ中のinfo.jsonを指定して、PDFの内容からJSONとCSVを作成する
+python analyze_pdf.py 20200428/info.json
 
 # 各都道府県ごとのJSONファイルを1つのファイルに纏めます。また、この際、キーを住所とします。
 python merge_json 20200428

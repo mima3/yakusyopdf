@@ -1,5 +1,5 @@
 {
-    "download_time": "2020-05-03 12:39:31.847694",
+    "download_time": "2020-05-07 14:52:34.178273",
     "list": [
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/北海道.pdf",
@@ -154,12 +154,12 @@
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/鳥取県.pdf",
             "name": "鳥取県",
-            "url": "https://www.mhlw.go.jp/content/000627319.pdf"
+            "url": "https://www.mhlw.go.jp/content/000627822.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/島根県.pdf",
             "name": "島根県",
-            "url": "https://www.mhlw.go.jp/content/000626089.pdf"
+            "url": "https://www.mhlw.go.jp/content/000627823.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/岡山県.pdf",

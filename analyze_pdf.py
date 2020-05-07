@@ -8,6 +8,7 @@ import mojimoji
 import analyze_pdf_table
 import cv2
 import numpy as np
+from pathlib import Path
 
 
 CHECK_POSTAL_CODE = r'[0-9]{3}-[0-9]{4}'
@@ -232,26 +233,10 @@ def image_proc_remove_dotline(threshold):
 def setup_rule():
     """ルールの設定"""
     rules = {}
-    rules['茨城県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['茨城県']['other_page_offset'] = 0
-    rules['宮崎県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['宮崎県']['other_page_offset'] = 0
-    rules['京都府'] = copy.deepcopy(DEFAULT_RULE)
-    rules['京都府']['other_page_offset'] = 0
-    rules['鹿児島県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['鹿児島県']['other_page_offset'] = 0
-    rules['富山県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['富山県']['other_page_offset'] = 0
-    rules['香川県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['香川県']['other_page_offset'] = 0
-    rules['佐賀県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['佐賀県']['other_page_offset'] = 0
-    rules['長崎県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['長崎県']['other_page_offset'] = 0
-    rules['和歌山県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['和歌山県']['other_page_offset'] = 0
-    rules['福岡県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['福岡県']['other_page_offset'] = 0
+    rules['島根県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['島根県']['other_page_offset'] = 2
+    rules['鳥取県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['鳥取県']['other_page_offset'] = 2
 
     #
     rules['愛知県'] = copy.deepcopy(DEFAULT_RULE)
@@ -356,10 +341,13 @@ def main(argvs):
     argvs = sys.argv
     argc = len(argvs)
     if argc != 2:
-        print("Usage #python %s [downloadフォルダのパス]" % argvs[0])
+        print("Usage #python %s [info.jsonのパス]" % argvs[0])
         exit()
-    dst_folder = argvs[1]
-    with open('{}/info.json'.format(dst_folder), mode='r', encoding='utf8') as fp:
+
+
+    info_json_path = argvs[1]
+    dst_folder = str(Path('latest/info.json').resolve().parents[0])
+    with open(info_json_path, mode='r', encoding='utf8') as fp:
         pdf_info = json.load(fp)
 
     pdf = analyze_pdf_table.AnalyzePdfTable()
