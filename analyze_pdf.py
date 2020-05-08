@@ -346,7 +346,7 @@ def main(argvs):
 
 
     info_json_path = argvs[1]
-    dst_folder = str(Path('latest/info.json').resolve().parents[0])
+    dst_folder = str(Path(info_json_path).resolve().parents[0])
     with open(info_json_path, mode='r', encoding='utf8') as fp:
         pdf_info = json.load(fp)
 
