@@ -233,10 +233,64 @@ def image_proc_remove_dotline(threshold):
 def setup_rule():
     """ルールの設定"""
     rules = {}
+    rules['青森県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['青森県']['other_page_offset'] = 2
+    rules['岩手県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['岩手県']['other_page_offset'] = 2
+    rules['宮城県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['宮城県']['other_page_offset'] = 2
+    rules['秋田県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['秋田県']['other_page_offset'] = 2
+    rules['山形県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['山形県']['other_page_offset'] = 2
+    rules['栃木県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['栃木県']['other_page_offset'] = 2
+    rules['埼玉県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['埼玉県']['other_page_offset'] = 2
+    rules['神奈川県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['神奈川県']['other_page_offset'] = 2
+    rules['新潟県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['新潟県']['other_page_offset'] = 2
+    rules['石川県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['石川県']['other_page_offset'] = 2
+    rules['福井県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['福井県']['other_page_offset'] = 2
+    rules['長野県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['長野県']['other_page_offset'] = 2
+    rules['岐阜県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['岐阜県']['other_page_offset'] = 2
+    rules['静岡県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['静岡県']['other_page_offset'] = 2
+    rules['三重県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['三重県']['other_page_offset'] = 2
+    rules['滋賀県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['滋賀県']['other_page_offset'] = 2
+    rules['和歌山県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['和歌山県']['other_page_offset'] = 2
     rules['島根県'] = copy.deepcopy(DEFAULT_RULE)
     rules['島根県']['other_page_offset'] = 2
     rules['鳥取県'] = copy.deepcopy(DEFAULT_RULE)
     rules['鳥取県']['other_page_offset'] = 2
+    rules['岡山県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['岡山県']['other_page_offset'] = 2
+    rules['広島県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['広島県']['other_page_offset'] = 2
+    rules['山口県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['山口県']['other_page_offset'] = 2
+    rules['徳島県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['徳島県']['other_page_offset'] = 2
+    rules['愛媛県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['愛媛県']['other_page_offset'] = 2
+    rules['高知県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['高知県']['other_page_offset'] = 2
+    rules['熊本県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['熊本県']['other_page_offset'] = 2
+    rules['大分県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['大分県']['other_page_offset'] = 2
+    rules['鹿児島県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['鹿児島県']['other_page_offset'] = 2
+    rules['沖縄県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['沖縄県']['other_page_offset'] = 2
 
     #
     rules['愛知県'] = copy.deepcopy(DEFAULT_RULE)
@@ -254,6 +308,7 @@ def setup_rule():
     #
     rules['東京都'] = copy.deepcopy(DEFAULT_RULE)
     rules['東京都']['first_page_offset'] = 3
+    rules['東京都']['other_page_offset'] = 2
     #
     rules['奈良県'] = copy.deepcopy(DEFAULT_RULE)
     rules['奈良県']['other_page_offset'] = 0
@@ -270,8 +325,11 @@ def setup_rule():
     #
     rules['兵庫県'] = copy.deepcopy(DEFAULT_RULE)
     rules['兵庫県']['image_proc'] = image_proc_remove_dotline
+    rules['兵庫県']['other_page_offset'] = 2
     #
     rules['山梨県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['山梨県']['first_page_offset'] = 3
+    rules['山梨県']['other_page_offset'] = 3
     rules['山梨県']['columns']['first']['index'] = 6
     rules['山梨県']['columns']['revisit']['index'] = 7
     rules['山梨県']['columns']['department']['index'] = 10
