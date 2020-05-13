@@ -1,1 +1,56 @@
-[]
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:18 col:2 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:浅川クリニック内科循環器内科391-0011->浅川クリニック内科循環器内科, 391-0011",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:27 col:2 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "postal_codeが空のためnameから値を取得しました. name:原村国民健康保険直営診療所391-0104->原村国民健康保険直営診療所, 391-0104",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:4 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:長野県松本市村井町南一丁目36番地13号新ちくまビル4階0263-85-3622->長野県松本市村井町南一丁目36番地13号新ちくまビル4階, 0263-85-3622",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:8 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf"
+    }
+]

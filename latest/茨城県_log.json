@@ -19,248 +19,266 @@
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:7 col:2 value:32-0022",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:32-0022",
         "page": 4,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:0 col:1 value:",
-        "page": 9,
+        "message": "値が存在しません. index:3 col:4 value:",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:029-853-3900https://www.hosp.tsukuba.ac.jp/telemed/->029-853-3900, https://www.hosp.tsukuba.ac.jp/telemed/",
+        "page": 8,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:0 col:2 value:",
-        "page": 9,
+        "message": "値が存在しません. index:4 col:4 value:",
+        "page": 8,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:0 col:3 value:",
-        "page": 9,
+        "message": "値が存在しません. index:2 col:1 value:",
+        "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:0 col:4 value:",
-        "page": 9,
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
+        "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:8 col:2 value:",
-        "page": 9,
+        "message": "値が存在しません. index:2 col:3 value:",
+        "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:8 col:3 value:",
-        "page": 9,
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:8 col:4 value:",
-        "page": 9,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:1 col:2 value:",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:1 col:3 value:",
+        "message": "値が存在しません. index:2 col:3 value:",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:1 col:4 value:",
+        "message": "値が存在しません. index:2 col:4 value:",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:10 col:2 value:",
-        "page": 11,
+        "message": "郵便番号の形式ではありません index:9 col:2 value:",
+        "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:10 col:3 value:",
-        "page": 11,
+        "message": "値が存在しません. index:9 col:3 value:",
+        "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:10 col:4 value:",
-        "page": 11,
+        "message": "値が存在しません. index:9 col:4 value:",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:3 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:4 value:",
+        "page": 13,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:3 value:",
+        "page": 15,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:4 value:",
+        "page": 15,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:7 col:2 value:",
-        "page": 12,
+        "page": 16,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
         "message": "値が存在しません. index:7 col:3 value:",
-        "page": 12,
+        "page": 16,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
         "message": "値が存在しません. index:7 col:4 value:",
-        "page": 12,
+        "page": 16,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:14 col:2 value:",
-        "page": 13,
+        "message": "郵便番号の形式ではありません index:7 col:2 value:",
+        "page": 17,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:14 col:3 value:",
-        "page": 13,
+        "message": "値が存在しません. index:7 col:3 value:",
+        "page": 17,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:14 col:4 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:10 col:2 value:",
-        "page": 14,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:10 col:3 value:",
-        "page": 14,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:10 col:4 value:",
-        "page": 14,
+        "message": "値が存在しません. index:7 col:4 value:",
+        "page": 17,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:6 col:2 value:",
-        "page": 17,
+        "page": 20,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
         "message": "値が存在しません. index:6 col:3 value:",
-        "page": 17,
+        "page": 20,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
         "message": "値が存在しません. index:6 col:4 value:",
-        "page": 17,
+        "page": 20,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:0 col:1 value:",
-        "page": 19,
+        "message": "値が存在しません. index:2 col:1 value:",
+        "page": 22,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:0 col:2 value:",
-        "page": 19,
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
+        "page": 22,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:0 col:3 value:",
-        "page": 19,
+        "message": "値が存在しません. index:2 col:3 value:",
+        "page": 22,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:0 col:4 value:",
-        "page": 19,
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 22,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:9 col:2 value:",
-        "page": 19,
+        "message": "郵便番号の形式ではありません index:14 col:2 value:",
+        "page": 22,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:9 col:3 value:",
-        "page": 19,
+        "message": "値が存在しません. index:14 col:3 value:",
+        "page": 22,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:9 col:4 value:",
-        "page": 19,
+        "message": "値が存在しません. index:14 col:4 value:",
+        "page": 22,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:7 col:4 value:",
-        "page": 21,
+        "message": "値が存在しません. index:12 col:4 value:",
+        "page": 24,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "info",
         "message": "telが空のためurlから値を取得しました. url:029-858-9590http://www.k.tsukuba-tech.ac.jp/cl/->029-858-9590, http://www.k.tsukuba-tech.ac.jp/cl/",
-        "page": 21,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:9 col:2 value:",
-        "page": 22,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:9 col:3 value:",
-        "page": 22,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:9 col:4 value:",
-        "page": 22,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:0 col:2 value:",
         "page": 24,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:0 col:3 value:",
-        "page": 24,
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
+        "page": 26,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:0 col:4 value:",
-        "page": 24,
+        "message": "値が存在しません. index:2 col:3 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:11 col:3 value:",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:11 col:4 value:",
+        "page": 27,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/茨城県.pdf"
     }
 ]

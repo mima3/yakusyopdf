@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:〃",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大分県.pdf"
+    }
+]

@@ -1,8 +1,44 @@
 [
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:12 col:2 value:861-41579",
-        "page": 9,
+        "message": "郵便番号の形式ではありません index:5 col:2 value:860-8518\n860-8518",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:860-8518\n860-8518",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:860-8518\n860-8518\n860-8518",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:860-8518\n860-8518\n860-8518",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:860-8518\n860-8518\n860-8518",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:860-8518\n860-8518\n860-8518",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:14 col:2 value:861-41579",
+        "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf"
     }
 ]

@@ -4,5 +4,11 @@
         "message": "telにhttpを検出したためurlにコピーします. tel:076-248-2122\nhttps://www.kokorono-cl.com/->076-248-2122, https://www.kokorono-cl.com/",
         "page": 6,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/石川県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:926-926-0811",
+        "page": 12,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/石川県.pdf"
     }
 ]

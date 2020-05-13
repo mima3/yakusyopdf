@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:1 value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:3 value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:≪診療所≫->≪診療所≫, ≪診療所≫",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:1 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:6 col:2 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:3 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:6 col:4 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "nameが空のためnoから値を取得しました. no:≪病院≫->≪病院≫, ≪病院≫",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
+    }
+]

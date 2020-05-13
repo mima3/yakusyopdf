@@ -291,6 +291,14 @@ def setup_rule():
     rules['鹿児島県']['other_page_offset'] = 2
     rules['沖縄県'] = copy.deepcopy(DEFAULT_RULE)
     rules['沖縄県']['other_page_offset'] = 2
+    rules['茨城県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['茨城県']['other_page_offset'] = 2
+    rules['群馬県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['群馬県']['other_page_offset'] = 2
+    rules['京都府'] = copy.deepcopy(DEFAULT_RULE)
+    rules['京都府']['other_page_offset'] = 2
+    rules['宮崎県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['宮崎県']['other_page_offset'] = 2
 
     #
     rules['愛知県'] = copy.deepcopy(DEFAULT_RULE)
@@ -335,6 +343,21 @@ def setup_rule():
     rules['山梨県']['columns']['department']['index'] = 10
     rules['山梨県']['columns']['doctor']['index'] = 11
     rules['山梨県']['columns']['cooperation']['index'] = 12
+    #
+    rules['神奈川県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['神奈川県']['other_page_offset'] = 2
+    del rules['神奈川県']['columns']['no']
+    rules['神奈川県']['columns']['name']['index'] = 0
+    rules['神奈川県']['columns']['postal_code']['index'] = 1
+    rules['神奈川県']['columns']['address']['index'] = 2
+    rules['神奈川県']['columns']['tel']['index'] = 3
+    rules['神奈川県']['columns']['url']['index'] = 4
+    rules['神奈川県']['columns']['first']['index'] = 5
+    rules['神奈川県']['columns']['revisit']['index'] = 6
+    rules['神奈川県']['columns']['department']['index'] = 7
+    rules['神奈川県']['columns']['doctor']['index'] = 8
+    rules['神奈川県']['columns']['cooperation']['index'] = 9
+
     return rules
     
 def fix_result_list(result):

@@ -1,8 +1,20 @@
 [
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:3 col:2 value:993-003",
-        "page": 13,
+        "message": "値が存在しません. index:10 col:4 value:",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/山形県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:山形県山形市七日町1-4-31山形七日町ﾜｼﾝﾄﾝﾎﾃﾙ1階 023-625-8887->山形県山形市七日町1-4-31山形七日町ﾜｼﾝﾄﾝﾎﾃﾙ1階 , 023-625-8887",
+        "page": 6,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/山形県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:21 col:2 value:993-003",
+        "page": 14,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/山形県.pdf"
     }
 ]
