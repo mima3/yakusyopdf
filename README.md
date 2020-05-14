@@ -34,3 +34,8 @@ python create_geo_by_json.py 古いall_data.json 新しいall_data.json
 # データベースに保存します。
 python create_hospital_db.py 20200428\all_data.json 20200428\hospital.sqlite
 ```
+
+## デモサイト
+https://needtec.sakura.ne.jp/yakusyopdf/home.html
+
+厚生労働省から取得したデータについてはlatestフォルダで更新しています。※座標はいれていません。
