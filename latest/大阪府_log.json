@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:11 col:4 value:",
+        "page": 1,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:17 col:4 value:",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:072-754-4187http://www.iryo-no-mori.com/matsumoto-jibika/->072-754-4187, http://www.iryo-no-mori.com/matsumoto-jibika/",
+        "page": 2,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:8 col:4 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:14 col:4 value:",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:大阪府大阪狭山市茱萸木4-372-10メディカルスクエアくみの木３階072-368-4112->大阪府大阪狭山市茱萸木4-372-10メディカルスクエアくみの木３階, 072-368-4112",
+        "page": 7,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:8 col:4 value:",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:大阪府泉佐野市りんくう往来北1番りんくうゲートタワービル17階072-463-7003->大阪府泉佐野市りんくう往来北1番りんくうゲートタワービル17階, 072-463-7003",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:4 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:534-021",
+        "page": 16,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:39 col:2 value:",
+        "page": 18,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:15 col:4 value:",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:072-262-5073http://cgi1.plala.or.jp/~kema/clinic/index.cgi->072-262-5073, http://cgi1.plala.or.jp/~kema/clinic/index.cgi",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:16 col:4 value:",
+        "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:7 col:4 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:0720851-3434http://www3.ic-net.or.jp/~matsuoclin/index.html->0720851-3434, http://www3.ic-net.or.jp/~matsuoclin/index.html",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:8 col:4 value:",
+        "page": 26,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:10 col:4 value:",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:072−991−6586https://www.reference.co.jp/matsuo/index.html->072, −991−6586https://www.reference.co.jp/matsuo/index.html",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:11 col:4 value:",
+        "page": 27,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    }
+]

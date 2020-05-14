@@ -299,6 +299,8 @@ def setup_rule():
     rules['京都府']['other_page_offset'] = 2
     rules['宮崎県'] = copy.deepcopy(DEFAULT_RULE)
     rules['宮崎県']['other_page_offset'] = 2
+    rules['大阪府'] = copy.deepcopy(DEFAULT_RULE)
+    rules['大阪府']['other_page_offset'] = 2
 
     #
     rules['愛知県'] = copy.deepcopy(DEFAULT_RULE)

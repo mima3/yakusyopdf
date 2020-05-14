@@ -1,5 +1,5 @@
 {
-    "download_time": "2020-05-13 10:36:47.293726",
+    "download_time": "2020-05-14 09:55:24.210826",
     "list": [
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/北海道.pdf",
@@ -134,7 +134,7 @@
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf",
             "name": "大阪府",
-            "url": "https://www.mhlw.go.jp/content/000629690.pdf"
+            "url": "https://www.mhlw.go.jp/content/000630066.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/兵庫県.pdf",
