@@ -1,11 +1,5 @@
 {
-    "latest_download_time": "2020-05-13 10:36:47.293726",
-    "list": [
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf",
-            "name": "大阪府",
-            "url": "https://www.mhlw.go.jp/content/000629690.pdf"
-        }
-    ],
-    "today_download_time": "2020-05-14 09:55:24.210826"
+    "latest_download_time": "2020-05-14 09:55:24.210826",
+    "list": [],
+    "today_download_time": "2020-05-15 08:45:04.494386"
 }
