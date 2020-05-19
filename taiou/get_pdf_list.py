@@ -48,19 +48,27 @@ def html_table_to_csv(soup, title, csv_path):
             return True
     return False
 
-def get_links(url, title, soup = None):
+def get_history_link(url):
+    res = requests.get(url)
+    res.encoding = res.apparent_encoding
+    res.raise_for_status()
+    soup = BeautifulSoup(res.text, 'html.parser')
+    result = get_links(url, '新型コロナウイルス感染症の現在の状況と厚生労働省の対応について', soup)
+    for link in result:
+        if not '令和' in link['title']:
+            # 日付が含まれていない場合は次の兄弟要素のテキストも取得する
+            link['title'] = link['title'] + str(link['elem'].next_sibling)
+    return result
+
+def get_links(url, title, soup):
     result = []
-    if not soup:
-        res = requests.get(url)
-        res.encoding = res.apparent_encoding
-        res.raise_for_status()
-        soup = BeautifulSoup(res.text, 'html.parser')
     elem_links = soup.select('a')
     for link in elem_links:
         if title in link.text:
             result.append({
                 'url':link.attrs['href'],
-                'title':link.text,
+                'title': link.text,
+                'elem' : link
             })
     return result
 
@@ -72,8 +80,7 @@ def main():
     url_parsed = urlparse(target_url)
     base_url = url_parsed.scheme + "://" + url_parsed.netloc
     
-    reports = get_links(target_url,
-                        '新型コロナウイルス感染症の現在の状況と厚生労働省の対応について')
+    reports = get_history_link(target_url)
     for report in reports:
         print(report['title'])
         res = requests.get(report['url'])
