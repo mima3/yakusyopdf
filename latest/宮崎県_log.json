@@ -38,6 +38,18 @@
     {
         "kind": "warn",
         "message": "値が存在しません. index:2 col:4 value:",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/宮崎県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためaddressから値を取得しました. address:宮崎県宮崎市大工1-10-28　ひむかメディカルワールドビル2020985-78-3010->宮崎県宮崎市大工1-10-28　ひむかメディカルワールドビル202, 0985-78-3010",
+        "page": 5,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/宮崎県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:8 col:4 value:",
         "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/宮崎県.pdf"
     },
@@ -49,26 +61,26 @@
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:3 col:4 value:",
+        "message": "値が存在しません. index:9 col:4 value:",
         "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/宮崎県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:15 col:4 value:",
-        "page": 12,
+        "message": "値が存在しません. index:4 col:4 value:",
+        "page": 14,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/宮崎県.pdf"
     },
     {
         "kind": "info",
         "message": "telが空のためurlから値を取得しました. url:0985-86-155http://www.med.miyazaki-u.ac.jp/home/tano/->0985-86-155, http://www.med.miyazaki-u.ac.jp/home/tano/",
-        "page": 12,
+        "page": 14,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/宮崎県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:16 col:4 value:",
-        "page": 12,
+        "message": "値が存在しません. index:5 col:4 value:",
+        "page": 14,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/宮崎県.pdf"
     }
 ]

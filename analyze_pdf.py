@@ -301,10 +301,18 @@ def setup_rule():
     rules['宮崎県']['other_page_offset'] = 2
     rules['大阪府'] = copy.deepcopy(DEFAULT_RULE)
     rules['大阪府']['other_page_offset'] = 2
+    rules['福島県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['福島県']['other_page_offset'] = 2
+    rules['千葉県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['千葉県']['other_page_offset'] = 2
+    rules['佐賀県'] = copy.deepcopy(DEFAULT_RULE)
+    rules['佐賀県']['other_page_offset'] = 2
+    
+    
 
     #
     rules['愛知県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['愛知県']['other_page_offset'] = 0
+    rules['愛知県']['other_page_offset'] = 2
     rules['愛知県']['columns']['name']['index'] = 3
     rules['愛知県']['columns']['postal_code']['index'] = 4
     rules['愛知県']['columns']['address']['index'] = 5

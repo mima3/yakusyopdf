@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "kind": "warn",
+        "message": "列数の少ないデータフレームが取得されたためスキップします df.columns.values:[0 1 2 3]",
+        "page": 24,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/愛知県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "列数の少ないデータフレームが取得されたためスキップします df.columns.values:[0 1 2 3]",
+        "page": 25,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/愛知県.pdf"
+    }
+]

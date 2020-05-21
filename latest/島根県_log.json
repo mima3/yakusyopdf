@@ -1,8 +1,8 @@
 [
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:11 col:2 value:0852-0876",
-        "page": 2,
+        "message": "郵便番号の形式ではありません index:5 col:2 value:0852-0876",
+        "page": 3,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/島根県.pdf"
     }
 ]

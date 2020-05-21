@@ -1,20 +1,20 @@
 [
     {
         "kind": "warn",
-        "message": "値が存在しません. index:4 col:4 value:",
-        "page": 23,
+        "message": "値が存在しません. index:7 col:4 value:",
+        "page": 20,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/兵庫県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:12 col:4 value:",
-        "page": 36,
+        "message": "値が存在しません. index:4 col:4 value:",
+        "page": 34,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/兵庫県.pdf"
     },
     {
         "kind": "info",
         "message": "telが空のためaddressから値を取得しました. address:兵庫県明石市大明石町1丁目6-1　パピオスあかし3階078-917-6800->兵庫県明石市大明石町1丁目6-1　パピオスあかし3階, 078-917-6800",
-        "page": 36,
+        "page": 34,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/兵庫県.pdf"
     }
 ]

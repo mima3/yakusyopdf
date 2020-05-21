@@ -31,25 +31,25 @@
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:6 col:1 value:",
+        "message": "値が存在しません. index:7 col:1 value:",
         "page": 26,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:6 col:2 value:",
+        "message": "郵便番号の形式ではありません index:7 col:2 value:",
         "page": 26,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:6 col:3 value:",
+        "message": "値が存在しません. index:7 col:3 value:",
         "page": 26,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:6 col:4 value:",
+        "message": "値が存在しません. index:7 col:4 value:",
         "page": 26,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/静岡県.pdf"
     },

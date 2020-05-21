@@ -1,1 +1,170 @@
-[]
+[
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:1 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:3 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:1 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:3 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:4 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:1 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:3 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:4 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:1 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:5 col:2 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:3 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:4 value:",
+        "page": 3,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:1 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:3 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:1 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:3 col:2 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:3 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:3 col:4 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:1 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:4 col:2 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:3 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:4 col:4 value:",
+        "page": 4,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/福島県.pdf"
+    }
+]

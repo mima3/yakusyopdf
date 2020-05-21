@@ -1,50 +1,32 @@
 [
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:4 col:2 value:950-087",
-        "page": 7,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/新潟県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:12 col:4 value:",
-        "page": 7,
+        "message": "値が存在しません. index:10 col:4 value:",
+        "page": 8,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/新潟県.pdf"
     },
     {
         "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:025-244-1367http://okada-medical-clinic.la.coocan.jp/->025-244-1367, http://okada-medical-clinic.la.coocan.jp/",
-        "page": 7,
+        "message": "telが空のためaddressから値を取得しました. address:新潟県新潟市中央区有明大橋町3-25025-232-1700->新潟県新潟市中央区有明大橋町3-25, 025-232-1700",
+        "page": 8,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/新潟県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:13 col:4 value:",
-        "page": 7,
+        "message": "郵便番号の形式ではありません index:13 col:2 value:950-087",
+        "page": 9,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/新潟県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:4 col:2 value:",
-        "page": 13,
+        "message": "郵便番号の形式ではありません index:8 col:2 value:94-6772",
+        "page": 26,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/新潟県.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:13 col:2 value:",
-        "page": 13,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/新潟県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:11 col:2 value:94-6772",
-        "page": 18,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/新潟県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:7 col:4 value:",
-        "page": 19,
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 29,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/新潟県.pdf"
     }
 ]

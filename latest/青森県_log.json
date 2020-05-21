@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "kind": "warn",
+        "message": "郵便番号の形式ではありません index:10 col:2 value:039-116",
+        "page": 8,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/青森県.pdf"
+    }
+]

@@ -1,20 +1,20 @@
 [
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:5 col:2 value:9118-8014",
-        "page": 7,
+        "message": "郵便番号の形式ではありません index:4 col:2 value:9118-8014",
+        "page": 4,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/福井県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:4 col:4 value:",
-        "page": 10,
+        "message": "値が存在しません. index:12 col:4 value:",
+        "page": 5,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/福井県.pdf"
     },
     {
         "kind": "info",
         "message": "telが空のためurlから値を取得しました. url:0776-28-1550http://www.okumura-seikei.ecnet.jp/->0776-28-1550, http://www.okumura-seikei.ecnet.jp/",
-        "page": 10,
+        "page": 5,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/福井県.pdf"
     }
 ]
