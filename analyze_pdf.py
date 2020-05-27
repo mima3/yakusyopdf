@@ -254,7 +254,7 @@ def setup_rule():
     rules['石川県'] = copy.deepcopy(DEFAULT_RULE)
     rules['石川県']['other_page_offset'] = 2
     rules['福井県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['福井県']['other_page_offset'] = 2
+    rules['福井県']['other_page_offset'] = 0
     rules['長野県'] = copy.deepcopy(DEFAULT_RULE)
     rules['長野県']['other_page_offset'] = 2
     rules['岐阜県'] = copy.deepcopy(DEFAULT_RULE)
@@ -294,7 +294,7 @@ def setup_rule():
     rules['茨城県'] = copy.deepcopy(DEFAULT_RULE)
     rules['茨城県']['other_page_offset'] = 2
     rules['群馬県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['群馬県']['other_page_offset'] = 2
+    rules['群馬県']['other_page_offset'] = 0
     rules['京都府'] = copy.deepcopy(DEFAULT_RULE)
     rules['京都府']['other_page_offset'] = 2
     rules['宮崎県'] = copy.deepcopy(DEFAULT_RULE)
@@ -304,7 +304,7 @@ def setup_rule():
     rules['福島県'] = copy.deepcopy(DEFAULT_RULE)
     rules['福島県']['other_page_offset'] = 2
     rules['千葉県'] = copy.deepcopy(DEFAULT_RULE)
-    rules['千葉県']['other_page_offset'] = 2
+    rules['千葉県']['other_page_offset'] = 0
     rules['佐賀県'] = copy.deepcopy(DEFAULT_RULE)
     rules['佐賀県']['other_page_offset'] = 2
     

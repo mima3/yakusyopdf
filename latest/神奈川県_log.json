@@ -1,146 +1,32 @@
 [
     {
         "kind": "warn",
-        "message": "値が存在しません. index:17 col:3 value:",
-        "page": 36,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:044-862-8741https://peraichi.com/landing_pages/view/2tse4〇(受診歴のある方)->044-862-8741, https://peraichi.com/landing_pages/view/2tse4〇(受診歴のある方)",
-        "page": 36,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:18 col:3 value:",
-        "page": 36,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
         "message": "値が存在しません. index:15 col:3 value:",
-        "page": 37,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:044-337-7880http://park14.wakwak.com/~clinic.hamada/->044-337-7880, http://park14.wakwak.com/~clinic.hamada/",
-        "page": 37,
+        "page": 44,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
     },
     {
         "kind": "warn",
         "message": "値が存在しません. index:16 col:3 value:",
-        "page": 37,
+        "page": 47,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:7 col:3 value:",
-        "page": 40,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:044-555-7068https://www.kawasaki-kobayashi-clinic.com->044-555-7068, https://www.kawasaki-kobayashi-clinic.com",
-        "page": 40,
+        "message": "郵便番号の形式ではありません index:12 col:1 value:250--875",
+        "page": 53,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:8 col:3 value:",
-        "page": 40,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:5 col:3 value:",
-        "page": 42,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:044-722-9048https://www.taguchi-pediatric-clinic.com/->044-722-9048, https://www.taguchi-pediatric-clinic.com/",
-        "page": 42,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:6 col:3 value:",
-        "page": 42,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:24 col:3 value:",
-        "page": 44,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためaddressから値を取得しました. address:神奈川県相模原市緑区大山町１丁目 22Ario橋本１階042-812-5949->神奈川県相模原市緑区大山町１丁目 22Ario橋本１階, 042-812-5949",
-        "page": 44,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:13 col:1 value:",
-        "page": 50,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:15 col:1 value:",
-        "page": 50,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:15 col:3 value:",
-        "page": 50,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:5 col:3 value:",
-        "page": 51,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:21 col:3 value:",
-        "page": 55,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:12 col:1 value:254-044",
-        "page": 58,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:3 col:1 value:250--875",
-        "page": 63,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:9 col:1 value:250-",
-        "page": 64,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:9 col:1 value:",
-        "page": 66,
+        "message": "郵便番号の形式ではありません index:14 col:1 value:250-",
+        "page": 54,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
     },
     {
         "kind": "warn",
         "message": "郵便番号の形式ではありません index:12 col:1 value:",
-        "page": 66,
+        "page": 56,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf"
     }
 ]

@@ -1,62 +1,32 @@
 [
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:2 col:2 value:104-042",
-        "page": 15,
+        "message": "郵便番号の形式ではありません index:6 col:2 value:104-042",
+        "page": 6,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:13 col:2 value:03-5148-3921",
-        "page": 15,
+        "message": "郵便番号の形式ではありません index:9 col:2 value:03-3435-5707",
+        "page": 10,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:4 col:2 value:03-5803-7887",
-        "page": 36,
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
+        "page": 31,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:17 col:2 value:",
-        "page": 39,
+        "message": "郵便番号の形式ではありません index:11 col:2 value:03-3386-6500",
+        "page": 35,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:15 col:2 value:03-3718-9907",
-        "page": 58,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:17 col:2 value:",
-        "page": 61,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:3 col:2 value:03-3386-6500",
-        "page": 70,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:7 col:2 value:1;93-0835",
-        "page": 108,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:9 col:2 value:181-00013",
-        "page": 116,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "郵便番号の形式ではありません index:10 col:2 value:187-00025",
-        "page": 126,
+        "message": "郵便番号の形式ではありません index:14 col:2 value:187-00025",
+        "page": 60,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf"
     }
 ]

@@ -1,67 +1,37 @@
 [
     {
         "kind": "warn",
-        "message": "値が存在しません. index:7 col:4 value:",
-        "page": 9,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:082-263-4133http:/www.danbara-jibika.sakura.ne.jp/->082-263-4133, http:/www.danbara-jibika.sakura.ne.jp/",
-        "page": 9,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:10 col:4 value:",
-        "page": 12,
+        "message": "値が存在しません. index:12 col:4 value:",
+        "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
     },
     {
         "kind": "info",
         "message": "telが空のためurlから値を取得しました. url:082-879-1111www.hiroshimairyo.or.jp/outline/template.html->082-879-1111, www.hiroshimairyo.or.jp/outline/template.html",
-        "page": 12,
+        "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:11 col:4 value:",
-        "page": 12,
+        "message": "値が存在しません. index:13 col:4 value:",
+        "page": 13,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:14 col:4 value:",
-        "page": 12,
+        "message": "値が存在しません. index:2 col:4 value:",
+        "page": 14,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
     },
     {
         "kind": "info",
         "message": "telが空のためurlから値を取得しました. url:082-554-1447https://www.tanabe-kasugano-clinic.com->082-554-1447, https://www.tanabe-kasugano-clinic.com",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:15 col:4 value:",
-        "page": 12,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:11 col:4 value:",
-        "page": 14,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:082-810-0188https://keiseikai-nmn.net/wp3/ninomiya/->082-810-0188, https://keiseikai-nmn.net/wp3/ninomiya/",
         "page": 14,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:12 col:4 value:",
+        "message": "値が存在しません. index:3 col:4 value:",
         "page": 14,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/広島県.pdf"
     }

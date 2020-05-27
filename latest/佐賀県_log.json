@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:4",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/佐賀県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:5",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/佐賀県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:6",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/佐賀県.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "空行のため処理をスキップします:7",
+        "page": 10,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/佐賀県.pdf"
+    }
+]
