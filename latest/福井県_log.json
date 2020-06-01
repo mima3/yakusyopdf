@@ -1,13 +1,13 @@
 [
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:18 col:2 value:9118-8014",
+        "message": "郵便番号の形式ではありません index:19 col:2 value:9118-8014",
         "page": 3,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/福井県.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:5 col:4 value:",
+        "message": "値が存在しません. index:9 col:4 value:",
         "page": 5,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/福井県.pdf"
     },

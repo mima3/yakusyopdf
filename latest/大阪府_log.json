@@ -7,7 +7,7 @@
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:17 col:4 value:",
+        "message": "値が存在しません. index:5 col:4 value:",
         "page": 2,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
@@ -19,104 +19,104 @@
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:8 col:4 value:",
-        "page": 4,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
-    },
-    {
-        "kind": "warn",
         "message": "値が存在しません. index:14 col:4 value:",
-        "page": 7,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためaddressから値を取得しました. address:大阪府大阪狭山市茱萸木4-372-10メディカルスクエアくみの木３階072-368-4112->大阪府大阪狭山市茱萸木4-372-10メディカルスクエアくみの木３階, 072-368-4112",
-        "page": 7,
+        "page": 3,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:8 col:4 value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためaddressから値を取得しました. address:大阪府泉佐野市りんくう往来北1番りんくうゲートタワービル17階072-463-7003->大阪府泉佐野市りんくう往来北1番りんくうゲートタワービル17階, 072-463-7003",
-        "page": 10,
+        "message": "郵便番号の形式ではありません index:14 col:2 value:586-077",
+        "page": 8,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:5 col:4 value:",
+        "message": "値が存在しません. index:6 col:4 value:",
+        "page": 11,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:072-480-5618https://saiseikaisennan.jp/hospital/index.html->072-480-5618, https://saiseikaisennan.jp/hospital/index.html",
         "page": 11,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:10 col:2 value:534-021",
-        "page": 16,
+        "message": "値が存在しません. index:10 col:4 value:",
+        "page": 12,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:39 col:2 value:",
-        "page": 18,
+        "message": "郵便番号の形式ではありません index:23 col:2 value:534-021",
+        "page": 17,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:15 col:4 value:",
+        "message": "郵便番号の形式ではありません index:31 col:2 value:",
         "page": 20,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:5 col:4 value:",
+        "page": 23,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:072-262-5073http://cgi1.plala.or.jp/~kema/clinic/index.cgi->072-262-5073, http://cgi1.plala.or.jp/~kema/clinic/index.cgi",
-        "page": 20,
+        "message": "telが空のためaddressから値を取得しました. address:大阪府堺市北区中百舌鳥町２丁３９番地クリスタルなかもず３階 072-251-2663->大阪府堺市北区中百舌鳥町２丁３９番地クリスタルなかもず３階 , 072-251-2663",
+        "page": 23,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:16 col:4 value:",
-        "page": 20,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:7 col:4 value:",
-        "page": 26,
+        "message": "郵便番号の形式ではありません index:5 col:2 value:",
+        "page": 28,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:0720851-3434http://www3.ic-net.or.jp/~matsuoclin/index.html->0720851-3434, http://www3.ic-net.or.jp/~matsuoclin/index.html",
-        "page": 26,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:8 col:4 value:",
-        "page": 26,
+        "message": "postal_codeが空のためnameから値を取得しました. name:医療法人聖佑会おおしま眼科クリニック569-0055->医療法人聖佑会おおしま眼科クリニック, 569-0055",
+        "page": 28,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "warn",
         "message": "値が存在しません. index:10 col:4 value:",
-        "page": 27,
+        "page": 30,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "info",
-        "message": "telが空のためurlから値を取得しました. url:072−991−6586https://www.reference.co.jp/matsuo/index.html->072, −991−6586https://www.reference.co.jp/matsuo/index.html",
-        "page": 27,
+        "message": "telが空のためurlから値を取得しました. url:0720851-3434http://www3.ic-net.or.jp/~matsuoclin/index.html->0720851-3434, http://www3.ic-net.or.jp/~matsuoclin/index.html",
+        "page": 30,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     },
     {
         "kind": "warn",
         "message": "値が存在しません. index:11 col:4 value:",
-        "page": 27,
+        "page": 30,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:29 col:4 value:",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "info",
+        "message": "telが空のためurlから値を取得しました. url:072−991−6586https://www.reference.co.jp/matsuo/index.html->072, −991−6586https://www.reference.co.jp/matsuo/index.html",
+        "page": 31,
+        "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
+    },
+    {
+        "kind": "warn",
+        "message": "値が存在しません. index:30 col:4 value:",
+        "page": 31,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf"
     }
 ]

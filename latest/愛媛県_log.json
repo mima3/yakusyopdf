@@ -19,7 +19,7 @@
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:10 col:2 value:",
+        "message": "郵便番号の形式ではありません index:9 col:2 value:",
         "page": 7,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
     },
@@ -31,7 +31,7 @@
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:12 col:2 value:",
+        "message": "郵便番号の形式ではありません index:11 col:2 value:",
         "page": 7,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
     },
@@ -43,7 +43,7 @@
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:14 col:2 value:",
+        "message": "郵便番号の形式ではありません index:13 col:2 value:",
         "page": 7,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
     },
@@ -55,7 +55,7 @@
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:17 col:2 value:",
+        "message": "郵便番号の形式ではありません index:16 col:2 value:",
         "page": 7,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
     },
@@ -67,7 +67,7 @@
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:22 col:2 value:",
+        "message": "郵便番号の形式ではありません index:21 col:2 value:",
         "page": 7,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
     },
@@ -79,7 +79,7 @@
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:5 col:2 value:",
+        "message": "郵便番号の形式ではありません index:2 col:2 value:",
         "page": 9,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
     },
@@ -91,26 +91,14 @@
     },
     {
         "kind": "warn",
-        "message": "値が存在しません. index:6 col:4 value:",
-        "page": 10,
+        "message": "値が存在しません. index:26 col:4 value:",
+        "page": 9,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
     },
     {
         "kind": "info",
         "message": "telが空のためaddressから値を取得しました. address:愛媛県松山市東長戸１－１０－１８089-922-5522->愛媛県松山市東長戸１－１０－１８, 089-922-5522",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
-    },
-    {
-        "kind": "warn",
-        "message": "値が存在しません. index:7 col:4 value:",
-        "page": 10,
-        "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
-    },
-    {
-        "kind": "info",
-        "message": "telが空のためaddressから値を取得しました. address:愛媛県松山市鴨川１－２－１１089-925-5345->愛媛県松山市鴨川１－２－１１, 089-925-5345",
-        "page": 10,
+        "page": 9,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf"
     }
 ]

@@ -61,8 +61,8 @@
     },
     {
         "kind": "warn",
-        "message": "郵便番号の形式ではありません index:15 col:2 value:861-41579",
-        "page": 13,
+        "message": "郵便番号の形式ではありません index:13 col:2 value:861-41579",
+        "page": 14,
         "path": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf"
     }
 ]

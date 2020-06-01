@@ -1,5 +1,5 @@
 {
-    "download_time": "2020-05-28 09:26:52.673736",
+    "download_time": "2020-06-01 11:09:55.925680",
     "list": [
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/北海道.pdf",
@@ -64,7 +64,7 @@
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf",
             "name": "東京都",
-            "url": "https://www.mhlw.go.jp/content/000633796.pdf"
+            "url": "https://www.mhlw.go.jp/content/000635226.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/神奈川県.pdf",
@@ -89,12 +89,12 @@
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/福井県.pdf",
             "name": "福井県",
-            "url": "https://www.mhlw.go.jp/content/000633798.pdf"
+            "url": "https://www.mhlw.go.jp/content/000635227.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/山梨県.pdf",
             "name": "山梨県",
-            "url": "https://www.mhlw.go.jp/content/000632162.pdf"
+            "url": "https://www.mhlw.go.jp/content/000635234.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/長野県.pdf",
@@ -134,7 +134,7 @@
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf",
             "name": "大阪府",
-            "url": "https://www.mhlw.go.jp/content/000630066.pdf"
+            "url": "https://www.mhlw.go.jp/content/000635236.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/兵庫県.pdf",
@@ -189,7 +189,7 @@
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf",
             "name": "愛媛県",
-            "url": "https://www.mhlw.go.jp/content/000625070.pdf"
+            "url": "https://www.mhlw.go.jp/content/000635240.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/高知県.pdf",
@@ -214,7 +214,7 @@
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf",
             "name": "熊本県",
-            "url": "https://www.mhlw.go.jp/content/000633808.pdf"
+            "url": "https://www.mhlw.go.jp/content/000635242.pdf"
         },
         {
             "local": "C:\\dev\\python3\\yakusyopdf/latest/大分県.pdf",
