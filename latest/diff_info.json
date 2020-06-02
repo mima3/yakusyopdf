@@ -1,36 +1,5 @@
 {
-    "latest_download_time": "2020-05-29 09:26:09.280498",
-    "list": [
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/latest/東京都.pdf",
-            "name": "東京都",
-            "url": "https://www.mhlw.go.jp/content/000633796.pdf"
-        },
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/latest/福井県.pdf",
-            "name": "福井県",
-            "url": "https://www.mhlw.go.jp/content/000633798.pdf"
-        },
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/latest/山梨県.pdf",
-            "name": "山梨県",
-            "url": "https://www.mhlw.go.jp/content/000632162.pdf"
-        },
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/latest/大阪府.pdf",
-            "name": "大阪府",
-            "url": "https://www.mhlw.go.jp/content/000630066.pdf"
-        },
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/latest/愛媛県.pdf",
-            "name": "愛媛県",
-            "url": "https://www.mhlw.go.jp/content/000625070.pdf"
-        },
-        {
-            "local": "C:\\dev\\python3\\yakusyopdf/latest/熊本県.pdf",
-            "name": "熊本県",
-            "url": "https://www.mhlw.go.jp/content/000633808.pdf"
-        }
-    ],
-    "today_download_time": "2020-06-01 11:09:55.925680"
+    "latest_download_time": "2020-06-01 11:09:55.925680",
+    "list": [],
+    "today_download_time": "2020-06-02 09:46:25.914955"
 }
